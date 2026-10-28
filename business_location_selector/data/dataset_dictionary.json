@@ -1,0 +1,102 @@
+{
+    "dataset_name": "AI-Based Business Location Selector Synthetic Benchmark",
+    "study_area": "Bhopal Metropolitan Area, Madhya Pradesh, India",
+    "sample_size": 1200,
+    "data_integrity_notice": "This is a documented synthetic dataset crafted for academic and prototyping purposes. It captures multi-factor spatial, financial, and competitive dynamics of commercial retail.",
+    "features": {
+        "location_id": {
+            "type": "string",
+            "description": "Unique candidate location identifier"
+        },
+        "location_name": {
+            "type": "string",
+            "description": "Candidate micro-location name"
+        },
+        "neighborhood": {
+            "type": "string",
+            "description": "Bhopal neighborhood/district"
+        },
+        "city": {
+            "type": "string",
+            "description": "Urban study center (Bhopal)"
+        },
+        "latitude": {
+            "type": "float",
+            "description": "Geographic latitude coordinate (WGS84)"
+        },
+        "longitude": {
+            "type": "float",
+            "description": "Geographic longitude coordinate (WGS84)"
+        },
+        "business_type": {
+            "type": "categorical",
+            "description": "Type of prospective commercial enterprise (Cafe, Pharmacy, etc.)"
+        },
+        "monthly_rent": {
+            "type": "integer",
+            "unit": "INR",
+            "description": "Expected monthly property rental lease expense"
+        },
+        "population": {
+            "type": "integer",
+            "description": "Estimated catchment population within 2km radius"
+        },
+        "competitor_count": {
+            "type": "integer",
+            "description": "Count of existing competing businesses in immediate vicinity"
+        },
+        "daily_footfall": {
+            "type": "integer",
+            "unit": "pedestrians/day",
+            "description": "Estimated average daily pedestrian count"
+        },
+        "accessibility_score": {
+            "type": "float",
+            "range": "1.0 - 10.0",
+            "description": "Road connectivity and pedestrian ease"
+        },
+        "parking_score": {
+            "type": "float",
+            "range": "1.0 - 10.0",
+            "description": "Availability and convenience of vehicle parking"
+        },
+        "public_transport_score": {
+            "type": "float",
+            "range": "1.0 - 10.0",
+            "description": "Proximity to bus stops, metro stations, auto stands"
+        },
+        "income_level": {
+            "type": "categorical",
+            "values": [
+                "Low",
+                "Medium",
+                "High"
+            ],
+            "description": "Catchment area consumer purchasing power"
+        },
+        "nearby_facilities": {
+            "type": "string",
+            "description": "Surrounding generator anchors (Colleges, Offices, Hospitals, etc.)"
+        },
+        "target_demand": {
+            "type": "integer",
+            "unit": "customers/day",
+            "description": "Observed/modeled daily customer transaction volume (Target for Regression)"
+        },
+        "monthly_sales": {
+            "type": "integer",
+            "unit": "INR/month",
+            "description": "Estimated monthly gross revenue"
+        },
+        "business_potential": {
+            "type": "categorical",
+            "values": [
+                "Excellent",
+                "Good",
+                "Average",
+                "Poor"
+            ],
+            "description": "Viability classification tier"
+        }
+    }
+}

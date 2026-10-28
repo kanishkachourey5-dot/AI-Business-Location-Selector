@@ -1,0 +1,153 @@
+{
+    "project_title": "AI-Based Business Location Selector Using Machine Learning, Clustering, and Multi-Criteria Decision Analysis",
+    "regression_model_comparison": {
+        "Linear Regression (Baseline)": {
+            "MAE": 21.06,
+            "RMSE": 28.31,
+            "R2": 0.7658,
+            "CV_R2_Mean": 0.7668,
+            "CV_R2_Std": 0.0252
+        },
+        "Decision Tree Regressor": {
+            "MAE": 27.4,
+            "RMSE": 38.65,
+            "R2": 0.5634,
+            "CV_R2_Mean": 0.5258,
+            "CV_R2_Std": 0.0929
+        },
+        "Random Forest Regressor": {
+            "MAE": 21.09,
+            "RMSE": 29.99,
+            "R2": 0.7371,
+            "CV_R2_Mean": 0.751,
+            "CV_R2_Std": 0.0282
+        }
+    },
+    "top_feature_importances": [
+        {
+            "feature": "daily_footfall",
+            "importance": 0.4258
+        },
+        {
+            "feature": "business_type_Co-Working Space",
+            "importance": 0.1792
+        },
+        {
+            "feature": "population",
+            "importance": 0.1154
+        },
+        {
+            "feature": "access_composite",
+            "importance": 0.0992
+        },
+        {
+            "feature": "accessibility_score",
+            "importance": 0.0347
+        },
+        {
+            "feature": "business_type_Quick Service Restaurant",
+            "importance": 0.0338
+        },
+        {
+            "feature": "competitor_density",
+            "importance": 0.0155
+        },
+        {
+            "feature": "public_transport_score",
+            "importance": 0.0152
+        },
+        {
+            "feature": "parking_score",
+            "importance": 0.014
+        },
+        {
+            "feature": "rent_to_footfall",
+            "importance": 0.0139
+        }
+    ],
+    "clustering_evaluation": {
+        "optimal_k": 4,
+        "k_range": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "inertias": [
+            5212.66,
+            4523.71,
+            3944.01,
+            3607.94,
+            3326.61,
+            3105.97
+        ],
+        "silhouette_scores": [
+            0.256,
+            0.2253,
+            0.2043,
+            0.171,
+            0.1686,
+            0.1675
+        ],
+        "cluster_features": [
+            "monthly_rent",
+            "daily_footfall",
+            "population",
+            "target_demand",
+            "accessibility_score",
+            "competitor_count"
+        ],
+        "cluster_profiles": {
+            "Cluster_0": {
+                "cluster_id": 0,
+                "label_name": "Affordable / Emerging Market",
+                "description": "Cost-effective suburban and developing nodes with favorable rental affordability and rising potential.",
+                "count": 422,
+                "pct_of_total": 35.2,
+                "avg_monthly_rent": 31627,
+                "avg_daily_footfall": 2609,
+                "avg_target_demand": 84,
+                "avg_competitor_count": 2.1,
+                "avg_accessibility": 7.0
+            },
+            "Cluster_1": {
+                "cluster_id": 1,
+                "label_name": "Prime Commercial Hub",
+                "description": "High-rent central commercial district with bustling pedestrian activity and corporate/lifestyle appeal.",
+                "count": 412,
+                "pct_of_total": 34.3,
+                "avg_monthly_rent": 60227,
+                "avg_daily_footfall": 4668,
+                "avg_target_demand": 125,
+                "avg_competitor_count": 3.4,
+                "avg_accessibility": 6.9
+            },
+            "Cluster_2": {
+                "cluster_id": 2,
+                "label_name": "Balanced Residential Catchment",
+                "description": "Moderate rent neighborhood hubs with steady residential footfall and balanced competitive dynamics.",
+                "count": 161,
+                "pct_of_total": 13.4,
+                "avg_monthly_rent": 40599,
+                "avg_daily_footfall": 3024,
+                "avg_target_demand": 153,
+                "avg_competitor_count": 2.8,
+                "avg_accessibility": 7.5
+            },
+            "Cluster_3": {
+                "cluster_id": 3,
+                "label_name": "High-Competition Retail Core",
+                "description": "Mature commercial strips with high business density, strong retail gravity, and proven pedestrian traffic.",
+                "count": 205,
+                "pct_of_total": 17.1,
+                "avg_monthly_rent": 58186,
+                "avg_daily_footfall": 6264,
+                "avg_target_demand": 205,
+                "avg_competitor_count": 8.1,
+                "avg_accessibility": 7.8
+            }
+        }
+    }
+}

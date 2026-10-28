@@ -1,0 +1,1201 @@
+location_id,location_name,neighborhood,city,latitude,longitude,business_type,monthly_rent,population,competitor_count,daily_footfall,accessibility_score,parking_score,public_transport_score,income_level,nearby_facilities,target_demand,monthly_sales,business_potential
+LOC_0001,Kolar Road #2,Kolar Road,Bhopal,23.175108,77.422116,Clothing Store,33600,52433,4,2791,6.4,5.1,6.2,Medium,"Residential, Hospitals",97,4074000,Good
+LOC_0002,New Market #3,New Market,Bhopal,23.238279,77.397772,Quick Service Restaurant,74700,15728,7,7018,6.3,9.4,7.5,High,"Transit Hub, Retail Market",257,2467200,Excellent
+LOC_0003,Chunabhatti #4,Chunabhatti,Bhopal,23.205444,77.411399,Pharmacy,29300,56305,3,2580,10.0,6.6,9.8,Medium,"Offices, Colleges",185,3052500,Excellent
+LOC_0004,MP Nagar Zone 1 #5,MP Nagar Zone 1,Bhopal,23.232236,77.432227,Clothing Store,54400,24195,9,7077,7.5,7.2,6.2,High,"Hospitals, Transit Hub",208,8736000,Excellent
+LOC_0005,New Market #6,New Market,Bhopal,23.239544,77.401516,Cafe,75900,26847,7,6213,5.9,5.8,6.1,Medium,"Residential, Schools",131,1021800,Excellent
+LOC_0006,MP Nagar Zone 2 #7,MP Nagar Zone 2,Bhopal,23.229744,77.436255,Pharmacy,70100,22166,1,5132,9.3,6.4,7.1,Medium,"Shopping Mall, High Street",146,2409000,Excellent
+LOC_0007,Ayodhya Bypass #8,Ayodhya Bypass,Bhopal,23.268954,77.456227,Cafe,16800,64922,0,1365,8.6,4.9,6.8,Low,"Shopping Mall, High Street",92,717600,Good
+LOC_0008,Ashoka Garden #9,Ashoka Garden,Bhopal,23.254739,77.431935,Clothing Store,18200,22790,3,2266,7.4,5.3,6.6,Low,"Metro Station, Offices",67,2814000,Average
+LOC_0009,Arera Colony E-3 #10,Arera Colony E-3,Bhopal,23.209373,77.424661,Grocery Store,53600,61305,1,2772,7.5,7.0,8.3,High,"Residential, Hospitals",242,5445000,Excellent
+LOC_0010,Malviya Nagar #11,Malviya Nagar,Bhopal,23.242058,77.405573,Pharmacy,52600,13076,4,4195,5.8,8.9,6.4,Medium,"Offices, Colleges",79,1303500,Good
+LOC_0011,MP Nagar Zone 2 #12,MP Nagar Zone 2,Bhopal,23.23241,77.437236,Cafe,45100,11793,5,5351,7.6,6.6,8.0,Low,"Residential, Hospitals",150,1170000,Excellent
+LOC_0012,New Market #13,New Market,Bhopal,23.231629,77.404371,Quick Service Restaurant,58000,14809,6,5634,8.4,8.4,8.1,High,"Offices, Transit Hub",312,2995200,Excellent
+LOC_0013,MP Nagar Zone 1 #14,MP Nagar Zone 1,Bhopal,23.236175,77.43138,Clothing Store,64900,10669,18,7290,7.8,2.9,7.2,High,"Residential, Hospitals",107,4494000,Good
+LOC_0014,MP Nagar Zone 1 #15,MP Nagar Zone 1,Bhopal,23.231111,77.430749,Grocery Store,50400,21434,10,5966,5.9,6.4,7.6,High,"Shopping Mall, High Street",96,2160000,Good
+LOC_0015,MP Nagar Zone 1 #16,MP Nagar Zone 1,Bhopal,23.234013,77.430617,Co-Working Space,51500,10972,3,5699,5.9,6.0,6.8,Low,"Metro Station, Offices",77,10395000,Good
+LOC_0016,Bittan Market #17,Bittan Market,Bhopal,23.212919,77.427106,Cafe,68400,19622,4,5793,6.6,6.9,9.8,High,"Residential, Hospitals",182,1419600,Excellent
+LOC_0017,Bittan Market #18,Bittan Market,Bhopal,23.216799,77.434815,Pharmacy,56400,17612,5,5563,4.8,7.8,9.3,Medium,"Residential, Hospitals",122,2013000,Excellent
+LOC_0018,Karond #19,Karond,Bhopal,23.304552,77.407468,Quick Service Restaurant,19600,9004,4,1713,9.5,8.5,7.3,Low,"Residential, Schools",70,672000,Average
+LOC_0019,MP Nagar Zone 2 #20,MP Nagar Zone 2,Bhopal,23.232704,77.437742,Cafe,64300,30227,4,3707,7.5,7.0,8.2,Medium,"Offices, Transit Hub",165,1287000,Excellent
+LOC_0020,10 Number Market #21,10 Number Market,Bhopal,23.216495,77.426097,Pharmacy,62300,15593,2,5715,8.6,8.7,8.0,High,"Residential, Hospitals",194,3201000,Excellent
+LOC_0021,10 Number Market #22,10 Number Market,Bhopal,23.211743,77.418728,Grocery Store,59800,31833,6,8318,6.5,5.4,7.9,High,"Offices, Residential",241,5422500,Excellent
+LOC_0022,Ashoka Garden #23,Ashoka Garden,Bhopal,23.254544,77.429014,Grocery Store,25900,37943,6,2386,5.0,6.6,10.0,Low,"Transit Hub, Retail Market",116,2610000,Good
+LOC_0023,MP Nagar Zone 2 #24,MP Nagar Zone 2,Bhopal,23.225964,77.434777,Quick Service Restaurant,69100,21993,6,4464,7.9,6.4,8.7,Medium,"Offices, Transit Hub",193,1852800,Excellent
+LOC_0024,Hoshangabad Road #25,Hoshangabad Road,Bhopal,23.194831,77.449941,Quick Service Restaurant,70200,12858,8,5837,6.4,1.7,7.6,High,"Offices, Residential",158,1516800,Excellent
+LOC_0025,Platinum Plaza #26,Platinum Plaza,Bhopal,23.235544,77.395615,Cafe,80600,15105,3,3970,6.3,5.5,6.5,Medium,"Colleges, Food Court",131,1021800,Excellent
+LOC_0026,MP Nagar Zone 1 #27,MP Nagar Zone 1,Bhopal,23.239767,77.432,Quick Service Restaurant,76400,26910,11,7286,8.3,5.9,7.4,High,"Offices, Colleges",265,2544000,Excellent
+LOC_0027,Bittan Market #28,Bittan Market,Bhopal,23.219518,77.429164,Quick Service Restaurant,55100,25658,4,3978,7.0,6.3,8.2,High,"Offices, Transit Hub",219,2102400,Excellent
+LOC_0028,Platinum Plaza #29,Platinum Plaza,Bhopal,23.23768,77.397029,Clothing Store,93300,34968,7,3748,8.9,7.0,7.8,High,"Residential, Schools",172,7224000,Excellent
+LOC_0029,Gulmohar Colony #30,Gulmohar Colony,Bhopal,23.20439,77.43426,Grocery Store,58500,33040,2,2570,6.5,4.0,6.7,High,"Metro Station, Offices",80,1800000,Good
+LOC_0030,Arera Colony E-3 #31,Arera Colony E-3,Bhopal,23.215964,77.426781,Cafe,64500,23595,2,3110,6.4,4.7,7.4,High,"Offices, Residential",99,772200,Good
+LOC_0031,Bairagarh #32,Bairagarh,Bhopal,23.279429,77.352907,Cafe,39100,13090,6,6239,6.0,6.1,7.9,Low,"Residential, Hospitals",150,1170000,Excellent
+LOC_0032,Bairagarh #33,Bairagarh,Bhopal,23.28239,77.345552,Clothing Store,34800,10518,11,6268,6.1,3.5,6.6,Medium,"Metro Station, Offices",104,4368000,Good
+LOC_0033,Ashoka Garden #34,Ashoka Garden,Bhopal,23.250047,77.434084,Pharmacy,16300,34700,0,2506,5.3,8.2,7.4,Medium,"Hospitals, Transit Hub",75,1237500,Good
+LOC_0034,Arera Colony E-3 #35,Arera Colony E-3,Bhopal,23.216396,77.428366,Co-Working Space,54200,38485,2,2968,6.1,5.1,8.2,High,"Metro Station, Offices",89,12015000,Good
+LOC_0035,Arera Colony E-3 #36,Arera Colony E-3,Bhopal,23.216242,77.424148,Grocery Store,73300,38928,2,2668,7.4,7.5,7.5,High,"Colleges, Food Court",142,3195000,Excellent
+LOC_0036,MP Nagar Zone 1 #37,MP Nagar Zone 1,Bhopal,23.231181,77.438365,Quick Service Restaurant,57900,18365,10,5693,7.9,7.3,8.5,Medium,"Residential, Hospitals",182,1747200,Excellent
+LOC_0037,Lalghati #38,Lalghati,Bhopal,23.283041,77.380128,Pharmacy,44500,27818,3,4308,6.6,6.6,8.6,Medium,"Offices, Transit Hub",160,2640000,Excellent
+LOC_0038,Malviya Nagar #39,Malviya Nagar,Bhopal,23.239335,77.404464,Grocery Store,44800,28852,2,4711,9.8,6.0,8.7,Medium,"Colleges, Food Court",188,4230000,Excellent
+LOC_0039,Gulmohar Colony #40,Gulmohar Colony,Bhopal,23.201305,77.428684,Cafe,41300,14537,2,2530,10.0,4.3,10.0,High,"Shopping Mall, High Street",98,764400,Good
+LOC_0040,Bittan Market #41,Bittan Market,Bhopal,23.220483,77.422774,Clothing Store,76200,25983,8,5136,7.6,4.1,10.0,High,"Metro Station, Offices",173,7266000,Excellent
+LOC_0041,Malviya Nagar #42,Malviya Nagar,Bhopal,23.236804,77.409266,Quick Service Restaurant,55900,17116,4,2767,5.6,7.1,5.6,Low,"Shopping Mall, High Street",93,892800,Good
+LOC_0042,MP Nagar Zone 2 #43,MP Nagar Zone 2,Bhopal,23.231757,77.437442,Pharmacy,57600,16749,0,4887,6.9,6.7,5.8,Medium,"Metro Station, Offices",96,1584000,Good
+LOC_0043,Platinum Plaza #44,Platinum Plaza,Bhopal,23.239559,77.39905,Quick Service Restaurant,90200,10422,6,4199,8.9,5.1,6.2,High,"Hospitals, Transit Hub",145,1392000,Excellent
+LOC_0044,Malviya Nagar #45,Malviya Nagar,Bhopal,23.241453,77.401722,Pharmacy,62200,32922,1,2066,6.7,5.4,5.5,Low,"Offices, Transit Hub",84,1386000,Good
+LOC_0045,Kolar Road #46,Kolar Road,Bhopal,23.183278,77.41339,Quick Service Restaurant,27600,27268,12,5010,7.4,7.6,4.9,Medium,"Offices, Colleges",172,1651200,Excellent
+LOC_0046,Platinum Plaza #47,Platinum Plaza,Bhopal,23.233621,77.399795,Pharmacy,72600,29897,3,3642,6.7,5.9,6.8,High,"Hospitals, Transit Hub",144,2376000,Excellent
+LOC_0047,10 Number Market #48,10 Number Market,Bhopal,23.218996,77.423135,Pharmacy,51700,19051,4,9307,3.0,7.7,9.0,High,"Offices, Transit Hub",139,2293500,Excellent
+LOC_0048,10 Number Market #49,10 Number Market,Bhopal,23.219932,77.426602,Quick Service Restaurant,73800,22156,6,7540,9.7,7.9,4.9,High,"Hospitals, Transit Hub",309,2966400,Excellent
+LOC_0049,Shahpura #50,Shahpura,Bhopal,23.204584,77.423688,Clothing Store,37300,95000,2,3325,7.5,4.6,8.5,Medium,"Offices, Transit Hub",142,5964000,Excellent
+LOC_0050,Indrapuri BHEL #1,Indrapuri BHEL,Bhopal,23.258545,77.468339,Cafe,20400,27192,11,5679,6.0,6.0,7.1,High,"Offices, Transit Hub",143,1115400,Excellent
+LOC_0051,Chunabhatti #2,Chunabhatti,Bhopal,23.205865,77.412468,Grocery Store,37800,32137,1,2746,7.1,5.3,8.7,Medium,"Residential, Hospitals",110,2475000,Good
+LOC_0052,New Market #3,New Market,Bhopal,23.247997,77.392947,Quick Service Restaurant,86400,35637,6,4357,7.5,8.6,9.2,Medium,"Offices, Transit Hub",260,2496000,Excellent
+LOC_0053,New Market #4,New Market,Bhopal,23.236589,77.406733,Grocery Store,99000,17298,3,6764,9.4,8.9,6.8,Medium,"Colleges, Food Court",201,4522500,Excellent
+LOC_0054,10 Number Market #5,10 Number Market,Bhopal,23.21882,77.419253,Cafe,76400,18717,3,5073,10.0,4.9,9.1,Medium,"Residential, Hospitals",219,1708200,Excellent
+LOC_0055,TT Nagar #6,TT Nagar,Bhopal,23.239972,77.404002,Quick Service Restaurant,42500,24150,5,3953,8.1,6.5,5.4,High,"Offices, Residential",200,1920000,Excellent
+LOC_0056,Shahpura #7,Shahpura,Bhopal,23.207298,77.41662,Grocery Store,38100,35644,5,2583,8.6,6.2,10.0,Medium,"Offices, Residential",164,3690000,Excellent
+LOC_0057,Ayodhya Bypass #8,Ayodhya Bypass,Bhopal,23.273112,77.455797,Grocery Store,22800,18770,1,1783,8.0,5.1,8.4,Low,"Residential, Schools",83,1867500,Good
+LOC_0058,Hoshangabad Road #9,Hoshangabad Road,Bhopal,23.188376,77.450259,Pharmacy,86100,17683,2,5241,7.6,8.9,7.4,High,"Shopping Mall, High Street",140,2310000,Excellent
+LOC_0059,Platinum Plaza #10,Platinum Plaza,Bhopal,23.241758,77.395407,Clothing Store,65500,15114,2,5177,4.9,5.1,8.0,High,"Residential, Hospitals",126,5292000,Excellent
+LOC_0060,Arera Colony E-3 #11,Arera Colony E-3,Bhopal,23.209713,77.431545,Cafe,56100,48861,5,2495,6.1,7.4,8.1,High,"Offices, Transit Hub",133,1037400,Excellent
+LOC_0061,New Market #12,New Market,Bhopal,23.23402,77.406853,Cafe,69000,31269,8,8065,7.9,7.1,8.1,Low,"Shopping Mall, High Street",226,1762800,Excellent
+LOC_0062,MP Nagar Zone 2 #13,MP Nagar Zone 2,Bhopal,23.230394,77.44137,Grocery Store,54000,22808,2,4723,8.6,8.4,7.9,Medium,"Metro Station, Offices",161,3622500,Excellent
+LOC_0063,Ashoka Garden #14,Ashoka Garden,Bhopal,23.254227,77.432094,Cafe,27000,15466,3,2742,6.2,4.3,7.1,Low,"Offices, Colleges",85,663000,Good
+LOC_0064,Indrapuri BHEL #15,Indrapuri BHEL,Bhopal,23.253581,77.474444,Cafe,32100,28611,5,4786,8.8,5.1,9.3,Medium,"Offices, Residential",210,1638000,Excellent
+LOC_0065,Ayodhya Bypass #16,Ayodhya Bypass,Bhopal,23.268389,77.456147,Grocery Store,24400,31420,4,2974,7.1,4.4,8.6,Low,"Offices, Colleges",97,2182500,Good
+LOC_0066,Ashoka Garden #17,Ashoka Garden,Bhopal,23.256231,77.42771,Quick Service Restaurant,19100,38287,6,3568,9.7,5.3,9.0,Medium,"Offices, Colleges",210,2016000,Excellent
+LOC_0067,New Market #18,New Market,Bhopal,23.240129,77.402712,Pharmacy,63100,15288,4,7457,9.0,7.1,7.0,Medium,"Offices, Residential",215,3547500,Excellent
+LOC_0068,Bittan Market #19,Bittan Market,Bhopal,23.218467,77.427363,Cafe,63700,19628,5,5745,7.3,3.8,8.9,Low,"Colleges, Food Court",176,1372800,Excellent
+LOC_0069,Bairagarh #20,Bairagarh,Bhopal,23.284231,77.346622,Quick Service Restaurant,38500,40943,5,6229,8.8,5.2,7.6,Medium,"Colleges, Food Court",320,3072000,Excellent
+LOC_0070,Chunabhatti #21,Chunabhatti,Bhopal,23.199869,77.410317,Pharmacy,19500,18869,0,2443,4.0,6.6,6.0,Low,"Offices, Transit Hub",59,973500,Average
+LOC_0071,Gulmohar Colony #22,Gulmohar Colony,Bhopal,23.201968,77.429723,Clothing Store,57300,32778,3,2800,5.8,6.0,10.0,High,"Shopping Mall, High Street",108,4536000,Good
+LOC_0072,Karond #23,Karond,Bhopal,23.300339,77.417717,Co-Working Space,15900,22573,3,2001,7.1,6.7,7.9,Low,"Metro Station, Offices",53,7155000,Average
+LOC_0073,Malviya Nagar #24,Malviya Nagar,Bhopal,23.241765,77.40963,Co-Working Space,38200,13958,1,2679,8.9,8.5,9.7,Medium,"Offices, Colleges",62,8370000,Average
+LOC_0074,Chunabhatti #25,Chunabhatti,Bhopal,23.198369,77.412594,Co-Working Space,30600,54120,1,2942,3.8,4.9,7.6,Medium,"Colleges, Food Court",67,9045000,Average
+LOC_0075,MP Nagar Zone 2 #26,MP Nagar Zone 2,Bhopal,23.230975,77.42878,Quick Service Restaurant,68700,8343,7,5702,8.7,8.5,7.6,Medium,"Shopping Mall, High Street",189,1814400,Excellent
+LOC_0076,Bairagarh #27,Bairagarh,Bhopal,23.275555,77.339308,Clothing Store,45000,36654,12,7020,6.3,3.2,7.3,Medium,"Residential, Schools",142,5964000,Excellent
+LOC_0077,10 Number Market #28,10 Number Market,Bhopal,23.215121,77.422474,Pharmacy,62300,31711,3,4833,7.3,10.0,8.1,High,"Hospitals, Transit Hub",164,2706000,Excellent
+LOC_0078,Bittan Market #29,Bittan Market,Bhopal,23.217075,77.43181,Clothing Store,53900,41411,5,4252,7.6,4.7,10.0,High,"Residential, Schools",143,6006000,Excellent
+LOC_0079,Shahpura #30,Shahpura,Bhopal,23.21057,77.415267,Pharmacy,50400,18831,0,2592,10.0,9.2,6.9,High,"Residential, Hospitals",89,1468500,Good
+LOC_0080,Kolar Road #31,Kolar Road,Bhopal,23.18266,77.417147,Quick Service Restaurant,27900,27680,5,3060,6.1,6.2,6.6,Medium,"Residential, Schools",120,1152000,Excellent
+LOC_0081,Chunabhatti #32,Chunabhatti,Bhopal,23.196171,77.409799,Pharmacy,29800,37334,1,2253,7.8,4.9,8.2,High,"Offices, Colleges",77,1270500,Good
+LOC_0082,Malviya Nagar #33,Malviya Nagar,Bhopal,23.237252,77.415246,Co-Working Space,53300,50575,2,4128,7.5,5.5,7.7,Medium,"Offices, Transit Hub",117,15795000,Good
+LOC_0083,Ayodhya Bypass #34,Ayodhya Bypass,Bhopal,23.266622,77.453833,Pharmacy,22200,10500,1,1581,8.4,6.9,6.8,Low,"Offices, Colleges",46,759000,Average
+LOC_0084,New Market #35,New Market,Bhopal,23.238054,77.40379,Co-Working Space,77600,16328,6,7110,5.4,5.5,6.0,Medium,"Metro Station, Offices",96,12960000,Good
+LOC_0085,Lalghati #36,Lalghati,Bhopal,23.285004,77.377595,Quick Service Restaurant,37100,29810,2,3058,5.6,3.3,7.6,Medium,"Shopping Mall, High Street",83,796800,Good
+LOC_0086,TT Nagar #37,TT Nagar,Bhopal,23.234496,77.406172,Quick Service Restaurant,47900,11832,4,2952,5.2,6.6,7.4,Low,"Residential, Hospitals",71,681600,Average
+LOC_0087,Kolar Road #38,Kolar Road,Bhopal,23.184324,77.425719,Clothing Store,27800,25998,6,2782,6.4,7.8,8.1,Medium,"Metro Station, Offices",96,4032000,Good
+LOC_0088,TT Nagar #39,TT Nagar,Bhopal,23.231337,77.404088,Quick Service Restaurant,53500,11069,4,4681,7.2,7.1,7.7,Medium,"Offices, Transit Hub",174,1670400,Excellent
+LOC_0089,Hoshangabad Road #40,Hoshangabad Road,Bhopal,23.190198,77.442353,Grocery Store,78400,18393,2,4264,8.8,5.0,10.0,High,"Colleges, Food Court",135,3037500,Excellent
+LOC_0090,Hoshangabad Road #41,Hoshangabad Road,Bhopal,23.199591,77.442717,Grocery Store,58900,19033,2,6073,7.2,6.6,8.6,High,"Hospitals, Transit Hub",225,5062500,Excellent
+LOC_0091,Lalghati #42,Lalghati,Bhopal,23.288201,77.375701,Clothing Store,27600,24788,5,3908,8.3,7.9,6.4,Medium,"Transit Hub, Retail Market",153,6426000,Excellent
+LOC_0092,Gulmohar Colony #43,Gulmohar Colony,Bhopal,23.200815,77.431744,Quick Service Restaurant,38800,34488,0,1941,7.3,7.6,6.0,Medium,"Offices, Transit Hub",108,1036800,Good
+LOC_0093,Indrapuri BHEL #44,Indrapuri BHEL,Bhopal,23.253511,77.464547,Cafe,24000,17255,2,4491,7.0,6.0,10.0,Medium,"Residential, Schools",154,1201200,Excellent
+LOC_0094,Hoshangabad Road #45,Hoshangabad Road,Bhopal,23.192152,77.45111,Co-Working Space,70200,13199,4,5553,7.7,6.2,7.4,High,"Colleges, Food Court",82,11070000,Good
+LOC_0095,MP Nagar Zone 1 #46,MP Nagar Zone 1,Bhopal,23.235179,77.423837,Grocery Store,73800,23293,1,7060,8.2,5.9,5.8,High,"Offices, Colleges",157,3532500,Excellent
+LOC_0096,Gulmohar Colony #47,Gulmohar Colony,Bhopal,23.198827,77.432912,Pharmacy,35900,46678,0,3295,6.4,4.1,7.9,High,"Metro Station, Offices",136,2244000,Excellent
+LOC_0097,Chunabhatti #48,Chunabhatti,Bhopal,23.205708,77.415928,Cafe,39000,42328,3,2312,2.2,5.6,6.2,Medium,"Metro Station, Offices",52,405600,Average
+LOC_0098,Ayodhya Bypass #49,Ayodhya Bypass,Bhopal,23.276419,77.461432,Clothing Store,21000,40959,3,1832,6.9,5.5,7.2,Low,"Residential, Hospitals",68,2856000,Average
+LOC_0099,Ayodhya Bypass #50,Ayodhya Bypass,Bhopal,23.274437,77.461344,Clothing Store,22400,36116,0,1347,6.9,4.8,4.9,Low,"Offices, Residential",45,1890000,Average
+LOC_0100,10 Number Market #1,10 Number Market,Bhopal,23.220019,77.427274,Co-Working Space,75100,18267,1,4891,6.6,8.1,10.0,High,"Offices, Colleges",126,17010000,Excellent
+LOC_0101,Ayodhya Bypass #2,Ayodhya Bypass,Bhopal,23.265364,77.458596,Co-Working Space,26100,18499,1,1653,7.8,5.8,9.4,Low,"Residential, Schools",35,4725000,Average
+LOC_0102,Ashoka Garden #3,Ashoka Garden,Bhopal,23.251502,77.431649,Cafe,25000,24634,2,2372,6.9,6.8,8.8,Low,"Hospitals, Transit Hub",71,553800,Average
+LOC_0103,Shahpura #4,Shahpura,Bhopal,23.211686,77.427117,Clothing Store,34400,22583,6,2888,7.4,7.5,6.3,High,"Colleges, Food Court",141,5922000,Excellent
+LOC_0104,Bittan Market #5,Bittan Market,Bhopal,23.21511,77.430633,Cafe,59600,10482,6,6532,6.1,4.6,7.8,Medium,"Metro Station, Offices",213,1661400,Excellent
+LOC_0105,MP Nagar Zone 2 #6,MP Nagar Zone 2,Bhopal,23.227666,77.433738,Cafe,46300,25940,9,6524,6.8,7.8,6.5,Low,"Hospitals, Transit Hub",149,1162200,Excellent
+LOC_0106,Indrapuri BHEL #7,Indrapuri BHEL,Bhopal,23.25229,77.473285,Pharmacy,38600,14022,2,4306,5.3,4.4,9.3,Low,"Colleges, Food Court",76,1254000,Good
+LOC_0107,Malviya Nagar #8,Malviya Nagar,Bhopal,23.239396,77.405966,Grocery Store,60600,15309,5,5366,8.8,5.3,9.3,High,"Residential, Hospitals",233,5242500,Excellent
+LOC_0108,Hoshangabad Road #9,Hoshangabad Road,Bhopal,23.19564,77.450736,Quick Service Restaurant,68300,29878,7,4309,7.7,5.1,6.0,Low,"Shopping Mall, High Street",140,1344000,Excellent
+LOC_0109,MP Nagar Zone 2 #10,MP Nagar Zone 2,Bhopal,23.23218,77.433264,Pharmacy,61500,17771,3,4977,9.2,4.3,9.1,Medium,"Residential, Hospitals",151,2491500,Excellent
+LOC_0110,Karond #11,Karond,Bhopal,23.301647,77.409906,Quick Service Restaurant,25900,22096,4,2622,7.9,3.9,10.0,Medium,"Offices, Transit Hub",106,1017600,Good
+LOC_0111,MP Nagar Zone 2 #12,MP Nagar Zone 2,Bhopal,23.229874,77.435204,Grocery Store,61000,18032,4,5419,6.5,7.7,5.6,Medium,"Shopping Mall, High Street",136,3060000,Excellent
+LOC_0112,Ayodhya Bypass #13,Ayodhya Bypass,Bhopal,23.274336,77.461007,Pharmacy,23400,10712,2,1234,6.3,3.7,7.2,Low,"Transit Hub, Retail Market",35,577500,Average
+LOC_0113,TT Nagar #14,TT Nagar,Bhopal,23.233477,77.408627,Co-Working Space,51800,22703,2,5379,6.4,7.3,7.0,Low,"Offices, Residential",93,12555000,Good
+LOC_0114,Lalghati #15,Lalghati,Bhopal,23.282939,77.380295,Grocery Store,43300,17337,3,3641,8.0,10.0,6.8,Medium,"Shopping Mall, High Street",130,2925000,Excellent
+LOC_0115,Bittan Market #16,Bittan Market,Bhopal,23.225526,77.428705,Grocery Store,54500,20223,2,4607,7.6,6.0,8.7,Medium,"Colleges, Food Court",148,3330000,Excellent
+LOC_0116,Malviya Nagar #17,Malviya Nagar,Bhopal,23.245124,77.40816,Clothing Store,55600,26753,0,3236,6.9,3.0,8.8,Low,"Metro Station, Offices",82,3444000,Good
+LOC_0117,Hoshangabad Road #18,Hoshangabad Road,Bhopal,23.194229,77.440763,Grocery Store,67000,12178,0,4016,6.2,5.7,7.5,Medium,"Shopping Mall, High Street",79,1777500,Good
+LOC_0118,10 Number Market #19,10 Number Market,Bhopal,23.215367,77.42122,Co-Working Space,66600,27867,1,5406,8.5,5.1,9.0,High,"Residential, Hospitals",106,14310000,Good
+LOC_0119,Shahpura #20,Shahpura,Bhopal,23.213182,77.417517,Quick Service Restaurant,47800,47603,3,3555,5.5,8.0,6.1,High,"Residential, Schools",156,1497600,Excellent
+LOC_0120,MP Nagar Zone 1 #21,MP Nagar Zone 1,Bhopal,23.228982,77.426891,Clothing Store,61400,36755,7,4905,8.0,5.8,9.2,Medium,"Offices, Transit Hub",198,8316000,Excellent
+LOC_0121,TT Nagar #22,TT Nagar,Bhopal,23.230997,77.40638,Grocery Store,49700,18402,2,4372,4.4,5.1,7.6,Medium,"Offices, Residential",103,2317500,Good
+LOC_0122,Shahpura #23,Shahpura,Bhopal,23.205733,77.417415,Pharmacy,43600,54737,2,3086,5.1,6.9,6.2,High,"Transit Hub, Retail Market",118,1947000,Good
+LOC_0123,Arera Colony E-3 #24,Arera Colony E-3,Bhopal,23.210546,77.432187,Clothing Store,52500,21532,2,2205,6.6,6.2,7.3,High,"Offices, Colleges",102,4284000,Good
+LOC_0124,Chunabhatti #25,Chunabhatti,Bhopal,23.203389,77.41862,Co-Working Space,32100,34362,0,1645,7.2,5.2,7.4,Low,"Transit Hub, Retail Market",44,5940000,Average
+LOC_0125,Malviya Nagar #26,Malviya Nagar,Bhopal,23.236066,77.409447,Pharmacy,41700,19714,3,3454,8.8,5.2,4.3,Medium,"Shopping Mall, High Street",114,1881000,Good
+LOC_0126,Ayodhya Bypass #27,Ayodhya Bypass,Bhopal,23.26568,77.460298,Co-Working Space,20100,30588,0,1614,5.9,7.1,10.0,Medium,"Shopping Mall, High Street",45,6075000,Average
+LOC_0127,Malviya Nagar #28,Malviya Nagar,Bhopal,23.235245,77.411837,Cafe,71400,13845,1,1684,6.8,8.1,10.0,Medium,"Colleges, Food Court",95,741000,Good
+LOC_0128,Malviya Nagar #29,Malviya Nagar,Bhopal,23.23374,77.411888,Grocery Store,56400,30878,3,3881,7.7,5.4,7.9,Medium,"Shopping Mall, High Street",126,2835000,Excellent
+LOC_0129,TT Nagar #30,TT Nagar,Bhopal,23.246391,77.401644,Pharmacy,33700,43392,4,5234,7.5,8.6,6.3,High,"Residential, Hospitals",200,3300000,Excellent
+LOC_0130,Ashoka Garden #31,Ashoka Garden,Bhopal,23.254471,77.43608,Quick Service Restaurant,25000,33156,4,3540,10.0,6.4,10.0,Medium,"Hospitals, Transit Hub",216,2073600,Excellent
+LOC_0131,New Market #32,New Market,Bhopal,23.236525,77.404798,Co-Working Space,76500,26628,5,8195,6.3,7.4,9.2,Medium,"Metro Station, Offices",147,19845000,Excellent
+LOC_0132,Lalghati #33,Lalghati,Bhopal,23.277505,77.384038,Clothing Store,38100,23382,5,3640,7.0,3.2,8.1,Medium,"Metro Station, Offices",95,3990000,Good
+LOC_0133,Kolar Road #34,Kolar Road,Bhopal,23.179602,77.425209,Quick Service Restaurant,29700,20129,5,2705,8.1,7.3,8.1,Medium,"Colleges, Food Court",148,1420800,Excellent
+LOC_0134,Arera Colony E-3 #35,Arera Colony E-3,Bhopal,23.218794,77.427792,Quick Service Restaurant,59200,22334,5,2600,5.8,7.8,6.3,High,"Metro Station, Offices",117,1123200,Good
+LOC_0135,Bittan Market #36,Bittan Market,Bhopal,23.216495,77.43294,Clothing Store,57100,14654,11,6033,6.5,7.9,6.6,Medium,"Colleges, Food Court",172,7224000,Excellent
+LOC_0136,Chunabhatti #37,Chunabhatti,Bhopal,23.203698,77.41231,Grocery Store,36200,27338,2,2047,8.1,8.3,7.3,Medium,"Offices, Transit Hub",108,2430000,Good
+LOC_0137,Lalghati #38,Lalghati,Bhopal,23.282222,77.377483,Grocery Store,31200,35756,3,3322,7.7,7.2,5.9,Medium,"Offices, Transit Hub",168,3780000,Excellent
+LOC_0138,Arera Colony E-3 #39,Arera Colony E-3,Bhopal,23.213425,77.427484,Pharmacy,51600,93899,0,2188,8.7,7.0,7.8,High,"Colleges, Food Court",268,4422000,Excellent
+LOC_0139,TT Nagar #40,TT Nagar,Bhopal,23.234237,77.396764,Pharmacy,57000,7627,3,4423,7.2,7.1,7.4,Medium,"Hospitals, Transit Hub",93,1534500,Good
+LOC_0140,Bairagarh #41,Bairagarh,Bhopal,23.279475,77.342057,Co-Working Space,38500,9398,5,5042,9.1,4.6,8.4,Medium,"Hospitals, Transit Hub",58,7830000,Average
+LOC_0141,MP Nagar Zone 1 #42,MP Nagar Zone 1,Bhopal,23.22993,77.427668,Cafe,68700,21236,8,4749,10.0,6.4,6.9,High,"Residential, Schools",168,1310400,Excellent
+LOC_0142,Gulmohar Colony #43,Gulmohar Colony,Bhopal,23.19752,77.42811,Grocery Store,50100,42718,4,3127,9.6,4.3,6.4,Medium,"Offices, Colleges",117,2632500,Good
+LOC_0143,Platinum Plaza #44,Platinum Plaza,Bhopal,23.232502,77.398945,Quick Service Restaurant,62800,16089,12,5034,6.0,6.9,7.3,High,"Offices, Transit Hub",148,1420800,Excellent
+LOC_0144,TT Nagar #45,TT Nagar,Bhopal,23.23706,77.406168,Cafe,53000,16881,7,2898,6.1,6.4,7.7,Medium,"Hospitals, Transit Hub",78,608400,Good
+LOC_0145,Arera Colony E-3 #46,Arera Colony E-3,Bhopal,23.218874,77.431113,Co-Working Space,57300,21630,0,2796,9.5,7.2,7.2,High,"Hospitals, Transit Hub",60,8100000,Average
+LOC_0146,Hoshangabad Road #47,Hoshangabad Road,Bhopal,23.19664,77.445043,Grocery Store,52900,28482,2,4760,7.2,7.2,3.4,Medium,"Residential, Schools",184,4140000,Excellent
+LOC_0147,Lalghati #48,Lalghati,Bhopal,23.281604,77.380767,Cafe,21900,28581,1,2273,8.3,6.1,6.2,Low,"Offices, Colleges",96,748800,Good
+LOC_0148,Indrapuri BHEL #49,Indrapuri BHEL,Bhopal,23.247473,77.477892,Quick Service Restaurant,27200,9229,11,5760,8.6,5.2,7.2,Medium,"Shopping Mall, High Street",139,1334400,Excellent
+LOC_0149,Bairagarh #50,Bairagarh,Bhopal,23.269885,77.346696,Grocery Store,45300,23510,5,7631,5.6,7.3,9.2,Low,"Offices, Residential",189,4252500,Excellent
+LOC_0150,Gulmohar Colony #1,Gulmohar Colony,Bhopal,23.20112,77.431902,Co-Working Space,46100,27600,3,1968,8.4,8.5,9.6,Medium,"Offices, Residential",68,9180000,Average
+LOC_0151,Karond #2,Karond,Bhopal,23.300469,77.409371,Grocery Store,15800,21169,0,1718,4.5,6.3,5.1,Medium,"Metro Station, Offices",49,1102500,Average
+LOC_0152,Ashoka Garden #3,Ashoka Garden,Bhopal,23.249739,77.432602,Cafe,21000,46552,3,3512,5.4,5.8,7.1,Low,"Offices, Residential",127,990600,Excellent
+LOC_0153,Ayodhya Bypass #4,Ayodhya Bypass,Bhopal,23.273538,77.460726,Co-Working Space,23800,39076,2,1797,8.2,4.1,7.0,Low,"Shopping Mall, High Street",55,7425000,Average
+LOC_0154,MP Nagar Zone 1 #5,MP Nagar Zone 1,Bhopal,23.232069,77.430189,Co-Working Space,99200,22607,4,7729,3.7,8.5,7.2,High,"Offices, Residential",89,12015000,Good
+LOC_0155,Ashoka Garden #6,Ashoka Garden,Bhopal,23.249788,77.435552,Clothing Store,26000,60128,2,2769,6.5,6.1,7.6,Low,"Colleges, Food Court",106,4452000,Good
+LOC_0156,10 Number Market #7,10 Number Market,Bhopal,23.213266,77.427262,Co-Working Space,57400,15205,1,5993,6.1,7.8,10.0,High,"Shopping Mall, High Street",88,11880000,Good
+LOC_0157,MP Nagar Zone 1 #8,MP Nagar Zone 1,Bhopal,23.235653,77.432993,Quick Service Restaurant,68100,17315,8,6072,9.2,6.1,7.1,Medium,"Residential, Hospitals",210,2016000,Excellent
+LOC_0158,Karond #9,Karond,Bhopal,23.292926,77.41532,Pharmacy,15400,20713,2,2609,7.1,6.4,7.8,Low,"Residential, Hospitals",88,1452000,Good
+LOC_0159,TT Nagar #10,TT Nagar,Bhopal,23.239165,77.409548,Grocery Store,35800,28966,4,5149,4.9,5.7,7.9,Medium,"Offices, Colleges",132,2970000,Excellent
+LOC_0160,Gulmohar Colony #11,Gulmohar Colony,Bhopal,23.201234,77.434653,Clothing Store,60600,25098,6,2883,7.2,9.9,6.3,High,"Offices, Colleges",160,6720000,Excellent
+LOC_0161,Shahpura #12,Shahpura,Bhopal,23.212268,77.423627,Cafe,49800,22285,2,2357,4.4,6.9,5.6,High,"Residential, Hospitals",49,382200,Average
+LOC_0162,Lalghati #13,Lalghati,Bhopal,23.283808,77.38296,Grocery Store,38200,21273,4,4267,6.9,5.0,7.7,Medium,"Colleges, Food Court",120,2700000,Excellent
+LOC_0163,MP Nagar Zone 2 #14,MP Nagar Zone 2,Bhopal,23.232655,77.43763,Quick Service Restaurant,58000,33266,5,3581,7.4,5.4,9.5,Medium,"Hospitals, Transit Hub",176,1689600,Excellent
+LOC_0164,Platinum Plaza #15,Platinum Plaza,Bhopal,23.243053,77.396553,Cafe,58300,24848,2,3162,7.4,6.4,6.5,High,"Residential, Schools",110,858000,Good
+LOC_0165,Ashoka Garden #16,Ashoka Garden,Bhopal,23.253275,77.433993,Cafe,28600,44608,2,2015,9.4,4.5,6.4,Medium,"Residential, Schools",92,717600,Good
+LOC_0166,Gulmohar Colony #17,Gulmohar Colony,Bhopal,23.199903,77.430215,Cafe,30100,32143,2,2479,6.6,2.8,9.7,High,"Colleges, Food Court",96,748800,Good
+LOC_0167,MP Nagar Zone 2 #18,MP Nagar Zone 2,Bhopal,23.231892,77.440606,Quick Service Restaurant,55100,23705,3,3976,6.8,6.3,5.4,Medium,"Hospitals, Transit Hub",176,1689600,Excellent
+LOC_0168,Bairagarh #19,Bairagarh,Bhopal,23.28631,77.350696,Cafe,24400,30879,6,7392,7.2,3.8,8.9,Medium,"Residential, Schools",199,1552200,Excellent
+LOC_0169,Ayodhya Bypass #20,Ayodhya Bypass,Bhopal,23.274622,77.461881,Quick Service Restaurant,24100,34105,4,1965,8.5,7.8,7.2,Medium,"Offices, Residential",125,1200000,Excellent
+LOC_0170,Chunabhatti #21,Chunabhatti,Bhopal,23.204179,77.412932,Grocery Store,23600,59623,1,2221,6.6,1.5,7.4,Medium,"Offices, Transit Hub",125,2812500,Excellent
+LOC_0171,Hoshangabad Road #22,Hoshangabad Road,Bhopal,23.190316,77.447695,Co-Working Space,69400,24075,3,5396,7.3,7.5,3.4,High,"Residential, Hospitals",71,9585000,Average
+LOC_0172,Arera Colony E-3 #23,Arera Colony E-3,Bhopal,23.208852,77.425416,Grocery Store,53700,44164,1,2674,8.9,5.4,7.0,Medium,"Offices, Residential",174,3915000,Excellent
+LOC_0173,Arera Colony E-3 #24,Arera Colony E-3,Bhopal,23.218888,77.428451,Cafe,62400,44924,2,2095,7.3,8.0,9.6,High,"Transit Hub, Retail Market",108,842400,Good
+LOC_0174,New Market #25,New Market,Bhopal,23.23949,77.404544,Quick Service Restaurant,73900,42164,8,9331,7.1,3.9,6.1,Medium,"Offices, Transit Hub",352,3379200,Excellent
+LOC_0175,Chunabhatti #26,Chunabhatti,Bhopal,23.198197,77.412109,Pharmacy,36400,28893,1,2759,6.6,8.1,8.3,Medium,"Metro Station, Offices",90,1485000,Good
+LOC_0176,Ayodhya Bypass #27,Ayodhya Bypass,Bhopal,23.274569,77.451823,Clothing Store,20800,30310,1,1996,7.0,8.5,8.5,Low,"Metro Station, Offices",80,3360000,Good
+LOC_0177,TT Nagar #28,TT Nagar,Bhopal,23.233836,77.40772,Quick Service Restaurant,45200,20542,5,3277,8.9,7.3,7.1,Low,"Shopping Mall, High Street",148,1420800,Excellent
+LOC_0178,New Market #29,New Market,Bhopal,23.242046,77.410373,Quick Service Restaurant,55200,13002,2,5586,6.8,8.1,6.1,High,"Colleges, Food Court",254,2438400,Excellent
+LOC_0179,Gulmohar Colony #30,Gulmohar Colony,Bhopal,23.201507,77.432084,Grocery Store,45000,65412,3,2049,9.5,7.0,5.5,Medium,"Residential, Hospitals",197,4432500,Excellent
+LOC_0180,10 Number Market #31,10 Number Market,Bhopal,23.207749,77.425421,Pharmacy,87600,19477,2,5309,9.0,8.2,8.3,High,"Offices, Residential",183,3019500,Excellent
+LOC_0181,Gulmohar Colony #32,Gulmohar Colony,Bhopal,23.202414,77.428423,Co-Working Space,37600,40639,0,2281,9.9,7.8,8.2,Low,"Offices, Colleges",101,13635000,Good
+LOC_0182,Chunabhatti #33,Chunabhatti,Bhopal,23.205989,77.414064,Co-Working Space,36700,41713,0,2265,7.5,7.8,8.1,Medium,"Hospitals, Transit Hub",74,9990000,Average
+LOC_0183,Shahpura #34,Shahpura,Bhopal,23.206671,77.420621,Co-Working Space,46300,33541,2,2083,8.2,7.6,9.8,High,"Residential, Schools",83,11205000,Good
+LOC_0184,New Market #35,New Market,Bhopal,23.236189,77.40281,Grocery Store,70900,32224,3,7301,6.9,5.2,8.0,Medium,"Offices, Transit Hub",241,5422500,Excellent
+LOC_0185,Ashoka Garden #36,Ashoka Garden,Bhopal,23.253281,77.431003,Pharmacy,24800,31777,1,2860,7.9,7.7,6.6,Low,"Transit Hub, Retail Market",116,1914000,Good
+LOC_0186,Ayodhya Bypass #37,Ayodhya Bypass,Bhopal,23.267464,77.460083,Clothing Store,19800,16954,1,1433,7.2,4.6,8.3,Low,"Hospitals, Transit Hub",34,1428000,Average
+LOC_0187,Lalghati #38,Lalghati,Bhopal,23.283437,77.381625,Grocery Store,33800,21572,3,2420,8.7,4.0,6.8,Medium,"Residential, Schools",99,2227500,Good
+LOC_0188,Platinum Plaza #39,Platinum Plaza,Bhopal,23.240958,77.398817,Quick Service Restaurant,83600,32933,5,4044,8.6,5.4,5.1,High,"Offices, Residential",177,1699200,Excellent
+LOC_0189,Lalghati #40,Lalghati,Bhopal,23.285035,77.372692,Co-Working Space,43000,12536,1,3247,5.6,5.0,6.3,High,"Metro Station, Offices",60,8100000,Average
+LOC_0190,Hoshangabad Road #41,Hoshangabad Road,Bhopal,23.201556,77.446775,Co-Working Space,50900,16164,2,6314,7.4,4.6,8.1,Medium,"Transit Hub, Retail Market",94,12690000,Good
+LOC_0191,Ashoka Garden #42,Ashoka Garden,Bhopal,23.257345,77.43678,Co-Working Space,23300,36874,0,2058,6.3,6.8,5.2,Low,"Hospitals, Transit Hub",38,5130000,Average
+LOC_0192,Bairagarh #43,Bairagarh,Bhopal,23.276663,77.348598,Grocery Store,49600,34625,5,6801,10.0,6.3,7.3,Medium,"Offices, Residential",280,6300000,Excellent
+LOC_0193,Ashoka Garden #44,Ashoka Garden,Bhopal,23.253485,77.433101,Pharmacy,19300,48449,2,2404,8.2,5.3,4.6,Medium,"Offices, Colleges",104,1716000,Good
+LOC_0194,Malviya Nagar #45,Malviya Nagar,Bhopal,23.240619,77.417693,Grocery Store,60100,22357,2,2606,7.5,6.5,7.2,Low,"Offices, Colleges",92,2070000,Good
+LOC_0195,New Market #46,New Market,Bhopal,23.237719,77.401575,Grocery Store,71200,22123,8,7308,7.5,8.9,8.9,Medium,"Offices, Residential",193,4342500,Excellent
+LOC_0196,Malviya Nagar #47,Malviya Nagar,Bhopal,23.232225,77.408532,Pharmacy,47900,28101,1,3420,7.7,6.2,7.4,Medium,"Hospitals, Transit Hub",139,2293500,Excellent
+LOC_0197,Chunabhatti #48,Chunabhatti,Bhopal,23.205972,77.411632,Co-Working Space,26700,49248,1,1931,5.9,5.7,9.6,Medium,"Residential, Schools",62,8370000,Average
+LOC_0198,Karond #49,Karond,Bhopal,23.300079,77.417846,Cafe,18400,21197,3,2725,7.5,6.6,7.4,Medium,"Offices, Residential",94,733200,Good
+LOC_0199,Bittan Market #50,Bittan Market,Bhopal,23.218529,77.431503,Co-Working Space,69200,32993,1,7384,8.4,5.7,8.7,High,"Colleges, Food Court",127,17145000,Excellent
+LOC_0200,TT Nagar #1,TT Nagar,Bhopal,23.234131,77.407129,Quick Service Restaurant,48000,26428,6,5479,8.7,6.7,8.1,Medium,"Hospitals, Transit Hub",258,2476800,Excellent
+LOC_0201,Bairagarh #2,Bairagarh,Bhopal,23.277552,77.352607,Pharmacy,46200,11722,5,6641,4.9,8.0,6.8,Medium,"Offices, Colleges",95,1567500,Good
+LOC_0202,Ayodhya Bypass #3,Ayodhya Bypass,Bhopal,23.275642,77.453486,Co-Working Space,23100,21922,0,1371,8.3,7.4,6.3,Medium,"Transit Hub, Retail Market",33,4455000,Average
+LOC_0203,10 Number Market #4,10 Number Market,Bhopal,23.220241,77.423521,Cafe,54600,14393,7,7820,9.5,7.1,7.2,Medium,"Residential, Hospitals",277,2160600,Excellent
+LOC_0204,Hoshangabad Road #5,Hoshangabad Road,Bhopal,23.193823,77.451194,Quick Service Restaurant,60400,19494,4,5582,7.5,9.1,5.0,Medium,"Transit Hub, Retail Market",251,2409600,Excellent
+LOC_0205,Ayodhya Bypass #6,Ayodhya Bypass,Bhopal,23.266699,77.459126,Pharmacy,28900,20147,2,1889,8.2,3.8,9.9,Low,"Offices, Transit Hub",84,1386000,Good
+LOC_0206,Bittan Market #7,Bittan Market,Bhopal,23.220459,77.433202,Co-Working Space,61500,9105,2,3921,6.9,6.7,7.4,High,"Residential, Hospitals",69,9315000,Average
+LOC_0207,Gulmohar Colony #8,Gulmohar Colony,Bhopal,23.204508,77.435797,Grocery Store,38300,26042,1,2748,6.7,5.7,9.3,High,"Transit Hub, Retail Market",118,2655000,Good
+LOC_0208,Lalghati #9,Lalghati,Bhopal,23.282823,77.371807,Cafe,30200,18488,7,3747,8.5,6.1,6.9,Medium,"Offices, Transit Hub",142,1107600,Excellent
+LOC_0209,Gulmohar Colony #10,Gulmohar Colony,Bhopal,23.203227,77.430213,Grocery Store,47000,39047,4,2002,5.7,5.8,7.5,Medium,"Transit Hub, Retail Market",86,1935000,Good
+LOC_0210,Kolar Road #11,Kolar Road,Bhopal,23.184232,77.414932,Co-Working Space,34000,23278,3,3857,6.8,7.5,6.6,Medium,"Colleges, Food Court",65,8775000,Average
+LOC_0211,Hoshangabad Road #12,Hoshangabad Road,Bhopal,23.195496,77.446236,Quick Service Restaurant,50800,13552,10,6334,5.3,6.8,8.2,High,"Offices, Transit Hub",242,2323200,Excellent
+LOC_0212,Ayodhya Bypass #13,Ayodhya Bypass,Bhopal,23.268992,77.45339,Grocery Store,25100,13394,2,1502,5.0,5.2,8.9,Low,"Colleges, Food Court",44,990000,Average
+LOC_0213,Arera Colony E-3 #14,Arera Colony E-3,Bhopal,23.214861,77.416664,Quick Service Restaurant,67300,26423,4,4195,7.4,3.1,4.6,High,"Hospitals, Transit Hub",162,1555200,Excellent
+LOC_0214,Arera Colony E-3 #15,Arera Colony E-3,Bhopal,23.218476,77.421157,Pharmacy,56600,24751,1,804,8.0,4.1,8.4,Medium,"Hospitals, Transit Hub",75,1237500,Good
+LOC_0215,Platinum Plaza #16,Platinum Plaza,Bhopal,23.234478,77.397796,Grocery Store,63700,17238,2,3954,7.8,8.3,9.3,Medium,"Offices, Transit Hub",144,3240000,Excellent
+LOC_0216,MP Nagar Zone 2 #17,MP Nagar Zone 2,Bhopal,23.224098,77.433037,Clothing Store,36800,13031,19,6818,5.3,6.4,8.9,High,"Shopping Mall, High Street",113,4746000,Good
+LOC_0217,Kolar Road #18,Kolar Road,Bhopal,23.17316,77.424706,Quick Service Restaurant,31000,47661,7,3510,6.1,6.5,4.9,Medium,"Colleges, Food Court",170,1632000,Excellent
+LOC_0218,Lalghati #19,Lalghati,Bhopal,23.289027,77.374834,Co-Working Space,41200,26099,0,4423,5.9,5.4,7.8,Medium,"Hospitals, Transit Hub",67,9045000,Average
+LOC_0219,Lalghati #20,Lalghati,Bhopal,23.279459,77.375348,Grocery Store,34200,17735,3,3514,10.0,6.3,6.3,Low,"Shopping Mall, High Street",101,2272500,Good
+LOC_0220,Karond #21,Karond,Bhopal,23.297357,77.411684,Grocery Store,23500,18016,1,1345,7.0,2.5,7.9,Medium,"Colleges, Food Court",52,1170000,Average
+LOC_0221,Chunabhatti #22,Chunabhatti,Bhopal,23.197478,77.413649,Clothing Store,33000,59581,3,2528,8.8,4.7,9.0,Medium,"Transit Hub, Retail Market",119,4998000,Good
+LOC_0222,Shahpura #23,Shahpura,Bhopal,23.204562,77.417013,Quick Service Restaurant,45700,56122,8,4503,8.2,3.8,10.0,High,"Offices, Residential",239,2294400,Excellent
+LOC_0223,Chunabhatti #24,Chunabhatti,Bhopal,23.200552,77.416069,Pharmacy,35300,46253,1,2355,7.5,7.2,7.8,Medium,"Offices, Residential",145,2392500,Excellent
+LOC_0224,Shahpura #25,Shahpura,Bhopal,23.206807,77.417922,Cafe,43700,36117,0,1595,7.9,4.3,5.9,High,"Residential, Hospitals",50,390000,Average
+LOC_0225,TT Nagar #26,TT Nagar,Bhopal,23.240297,77.411185,Pharmacy,29600,13758,0,2247,5.4,4.9,8.1,Medium,"Offices, Residential",67,1105500,Average
+LOC_0226,TT Nagar #27,TT Nagar,Bhopal,23.241325,77.403083,Grocery Store,46700,12789,6,4144,5.9,7.3,7.6,Medium,"Offices, Residential",98,2205000,Good
+LOC_0227,Platinum Plaza #28,Platinum Plaza,Bhopal,23.235302,77.397459,Clothing Store,61400,12628,5,3417,7.5,8.3,7.9,High,"Offices, Colleges",132,5544000,Excellent
+LOC_0228,Chunabhatti #29,Chunabhatti,Bhopal,23.197334,77.403277,Co-Working Space,28800,43239,1,2820,8.5,5.5,4.8,Low,"Offices, Transit Hub",86,11610000,Good
+LOC_0229,New Market #30,New Market,Bhopal,23.244064,77.400886,Grocery Store,66700,11594,4,6443,6.0,4.7,7.5,Medium,"Residential, Schools",125,2812500,Excellent
+LOC_0230,10 Number Market #31,10 Number Market,Bhopal,23.219769,77.424747,Cafe,74900,27445,7,5506,3.9,7.4,8.1,High,"Residential, Hospitals",127,990600,Excellent
+LOC_0231,New Market #32,New Market,Bhopal,23.242094,77.411428,Quick Service Restaurant,63500,17580,7,3128,9.2,7.7,5.1,Low,"Metro Station, Offices",146,1401600,Excellent
+LOC_0232,Platinum Plaza #33,Platinum Plaza,Bhopal,23.238459,77.402422,Co-Working Space,39700,31727,1,5350,6.7,1.4,7.0,Medium,"Residential, Hospitals",69,9315000,Average
+LOC_0233,Hoshangabad Road #34,Hoshangabad Road,Bhopal,23.191794,77.45197,Co-Working Space,46400,15947,2,5682,8.8,3.6,10.0,High,"Residential, Hospitals",102,13770000,Good
+LOC_0234,Chunabhatti #35,Chunabhatti,Bhopal,23.203179,77.41678,Cafe,39700,32695,2,2219,8.0,5.2,8.8,Medium,"Colleges, Food Court",93,725400,Good
+LOC_0235,New Market #36,New Market,Bhopal,23.236473,77.409072,Pharmacy,83100,36963,1,6398,7.4,8.4,8.4,Medium,"Metro Station, Offices",215,3547500,Excellent
+LOC_0236,Shahpura #37,Shahpura,Bhopal,23.203909,77.413589,Grocery Store,36500,63708,2,4226,7.0,3.9,10.0,High,"Offices, Transit Hub",276,6210000,Excellent
+LOC_0237,Karond #38,Karond,Bhopal,23.294351,77.416292,Clothing Store,18000,36778,2,2432,5.1,5.8,6.0,Medium,"Offices, Transit Hub",53,2226000,Average
+LOC_0238,TT Nagar #39,TT Nagar,Bhopal,23.234887,77.406225,Co-Working Space,46800,14002,2,4438,8.5,9.9,8.3,High,"Offices, Transit Hub",77,10395000,Good
+LOC_0239,Karond #40,Karond,Bhopal,23.302119,77.413696,Pharmacy,15000,27972,1,1963,5.4,5.4,6.9,Low,"Metro Station, Offices",59,973500,Average
+LOC_0240,Indrapuri BHEL #41,Indrapuri BHEL,Bhopal,23.251,77.466788,Grocery Store,30500,15001,6,2755,9.2,8.2,7.3,High,"Offices, Residential",122,2745000,Excellent
+LOC_0241,Shahpura #42,Shahpura,Bhopal,23.206625,77.41523,Grocery Store,50700,31751,2,3010,6.3,7.0,7.8,High,"Transit Hub, Retail Market",146,3285000,Excellent
+LOC_0242,Platinum Plaza #43,Platinum Plaza,Bhopal,23.240571,77.39555,Clothing Store,60700,32253,9,4906,5.1,6.7,4.7,High,"Residential, Schools",120,5040000,Excellent
+LOC_0243,New Market #44,New Market,Bhopal,23.233121,77.397751,Co-Working Space,69700,14943,5,7018,6.5,7.9,6.7,Medium,"Residential, Schools",82,11070000,Good
+LOC_0244,10 Number Market #45,10 Number Market,Bhopal,23.221091,77.423562,Co-Working Space,95100,17317,5,5206,7.8,6.7,9.2,High,"Hospitals, Transit Hub",73,9855000,Average
+LOC_0245,Arera Colony E-3 #46,Arera Colony E-3,Bhopal,23.213774,77.427255,Grocery Store,55700,32958,3,3534,7.1,4.1,6.9,High,"Offices, Colleges",135,3037500,Excellent
+LOC_0246,New Market #47,New Market,Bhopal,23.237869,77.401273,Clothing Store,78400,41950,9,7036,6.0,5.3,5.3,Medium,"Offices, Transit Hub",181,7602000,Excellent
+LOC_0247,Arera Colony E-3 #48,Arera Colony E-3,Bhopal,23.217356,77.428197,Grocery Store,54100,36881,0,2007,7.4,5.8,5.7,Medium,"Offices, Residential",101,2272500,Good
+LOC_0248,Lalghati #49,Lalghati,Bhopal,23.283628,77.372563,Cafe,44700,35003,3,2839,8.0,5.2,6.1,Medium,"Metro Station, Offices",146,1138800,Excellent
+LOC_0249,10 Number Market #50,10 Number Market,Bhopal,23.220776,77.422573,Cafe,62400,18764,4,5694,5.2,4.8,8.2,Medium,"Shopping Mall, High Street",172,1341600,Excellent
+LOC_0250,MP Nagar Zone 1 #1,MP Nagar Zone 1,Bhopal,23.233023,77.432697,Clothing Store,55400,27134,8,4514,8.4,3.5,7.4,High,"Offices, Transit Hub",130,5460000,Excellent
+LOC_0251,Gulmohar Colony #2,Gulmohar Colony,Bhopal,23.201869,77.42631,Co-Working Space,50500,27945,1,1718,6.4,5.2,8.9,High,"Offices, Colleges",58,7830000,Average
+LOC_0252,Kolar Road #3,Kolar Road,Bhopal,23.175093,77.418629,Grocery Store,31400,27337,2,2321,7.8,6.0,8.4,Medium,"Transit Hub, Retail Market",126,2835000,Excellent
+LOC_0253,10 Number Market #4,10 Number Market,Bhopal,23.214778,77.421276,Co-Working Space,63300,22447,1,4984,7.7,7.0,6.8,High,"Colleges, Food Court",85,11475000,Good
+LOC_0254,Hoshangabad Road #5,Hoshangabad Road,Bhopal,23.195771,77.453495,Pharmacy,62800,15487,1,4020,5.9,3.5,8.8,Medium,"Offices, Colleges",56,924000,Average
+LOC_0255,Bittan Market #6,Bittan Market,Bhopal,23.221792,77.431838,Clothing Store,49300,23660,5,4220,7.3,3.8,5.0,Medium,"Offices, Residential",111,4662000,Good
+LOC_0256,MP Nagar Zone 1 #7,MP Nagar Zone 1,Bhopal,23.239791,77.434602,Co-Working Space,58400,32285,1,3713,6.6,5.5,7.9,High,"Shopping Mall, High Street",82,11070000,Good
+LOC_0257,TT Nagar #8,TT Nagar,Bhopal,23.236042,77.402205,Pharmacy,46000,32086,3,4224,6.7,4.7,6.1,High,"Offices, Colleges",108,1782000,Good
+LOC_0258,MP Nagar Zone 2 #9,MP Nagar Zone 2,Bhopal,23.226652,77.425469,Clothing Store,63400,17160,3,3413,7.4,4.8,8.1,Medium,"Offices, Colleges",132,5544000,Excellent
+LOC_0259,10 Number Market #10,10 Number Market,Bhopal,23.216885,77.426788,Quick Service Restaurant,76800,15813,5,5137,6.7,9.5,9.8,High,"Shopping Mall, High Street",211,2025600,Excellent
+LOC_0260,Indrapuri BHEL #11,Indrapuri BHEL,Bhopal,23.252585,77.469412,Co-Working Space,36400,29245,3,4424,4.9,5.7,7.9,Medium,"Offices, Transit Hub",80,10800000,Good
+LOC_0261,MP Nagar Zone 1 #12,MP Nagar Zone 1,Bhopal,23.226862,77.431691,Pharmacy,44000,15352,2,6547,8.2,6.9,9.3,High,"Offices, Colleges",157,2590500,Excellent
+LOC_0262,Karond #13,Karond,Bhopal,23.296008,77.408394,Pharmacy,28600,17119,1,3641,5.5,7.3,7.8,Low,"Residential, Hospitals",84,1386000,Good
+LOC_0263,Ashoka Garden #14,Ashoka Garden,Bhopal,23.251905,77.422941,Clothing Store,26300,51170,1,2253,8.5,4.2,7.3,Low,"Offices, Residential",72,3024000,Average
+LOC_0264,10 Number Market #15,10 Number Market,Bhopal,23.213867,77.42446,Co-Working Space,60200,42899,2,6101,6.8,8.1,8.1,Medium,"Shopping Mall, High Street",118,15930000,Good
+LOC_0265,Malviya Nagar #16,Malviya Nagar,Bhopal,23.241987,77.409707,Grocery Store,52900,18878,3,3525,7.7,3.9,7.1,Medium,"Colleges, Food Court",103,2317500,Good
+LOC_0266,TT Nagar #17,TT Nagar,Bhopal,23.236757,77.403439,Pharmacy,67000,20398,2,5261,6.3,6.8,7.9,Medium,"Metro Station, Offices",92,1518000,Good
+LOC_0267,Arera Colony E-3 #18,Arera Colony E-3,Bhopal,23.215245,77.427671,Pharmacy,60000,62444,2,3149,5.6,8.6,9.8,High,"Transit Hub, Retail Market",207,3415500,Excellent
+LOC_0268,Arera Colony E-3 #19,Arera Colony E-3,Bhopal,23.216671,77.427495,Quick Service Restaurant,31000,41550,5,3176,6.7,6.6,5.4,Low,"Residential, Hospitals",111,1065600,Good
+LOC_0269,Platinum Plaza #20,Platinum Plaza,Bhopal,23.234978,77.398891,Co-Working Space,64200,24162,0,2867,8.1,1.2,6.6,Medium,"Transit Hub, Retail Market",44,5940000,Average
+LOC_0270,Ashoka Garden #21,Ashoka Garden,Bhopal,23.250081,77.432414,Pharmacy,22800,56056,2,2764,6.4,3.3,7.4,Low,"Colleges, Food Court",116,1914000,Good
+LOC_0271,Gulmohar Colony #22,Gulmohar Colony,Bhopal,23.203475,77.44162,Clothing Store,49300,16859,2,2751,8.5,4.4,6.6,High,"Offices, Residential",99,4158000,Good
+LOC_0272,Bittan Market #23,Bittan Market,Bhopal,23.219394,77.423344,Pharmacy,63200,29040,1,4725,8.3,10.0,7.4,High,"Transit Hub, Retail Market",196,3234000,Excellent
+LOC_0273,Chunabhatti #24,Chunabhatti,Bhopal,23.201246,77.416993,Co-Working Space,37100,48983,0,2321,8.4,5.4,6.4,High,"Hospitals, Transit Hub",60,8100000,Average
+LOC_0274,Bairagarh #25,Bairagarh,Bhopal,23.276273,77.345429,Clothing Store,54200,25052,6,4252,7.1,5.7,5.9,Low,"Offices, Residential",116,4872000,Good
+LOC_0275,Chunabhatti #26,Chunabhatti,Bhopal,23.197707,77.408852,Clothing Store,35000,28005,5,3024,5.4,4.5,7.9,Medium,"Colleges, Food Court",118,4956000,Good
+LOC_0276,Hoshangabad Road #27,Hoshangabad Road,Bhopal,23.191388,77.450273,Quick Service Restaurant,71100,18748,6,4312,5.7,4.1,9.2,High,"Offices, Residential",156,1497600,Excellent
+LOC_0277,Ayodhya Bypass #28,Ayodhya Bypass,Bhopal,23.269058,77.460625,Pharmacy,21400,17593,0,1296,7.1,4.0,5.1,Low,"Transit Hub, Retail Market",54,891000,Average
+LOC_0278,Arera Colony E-3 #29,Arera Colony E-3,Bhopal,23.211894,77.429227,Cafe,38900,36710,4,2758,7.6,5.5,9.8,High,"Shopping Mall, High Street",146,1138800,Excellent
+LOC_0279,Karond #30,Karond,Bhopal,23.299359,77.411668,Co-Working Space,18100,22046,2,2368,8.9,6.3,6.5,Medium,"Colleges, Food Court",48,6480000,Average
+LOC_0280,10 Number Market #31,10 Number Market,Bhopal,23.212261,77.42455,Pharmacy,80200,12615,0,6757,9.9,6.3,9.1,High,"Offices, Residential",175,2887500,Excellent
+LOC_0281,Ayodhya Bypass #32,Ayodhya Bypass,Bhopal,23.266293,77.456842,Quick Service Restaurant,27300,13602,1,1377,7.3,6.3,8.0,Low,"Transit Hub, Retail Market",62,595200,Average
+LOC_0282,Hoshangabad Road #33,Hoshangabad Road,Bhopal,23.191122,77.441684,Co-Working Space,57900,13572,4,5170,9.0,9.7,7.6,High,"Shopping Mall, High Street",76,10260000,Good
+LOC_0283,Ashoka Garden #34,Ashoka Garden,Bhopal,23.255853,77.428184,Co-Working Space,21400,23746,1,2970,6.3,7.0,3.5,Low,"Colleges, Food Court",51,6885000,Average
+LOC_0284,TT Nagar #35,TT Nagar,Bhopal,23.234167,77.403197,Grocery Store,38600,24661,3,5718,7.5,6.9,10.0,Medium,"Residential, Hospitals",246,5535000,Excellent
+LOC_0285,10 Number Market #36,10 Number Market,Bhopal,23.224959,77.430982,Quick Service Restaurant,53600,17489,14,9625,7.1,6.5,5.4,High,"Offices, Transit Hub",300,2880000,Excellent
+LOC_0286,New Market #37,New Market,Bhopal,23.236265,77.402421,Cafe,43500,15733,7,9312,5.8,7.2,6.4,High,"Offices, Transit Hub",308,2402400,Excellent
+LOC_0287,Chunabhatti #38,Chunabhatti,Bhopal,23.203757,77.414015,Co-Working Space,28800,31099,2,2459,4.8,4.9,8.0,Medium,"Residential, Schools",47,6345000,Average
+LOC_0288,Chunabhatti #39,Chunabhatti,Bhopal,23.204727,77.418828,Pharmacy,36700,50967,0,1764,4.8,3.9,7.4,Medium,"Metro Station, Offices",64,1056000,Average
+LOC_0289,Chunabhatti #40,Chunabhatti,Bhopal,23.203427,77.417309,Pharmacy,42600,44352,2,2028,8.8,5.7,7.5,Medium,"Metro Station, Offices",126,2079000,Excellent
+LOC_0290,New Market #41,New Market,Bhopal,23.242618,77.406023,Grocery Store,50800,13114,8,7708,5.7,4.7,6.9,Medium,"Hospitals, Transit Hub",120,2700000,Excellent
+LOC_0291,Chunabhatti #42,Chunabhatti,Bhopal,23.204731,77.413342,Cafe,32400,52337,0,1654,8.9,6.4,7.0,Medium,"Shopping Mall, High Street",104,811200,Good
+LOC_0292,Bairagarh #43,Bairagarh,Bhopal,23.278307,77.343916,Grocery Store,48800,39468,4,5469,8.2,4.0,8.6,Medium,"Residential, Schools",217,4882500,Excellent
+LOC_0293,Gulmohar Colony #44,Gulmohar Colony,Bhopal,23.199421,77.438116,Pharmacy,47600,29298,0,2723,6.9,6.7,6.3,High,"Residential, Schools",101,1666500,Good
+LOC_0294,TT Nagar #45,TT Nagar,Bhopal,23.228583,77.409241,Quick Service Restaurant,36500,25472,5,4203,5.8,9.7,7.5,High,"Residential, Hospitals",158,1516800,Excellent
+LOC_0295,Gulmohar Colony #46,Gulmohar Colony,Bhopal,23.200016,77.431307,Pharmacy,44900,95000,1,3634,7.6,6.9,7.2,High,"Transit Hub, Retail Market",250,4125000,Excellent
+LOC_0296,Kolar Road #47,Kolar Road,Bhopal,23.180956,77.425091,Pharmacy,29600,34346,3,3537,10.0,6.6,7.2,High,"Offices, Colleges",124,2046000,Excellent
+LOC_0297,Kolar Road #48,Kolar Road,Bhopal,23.180706,77.424752,Co-Working Space,26900,40236,3,3111,8.5,5.9,7.0,Medium,"Metro Station, Offices",96,12960000,Good
+LOC_0298,Chunabhatti #49,Chunabhatti,Bhopal,23.205131,77.409385,Clothing Store,35300,34058,3,2311,3.9,5.5,9.1,Medium,"Offices, Colleges",94,3948000,Good
+LOC_0299,Karond #50,Karond,Bhopal,23.299502,77.409492,Quick Service Restaurant,24000,19857,4,2404,9.8,4.2,7.8,Low,"Metro Station, Offices",132,1267200,Excellent
+LOC_0300,Ashoka Garden #1,Ashoka Garden,Bhopal,23.257381,77.437687,Pharmacy,32100,95000,1,3425,8.9,7.5,8.4,Medium,"Offices, Residential",342,5643000,Excellent
+LOC_0301,Hoshangabad Road #2,Hoshangabad Road,Bhopal,23.199437,77.449011,Quick Service Restaurant,49100,11733,4,3293,8.2,8.2,10.0,Medium,"Offices, Residential",183,1756800,Excellent
+LOC_0302,Gulmohar Colony #3,Gulmohar Colony,Bhopal,23.205756,77.433131,Pharmacy,59100,58753,1,2799,8.5,7.0,6.9,High,"Shopping Mall, High Street",184,3036000,Excellent
+LOC_0303,Ayodhya Bypass #4,Ayodhya Bypass,Bhopal,23.274208,77.455783,Co-Working Space,19200,26267,2,1602,7.4,5.5,7.5,Low,"Offices, Colleges",51,6885000,Average
+LOC_0304,Bairagarh #5,Bairagarh,Bhopal,23.278012,77.349589,Cafe,38500,28456,6,5981,7.0,8.4,8.3,Medium,"Offices, Colleges",221,1723800,Excellent
+LOC_0305,New Market #6,New Market,Bhopal,23.237777,77.398605,Co-Working Space,64700,22950,6,8074,5.9,5.2,9.0,Medium,"Residential, Hospitals",100,13500000,Good
+LOC_0306,Lalghati #7,Lalghati,Bhopal,23.280925,77.374182,Co-Working Space,38900,18596,1,3194,7.4,6.3,9.6,Medium,"Offices, Colleges",59,7965000,Average
+LOC_0307,Gulmohar Colony #8,Gulmohar Colony,Bhopal,23.20323,77.427316,Pharmacy,57200,33988,1,2253,5.7,8.0,6.6,High,"Offices, Colleges",85,1402500,Good
+LOC_0308,Lalghati #9,Lalghati,Bhopal,23.286294,77.383701,Grocery Store,24200,18138,3,3396,6.2,4.6,7.8,High,"Offices, Residential",110,2475000,Good
+LOC_0309,Gulmohar Colony #10,Gulmohar Colony,Bhopal,23.198913,77.430953,Cafe,55000,27703,3,2087,6.9,4.0,10.0,Medium,"Offices, Residential",105,819000,Good
+LOC_0310,Bairagarh #11,Bairagarh,Bhopal,23.282069,77.343192,Pharmacy,34000,14920,2,5962,7.5,6.2,9.3,Medium,"Residential, Hospitals",149,2458500,Excellent
+LOC_0311,TT Nagar #12,TT Nagar,Bhopal,23.238074,77.405138,Grocery Store,55300,28249,1,4832,6.9,6.8,6.0,Medium,"Offices, Transit Hub",135,3037500,Excellent
+LOC_0312,Hoshangabad Road #13,Hoshangabad Road,Bhopal,23.193299,77.453047,Pharmacy,56300,20451,3,4659,8.9,1.0,7.5,High,"Transit Hub, Retail Market",126,2079000,Excellent
+LOC_0313,Chunabhatti #14,Chunabhatti,Bhopal,23.200409,77.41164,Quick Service Restaurant,46600,63061,4,1883,7.3,5.6,7.7,Medium,"Metro Station, Offices",138,1324800,Excellent
+LOC_0314,Platinum Plaza #15,Platinum Plaza,Bhopal,23.242862,77.40178,Grocery Store,80900,26346,2,3632,5.6,1.0,7.8,High,"Colleges, Food Court",89,2002500,Good
+LOC_0315,Indrapuri BHEL #16,Indrapuri BHEL,Bhopal,23.24808,77.474406,Pharmacy,28300,12583,0,4382,7.8,7.1,3.8,High,"Metro Station, Offices",95,1567500,Good
+LOC_0316,Malviya Nagar #17,Malviya Nagar,Bhopal,23.233991,77.404801,Grocery Store,46000,18620,1,2256,5.9,5.8,6.9,Medium,"Residential, Schools",75,1687500,Good
+LOC_0317,Lalghati #18,Lalghati,Bhopal,23.281214,77.374675,Quick Service Restaurant,25200,16486,2,3043,7.6,7.8,8.2,Medium,"Offices, Colleges",148,1420800,Excellent
+LOC_0318,Platinum Plaza #19,Platinum Plaza,Bhopal,23.2349,77.395632,Cafe,67700,20517,4,3073,9.0,8.1,5.9,High,"Colleges, Food Court",137,1068600,Excellent
+LOC_0319,New Market #20,New Market,Bhopal,23.238842,77.397678,Grocery Store,93600,29575,3,7562,6.8,6.5,8.2,Medium,"Metro Station, Offices",182,4095000,Excellent
+LOC_0320,TT Nagar #21,TT Nagar,Bhopal,23.236271,77.407424,Cafe,41300,21107,2,4382,5.6,6.7,7.5,High,"Residential, Hospitals",135,1053000,Excellent
+LOC_0321,Ashoka Garden #22,Ashoka Garden,Bhopal,23.260615,77.431002,Quick Service Restaurant,26600,22666,2,2346,7.3,8.1,7.1,Low,"Offices, Residential",119,1142400,Good
+LOC_0322,Platinum Plaza #23,Platinum Plaza,Bhopal,23.238386,77.398042,Clothing Store,58400,31148,4,3416,6.5,8.3,6.7,High,"Offices, Colleges",147,6174000,Excellent
+LOC_0323,10 Number Market #24,10 Number Market,Bhopal,23.213187,77.418281,Cafe,98400,28211,8,5390,8.9,5.1,9.0,High,"Transit Hub, Retail Market",159,1240200,Excellent
+LOC_0324,10 Number Market #25,10 Number Market,Bhopal,23.216178,77.430523,Grocery Store,90400,14811,2,3412,7.1,6.8,6.3,High,"Metro Station, Offices",82,1845000,Good
+LOC_0325,New Market #26,New Market,Bhopal,23.236036,77.405844,Clothing Store,52500,22550,13,6914,7.8,5.5,8.7,High,"Transit Hub, Retail Market",185,7770000,Excellent
+LOC_0326,Arera Colony E-3 #27,Arera Colony E-3,Bhopal,23.207909,77.426781,Pharmacy,57400,36203,0,3291,8.6,4.2,8.7,Medium,"Residential, Hospitals",122,2013000,Excellent
+LOC_0327,Shahpura #28,Shahpura,Bhopal,23.210057,77.422169,Grocery Store,29500,36326,1,2690,6.1,8.5,6.6,Low,"Shopping Mall, High Street",109,2452500,Good
+LOC_0328,Malviya Nagar #29,Malviya Nagar,Bhopal,23.238504,77.41234,Grocery Store,51800,16103,3,4084,6.7,6.5,7.4,Medium,"Hospitals, Transit Hub",122,2745000,Excellent
+LOC_0329,Shahpura #30,Shahpura,Bhopal,23.211048,77.423321,Cafe,46100,33073,2,2685,6.0,4.9,5.6,High,"Colleges, Food Court",81,631800,Good
+LOC_0330,Hoshangabad Road #31,Hoshangabad Road,Bhopal,23.198544,77.445086,Grocery Store,46300,9561,2,5864,7.3,9.3,6.1,High,"Hospitals, Transit Hub",173,3892500,Excellent
+LOC_0331,TT Nagar #32,TT Nagar,Bhopal,23.236558,77.403204,Grocery Store,60900,25518,2,4669,7.8,5.3,6.6,Medium,"Residential, Schools",157,3532500,Excellent
+LOC_0332,Gulmohar Colony #33,Gulmohar Colony,Bhopal,23.204401,77.42505,Grocery Store,46500,45536,2,3075,7.7,7.3,7.1,High,"Residential, Schools",167,3757500,Excellent
+LOC_0333,Hoshangabad Road #34,Hoshangabad Road,Bhopal,23.193372,77.452172,Clothing Store,62500,8216,7,4804,7.2,1.8,7.5,High,"Offices, Residential",132,5544000,Excellent
+LOC_0334,Karond #35,Karond,Bhopal,23.30295,77.414285,Quick Service Restaurant,23200,19408,4,1947,6.4,4.3,7.4,Low,"Metro Station, Offices",78,748800,Good
+LOC_0335,New Market #36,New Market,Bhopal,23.239762,77.401802,Quick Service Restaurant,66300,15769,9,5202,9.1,10.0,9.2,Medium,"Colleges, Food Court",254,2438400,Excellent
+LOC_0336,Gulmohar Colony #37,Gulmohar Colony,Bhopal,23.19769,77.435717,Pharmacy,40600,52426,0,1834,5.8,8.7,7.6,High,"Colleges, Food Court",116,1914000,Good
+LOC_0337,Hoshangabad Road #38,Hoshangabad Road,Bhopal,23.199825,77.448405,Pharmacy,66300,8228,3,3682,8.5,6.6,7.3,High,"Offices, Residential",91,1501500,Good
+LOC_0338,Bairagarh #39,Bairagarh,Bhopal,23.278256,77.352727,Co-Working Space,37000,31537,2,4480,6.7,7.0,7.4,Low,"Offices, Colleges",95,12825000,Good
+LOC_0339,Arera Colony E-3 #40,Arera Colony E-3,Bhopal,23.210566,77.424094,Quick Service Restaurant,68300,58712,3,2608,9.0,5.8,7.0,High,"Residential, Schools",147,1411200,Excellent
+LOC_0340,Hoshangabad Road #41,Hoshangabad Road,Bhopal,23.200218,77.450333,Cafe,61300,16544,6,5208,4.8,5.7,4.0,High,"Offices, Residential",104,811200,Good
+LOC_0341,Ayodhya Bypass #42,Ayodhya Bypass,Bhopal,23.274112,77.458384,Quick Service Restaurant,24100,13868,4,2113,7.6,6.2,9.9,Medium,"Offices, Colleges",106,1017600,Good
+LOC_0342,Karond #43,Karond,Bhopal,23.291695,77.413502,Clothing Store,23000,18303,2,2550,6.7,7.4,7.7,Medium,"Offices, Colleges",73,3066000,Average
+LOC_0343,Bairagarh #44,Bairagarh,Bhopal,23.281447,77.344802,Cafe,47600,28258,5,5137,8.5,7.8,5.0,Medium,"Transit Hub, Retail Market",169,1318200,Excellent
+LOC_0344,TT Nagar #45,TT Nagar,Bhopal,23.23863,77.402103,Grocery Store,63700,30203,5,5493,8.4,3.9,6.9,Low,"Metro Station, Offices",136,3060000,Excellent
+LOC_0345,Lalghati #46,Lalghati,Bhopal,23.279128,77.383964,Co-Working Space,33300,17415,8,3706,5.5,4.7,7.6,Low,"Metro Station, Offices",49,6615000,Average
+LOC_0346,New Market #47,New Market,Bhopal,23.24164,77.397734,Pharmacy,48200,19544,2,4606,6.7,6.7,7.1,Medium,"Shopping Mall, High Street",105,1732500,Good
+LOC_0347,Kolar Road #48,Kolar Road,Bhopal,23.176724,77.423136,Pharmacy,31700,25117,4,3614,8.2,5.5,7.7,High,"Offices, Transit Hub",132,2178000,Excellent
+LOC_0348,MP Nagar Zone 2 #49,MP Nagar Zone 2,Bhopal,23.226423,77.436712,Clothing Store,51500,16873,10,5917,7.5,8.3,8.6,Low,"Offices, Colleges",168,7056000,Excellent
+LOC_0349,MP Nagar Zone 1 #50,MP Nagar Zone 1,Bhopal,23.22663,77.429479,Quick Service Restaurant,70100,9930,8,5783,8.6,3.4,9.8,Medium,"Offices, Colleges",234,2246400,Excellent
+LOC_0350,Karond #1,Karond,Bhopal,23.296438,77.414334,Clothing Store,19300,46737,2,2421,2.9,6.3,9.3,Low,"Residential, Hospitals",60,2520000,Average
+LOC_0351,Bairagarh #2,Bairagarh,Bhopal,23.280525,77.34817,Grocery Store,37600,17395,5,6348,7.0,7.9,10.0,Medium,"Hospitals, Transit Hub",184,4140000,Excellent
+LOC_0352,Ayodhya Bypass #3,Ayodhya Bypass,Bhopal,23.274051,77.455045,Quick Service Restaurant,24500,20247,2,877,6.3,6.7,6.9,Medium,"Transit Hub, Retail Market",35,336000,Average
+LOC_0353,Platinum Plaza #4,Platinum Plaza,Bhopal,23.238713,77.403595,Grocery Store,63100,14784,2,2799,8.2,9.1,6.3,Medium,"Shopping Mall, High Street",79,1777500,Good
+LOC_0354,Platinum Plaza #5,Platinum Plaza,Bhopal,23.240117,77.39562,Pharmacy,57800,16593,2,2762,6.0,4.1,6.9,High,"Residential, Schools",70,1155000,Average
+LOC_0355,Arera Colony E-3 #6,Arera Colony E-3,Bhopal,23.211696,77.428619,Clothing Store,51400,24725,4,2427,8.3,6.7,8.9,High,"Colleges, Food Court",88,3696000,Good
+LOC_0356,Gulmohar Colony #7,Gulmohar Colony,Bhopal,23.203512,77.428366,Clothing Store,53600,43983,5,2809,4.8,5.0,7.3,Low,"Offices, Residential",61,2562000,Average
+LOC_0357,MP Nagar Zone 2 #8,MP Nagar Zone 2,Bhopal,23.238548,77.436468,Co-Working Space,66000,13511,2,5099,7.6,4.6,7.3,Medium,"Colleges, Food Court",74,9990000,Average
+LOC_0358,10 Number Market #9,10 Number Market,Bhopal,23.219709,77.426954,Pharmacy,69900,18717,4,6188,7.2,5.8,8.1,High,"Offices, Residential",139,2293500,Excellent
+LOC_0359,New Market #10,New Market,Bhopal,23.239964,77.40413,Cafe,67800,29753,6,6541,7.7,10.0,8.3,Medium,"Metro Station, Offices",350,2730000,Excellent
+LOC_0360,Arera Colony E-3 #11,Arera Colony E-3,Bhopal,23.219732,77.421883,Clothing Store,61800,36403,1,1663,9.1,6.9,8.6,High,"Shopping Mall, High Street",83,3486000,Good
+LOC_0361,Ashoka Garden #12,Ashoka Garden,Bhopal,23.255679,77.435823,Pharmacy,17900,24110,0,2194,8.5,5.4,7.0,Low,"Transit Hub, Retail Market",97,1600500,Good
+LOC_0362,10 Number Market #13,10 Number Market,Bhopal,23.210347,77.416564,Cafe,58000,30707,9,5220,7.0,8.7,7.0,Medium,"Offices, Colleges",167,1302600,Excellent
+LOC_0363,Hoshangabad Road #14,Hoshangabad Road,Bhopal,23.195087,77.444905,Pharmacy,57500,13245,2,3813,7.8,5.5,5.7,Medium,"Residential, Schools",101,1666500,Good
+LOC_0364,10 Number Market #15,10 Number Market,Bhopal,23.218523,77.426822,Co-Working Space,49900,24006,2,5858,6.3,6.5,7.6,High,"Residential, Hospitals",87,11745000,Good
+LOC_0365,Indrapuri BHEL #16,Indrapuri BHEL,Bhopal,23.247478,77.476298,Quick Service Restaurant,23500,13602,1,2968,7.1,9.5,7.3,Low,"Shopping Mall, High Street",114,1094400,Good
+LOC_0366,Shahpura #17,Shahpura,Bhopal,23.207814,77.418004,Co-Working Space,35400,35477,3,2214,8.6,5.9,7.3,High,"Offices, Residential",90,12150000,Good
+LOC_0367,Malviya Nagar #18,Malviya Nagar,Bhopal,23.243599,77.413255,Clothing Store,45700,32971,4,4512,6.2,7.5,7.2,Medium,"Shopping Mall, High Street",173,7266000,Excellent
+LOC_0368,Bairagarh #19,Bairagarh,Bhopal,23.281683,77.34712,Co-Working Space,31400,16759,1,6146,9.8,4.1,8.9,Medium,"Residential, Hospitals",115,15525000,Good
+LOC_0369,Malviya Nagar #20,Malviya Nagar,Bhopal,23.232073,77.410059,Cafe,51900,37737,3,4600,6.3,6.8,8.7,Medium,"Offices, Transit Hub",191,1489800,Excellent
+LOC_0370,Ashoka Garden #21,Ashoka Garden,Bhopal,23.254297,77.435498,Grocery Store,25600,22571,8,4044,5.9,3.5,4.7,Low,"Metro Station, Offices",68,1530000,Average
+LOC_0371,Lalghati #22,Lalghati,Bhopal,23.27632,77.383598,Cafe,38300,24754,2,3212,5.1,5.2,8.7,Low,"Shopping Mall, High Street",93,725400,Good
+LOC_0372,New Market #23,New Market,Bhopal,23.242318,77.398119,Co-Working Space,41500,28404,4,8428,8.3,4.0,5.3,Medium,"Colleges, Food Court",92,12420000,Good
+LOC_0373,New Market #24,New Market,Bhopal,23.236226,77.404818,Cafe,70200,11471,10,6867,8.0,5.7,6.6,Medium,"Transit Hub, Retail Market",174,1357200,Excellent
+LOC_0374,Ayodhya Bypass #25,Ayodhya Bypass,Bhopal,23.26731,77.456548,Clothing Store,24500,21369,4,2831,7.5,5.2,8.4,Low,"Offices, Transit Hub",93,3906000,Good
+LOC_0375,Karond #26,Karond,Bhopal,23.305608,77.405894,Cafe,16500,7923,4,3452,5.8,2.5,6.6,Low,"Colleges, Food Court",72,561600,Average
+LOC_0376,MP Nagar Zone 1 #27,MP Nagar Zone 1,Bhopal,23.233255,77.429389,Cafe,65300,15848,2,3670,4.4,5.4,7.6,High,"Offices, Residential",103,803400,Good
+LOC_0377,Ashoka Garden #28,Ashoka Garden,Bhopal,23.252972,77.431788,Clothing Store,20800,21928,5,3188,8.7,5.8,4.7,Medium,"Colleges, Food Court",137,5754000,Excellent
+LOC_0378,Arera Colony E-3 #29,Arera Colony E-3,Bhopal,23.214132,77.427945,Cafe,51200,63817,5,2773,6.0,6.4,5.7,High,"Offices, Residential",131,1021800,Excellent
+LOC_0379,Kolar Road #30,Kolar Road,Bhopal,23.18023,77.419355,Cafe,33200,33479,5,3871,8.4,5.6,5.5,High,"Metro Station, Offices",179,1396200,Excellent
+LOC_0380,MP Nagar Zone 2 #31,MP Nagar Zone 2,Bhopal,23.2254,77.440704,Co-Working Space,45200,30710,3,5868,4.7,5.6,7.4,Medium,"Hospitals, Transit Hub",61,8235000,Average
+LOC_0381,Platinum Plaza #32,Platinum Plaza,Bhopal,23.232258,77.395651,Clothing Store,62200,9044,2,1780,4.2,5.6,7.1,High,"Offices, Colleges",54,2268000,Average
+LOC_0382,Arera Colony E-3 #33,Arera Colony E-3,Bhopal,23.212366,77.426333,Cafe,39900,50256,5,2241,8.5,6.7,7.4,Medium,"Metro Station, Offices",99,772200,Good
+LOC_0383,TT Nagar #34,TT Nagar,Bhopal,23.239127,77.413009,Cafe,52600,21151,5,3961,6.6,7.2,7.1,Medium,"Transit Hub, Retail Market",90,702000,Good
+LOC_0384,New Market #35,New Market,Bhopal,23.240321,77.403108,Co-Working Space,80700,33375,5,7063,4.5,6.6,7.7,High,"Transit Hub, Retail Market",91,12285000,Good
+LOC_0385,10 Number Market #36,10 Number Market,Bhopal,23.22149,77.421082,Clothing Store,47000,13940,5,5809,7.5,6.0,6.6,Medium,"Offices, Colleges",188,7896000,Excellent
+LOC_0386,MP Nagar Zone 1 #37,MP Nagar Zone 1,Bhopal,23.232216,77.434527,Cafe,87800,12151,5,6132,10.0,6.6,7.7,High,"Offices, Colleges",273,2129400,Excellent
+LOC_0387,Malviya Nagar #38,Malviya Nagar,Bhopal,23.239944,77.410694,Clothing Store,56800,32183,4,3059,5.0,5.1,7.8,Medium,"Offices, Colleges",91,3822000,Good
+LOC_0388,TT Nagar #39,TT Nagar,Bhopal,23.230083,77.406273,Quick Service Restaurant,53100,17347,5,3753,6.7,7.0,5.4,Medium,"Offices, Residential",182,1747200,Excellent
+LOC_0389,Ayodhya Bypass #40,Ayodhya Bypass,Bhopal,23.264354,77.458957,Grocery Store,25400,12012,2,2068,7.3,9.0,6.3,Low,"Metro Station, Offices",69,1552500,Average
+LOC_0390,Bittan Market #41,Bittan Market,Bhopal,23.221929,77.428983,Co-Working Space,53600,12098,4,5392,7.8,7.4,10.0,Medium,"Offices, Transit Hub",74,9990000,Average
+LOC_0391,Gulmohar Colony #42,Gulmohar Colony,Bhopal,23.198705,77.426017,Clothing Store,38900,24490,6,2265,5.6,7.6,5.9,High,"Offices, Colleges",108,4536000,Good
+LOC_0392,Karond #43,Karond,Bhopal,23.294889,77.416839,Co-Working Space,27400,27299,1,2713,5.5,8.0,6.1,Low,"Shopping Mall, High Street",48,6480000,Average
+LOC_0393,New Market #44,New Market,Bhopal,23.236524,77.401068,Pharmacy,68300,14247,3,7908,3.9,8.1,5.9,Medium,"Colleges, Food Court",122,2013000,Excellent
+LOC_0394,Ashoka Garden #45,Ashoka Garden,Bhopal,23.25121,77.436545,Grocery Store,38200,40067,3,3312,6.3,5.1,9.3,Low,"Transit Hub, Retail Market",145,3262500,Excellent
+LOC_0395,Arera Colony E-3 #46,Arera Colony E-3,Bhopal,23.215261,77.423813,Cafe,67600,23649,2,1803,7.8,4.6,7.9,High,"Offices, Residential",80,624000,Good
+LOC_0396,New Market #47,New Market,Bhopal,23.236529,77.401532,Cafe,72500,16655,5,7682,7.4,7.7,7.6,Medium,"Offices, Colleges",287,2238600,Excellent
+LOC_0397,Ayodhya Bypass #48,Ayodhya Bypass,Bhopal,23.271468,77.461711,Clothing Store,18500,17125,4,1730,2.9,9.1,6.2,Low,"Residential, Schools",46,1932000,Average
+LOC_0398,Kolar Road #49,Kolar Road,Bhopal,23.179733,77.419605,Cafe,34800,42849,5,4601,7.4,4.2,7.3,Low,"Residential, Schools",146,1138800,Excellent
+LOC_0399,Platinum Plaza #50,Platinum Plaza,Bhopal,23.240114,77.392035,Co-Working Space,73200,26451,5,5168,5.8,6.7,7.7,Medium,"Colleges, Food Court",69,9315000,Average
+LOC_0400,Shahpura #1,Shahpura,Bhopal,23.206587,77.421725,Cafe,51800,27519,1,3769,4.7,3.4,7.7,High,"Metro Station, Offices",109,850200,Good
+LOC_0401,Arera Colony E-3 #2,Arera Colony E-3,Bhopal,23.21095,77.427802,Co-Working Space,55200,95000,1,2861,8.9,7.6,5.9,High,"Hospitals, Transit Hub",147,19845000,Excellent
+LOC_0402,Kolar Road #3,Kolar Road,Bhopal,23.178006,77.41819,Cafe,23100,52224,2,2865,8.6,4.5,9.6,High,"Shopping Mall, High Street",178,1388400,Excellent
+LOC_0403,MP Nagar Zone 1 #4,MP Nagar Zone 1,Bhopal,23.23353,77.426373,Grocery Store,55300,40470,4,5700,9.8,7.0,8.6,High,"Colleges, Food Court",204,4590000,Excellent
+LOC_0404,Platinum Plaza #5,Platinum Plaza,Bhopal,23.236091,77.400962,Quick Service Restaurant,61100,21966,4,4307,7.8,6.6,8.1,High,"Offices, Colleges",243,2332800,Excellent
+LOC_0405,Bittan Market #6,Bittan Market,Bhopal,23.223348,77.42834,Grocery Store,47300,21894,8,5357,10.0,7.5,7.9,High,"Residential, Schools",209,4702500,Excellent
+LOC_0406,Ayodhya Bypass #7,Ayodhya Bypass,Bhopal,23.272479,77.452281,Cafe,20300,24452,0,1447,5.1,6.2,8.7,Low,"Metro Station, Offices",42,327600,Average
+LOC_0407,Shahpura #8,Shahpura,Bhopal,23.209785,77.421808,Quick Service Restaurant,44200,33955,4,2501,7.9,6.9,8.5,High,"Transit Hub, Retail Market",147,1411200,Excellent
+LOC_0408,Ayodhya Bypass #9,Ayodhya Bypass,Bhopal,23.27499,77.45803,Quick Service Restaurant,23300,20314,3,2095,5.7,4.5,9.6,Medium,"Hospitals, Transit Hub",114,1094400,Good
+LOC_0409,MP Nagar Zone 1 #10,MP Nagar Zone 1,Bhopal,23.235218,77.42472,Quick Service Restaurant,67200,23970,8,7565,6.0,3.8,6.2,High,"Colleges, Food Court",215,2064000,Excellent
+LOC_0410,Lalghati #11,Lalghati,Bhopal,23.277426,77.375816,Co-Working Space,34700,23855,0,2552,7.8,4.4,7.3,Low,"Offices, Transit Hub",48,6480000,Average
+LOC_0411,Hoshangabad Road #12,Hoshangabad Road,Bhopal,23.194431,77.444951,Co-Working Space,62800,26870,2,3742,7.3,6.5,6.5,Medium,"Colleges, Food Court",71,9585000,Average
+LOC_0412,Malviya Nagar #13,Malviya Nagar,Bhopal,23.237844,77.406894,Pharmacy,55300,14128,2,4689,5.8,6.9,6.4,Medium,"Offices, Transit Hub",114,1881000,Good
+LOC_0413,TT Nagar #14,TT Nagar,Bhopal,23.236618,77.401686,Pharmacy,48200,14684,1,5440,9.1,3.5,8.7,Medium,"Metro Station, Offices",104,1716000,Good
+LOC_0414,Karond #15,Karond,Bhopal,23.300922,77.415815,Quick Service Restaurant,17900,20353,2,2904,6.5,6.0,7.5,Low,"Residential, Hospitals",104,998400,Good
+LOC_0415,MP Nagar Zone 1 #16,MP Nagar Zone 1,Bhopal,23.235499,77.430549,Clothing Store,59900,17276,12,6020,8.5,5.0,6.4,High,"Colleges, Food Court",230,9660000,Excellent
+LOC_0416,Kolar Road #17,Kolar Road,Bhopal,23.183371,77.421669,Quick Service Restaurant,28400,35782,4,3630,7.9,9.2,7.1,Medium,"Offices, Colleges",172,1651200,Excellent
+LOC_0417,New Market #18,New Market,Bhopal,23.229779,77.398994,Quick Service Restaurant,79900,13948,14,8146,6.0,5.3,8.3,High,"Offices, Residential",243,2332800,Excellent
+LOC_0418,Bairagarh #19,Bairagarh,Bhopal,23.275233,77.345859,Clothing Store,27700,9750,4,3910,6.4,5.4,5.4,High,"Residential, Schools",115,4830000,Good
+LOC_0419,Indrapuri BHEL #20,Indrapuri BHEL,Bhopal,23.253887,77.473011,Grocery Store,29800,17749,1,3701,5.2,8.9,6.8,Medium,"Metro Station, Offices",82,1845000,Good
+LOC_0420,Platinum Plaza #21,Platinum Plaza,Bhopal,23.24307,77.395199,Quick Service Restaurant,60400,35317,5,4115,6.5,1.0,8.2,High,"Offices, Colleges",180,1728000,Excellent
+LOC_0421,Malviya Nagar #22,Malviya Nagar,Bhopal,23.240019,77.409727,Quick Service Restaurant,50300,7393,0,3614,8.7,5.0,7.6,Medium,"Transit Hub, Retail Market",173,1660800,Excellent
+LOC_0422,Chunabhatti #23,Chunabhatti,Bhopal,23.199275,77.414306,Co-Working Space,32200,40605,1,2439,7.8,5.4,8.2,Low,"Metro Station, Offices",88,11880000,Good
+LOC_0423,Bairagarh #24,Bairagarh,Bhopal,23.274919,77.348077,Pharmacy,46700,31199,6,4647,6.5,6.5,6.8,Medium,"Hospitals, Transit Hub",129,2128500,Excellent
+LOC_0424,Chunabhatti #25,Chunabhatti,Bhopal,23.199213,77.414254,Quick Service Restaurant,36000,32392,3,2140,5.6,2.9,8.1,Medium,"Residential, Hospitals",86,825600,Good
+LOC_0425,Hoshangabad Road #26,Hoshangabad Road,Bhopal,23.196442,77.445198,Quick Service Restaurant,64200,27177,7,5587,7.3,3.6,8.5,Medium,"Shopping Mall, High Street",199,1910400,Excellent
+LOC_0426,MP Nagar Zone 2 #27,MP Nagar Zone 2,Bhopal,23.227721,77.43771,Cafe,62800,24783,2,2211,4.8,4.7,6.6,Medium,"Transit Hub, Retail Market",62,483600,Average
+LOC_0427,Indrapuri BHEL #28,Indrapuri BHEL,Bhopal,23.247674,77.474418,Clothing Store,21600,35279,7,4522,7.6,6.8,8.2,Medium,"Colleges, Food Court",187,7854000,Excellent
+LOC_0428,Chunabhatti #29,Chunabhatti,Bhopal,23.202422,77.409763,Quick Service Restaurant,42800,42675,2,1667,8.5,5.4,7.2,Low,"Residential, Schools",79,758400,Good
+LOC_0429,10 Number Market #30,10 Number Market,Bhopal,23.215671,77.420387,Cafe,72800,15234,12,5922,6.4,6.9,5.1,Medium,"Shopping Mall, High Street",141,1099800,Excellent
+LOC_0430,Shahpura #31,Shahpura,Bhopal,23.208226,77.419387,Quick Service Restaurant,51500,28772,7,3207,8.3,5.0,6.7,High,"Transit Hub, Retail Market",179,1718400,Excellent
+LOC_0431,10 Number Market #32,10 Number Market,Bhopal,23.212435,77.420674,Co-Working Space,56900,27644,2,6359,5.3,7.7,5.5,Low,"Transit Hub, Retail Market",106,14310000,Good
+LOC_0432,TT Nagar #33,TT Nagar,Bhopal,23.237825,77.411121,Quick Service Restaurant,48900,17024,2,3728,9.5,7.8,8.9,Medium,"Colleges, Food Court",190,1824000,Excellent
+LOC_0433,TT Nagar #34,TT Nagar,Bhopal,23.234184,77.407918,Grocery Store,52000,10341,4,5066,5.9,3.5,5.2,Medium,"Residential, Schools",119,2677500,Good
+LOC_0434,Hoshangabad Road #35,Hoshangabad Road,Bhopal,23.199245,77.451348,Grocery Store,46400,13544,3,4139,6.5,5.0,7.5,Medium,"Offices, Colleges",104,2340000,Good
+LOC_0435,Karond #36,Karond,Bhopal,23.30016,77.406113,Quick Service Restaurant,22400,18916,1,3198,5.5,5.1,7.0,Low,"Shopping Mall, High Street",91,873600,Good
+LOC_0436,Karond #37,Karond,Bhopal,23.299734,77.413112,Clothing Store,17600,16382,2,2046,5.7,5.2,8.0,Low,"Residential, Schools",53,2226000,Average
+LOC_0437,Bittan Market #38,Bittan Market,Bhopal,23.215909,77.430335,Co-Working Space,70800,32088,6,5123,6.7,8.3,5.8,High,"Offices, Colleges",100,13500000,Good
+LOC_0438,Hoshangabad Road #39,Hoshangabad Road,Bhopal,23.194309,77.443719,Quick Service Restaurant,77900,37197,6,5970,6.1,5.5,7.7,High,"Residential, Hospitals",188,1804800,Excellent
+LOC_0439,Kolar Road #40,Kolar Road,Bhopal,23.182919,77.421991,Co-Working Space,30000,34426,2,3213,6.0,7.1,8.1,High,"Residential, Schools",93,12555000,Good
+LOC_0440,Bairagarh #41,Bairagarh,Bhopal,23.268896,77.344192,Quick Service Restaurant,34300,22370,5,2469,4.6,5.8,7.6,Low,"Hospitals, Transit Hub",90,864000,Good
+LOC_0441,Hoshangabad Road #42,Hoshangabad Road,Bhopal,23.192497,77.447662,Cafe,60400,20996,10,6828,6.8,8.3,8.2,High,"Metro Station, Offices",224,1747200,Excellent
+LOC_0442,Chunabhatti #43,Chunabhatti,Bhopal,23.201212,77.412556,Quick Service Restaurant,42300,27438,1,1712,7.6,2.9,7.1,Medium,"Offices, Transit Hub",83,796800,Good
+LOC_0443,TT Nagar #44,TT Nagar,Bhopal,23.23681,77.410434,Cafe,31700,12168,4,5008,9.5,4.0,7.0,Medium,"Offices, Colleges",191,1489800,Excellent
+LOC_0444,Chunabhatti #45,Chunabhatti,Bhopal,23.197044,77.415392,Clothing Store,24300,37982,6,1817,8.6,7.3,8.5,Medium,"Shopping Mall, High Street",133,5586000,Excellent
+LOC_0445,TT Nagar #46,TT Nagar,Bhopal,23.235214,77.400321,Quick Service Restaurant,41800,8533,3,3420,7.0,8.8,8.1,Low,"Transit Hub, Retail Market",133,1276800,Excellent
+LOC_0446,Bittan Market #47,Bittan Market,Bhopal,23.21827,77.426339,Quick Service Restaurant,55700,23305,4,3698,6.6,6.0,6.0,High,"Hospitals, Transit Hub",189,1814400,Excellent
+LOC_0447,Karond #48,Karond,Bhopal,23.295169,77.408703,Co-Working Space,21000,27476,0,2598,7.5,6.5,8.0,Medium,"Hospitals, Transit Hub",60,8100000,Average
+LOC_0448,Hoshangabad Road #49,Hoshangabad Road,Bhopal,23.198902,77.455633,Cafe,67700,28771,2,3283,8.6,8.2,9.6,Medium,"Hospitals, Transit Hub",135,1053000,Excellent
+LOC_0449,Bairagarh #50,Bairagarh,Bhopal,23.282276,77.348719,Clothing Store,42200,13968,9,5138,6.4,5.5,7.9,Medium,"Transit Hub, Retail Market",147,6174000,Excellent
+LOC_0450,TT Nagar #1,TT Nagar,Bhopal,23.238787,77.404921,Quick Service Restaurant,42400,19022,6,5494,6.8,4.1,5.1,Medium,"Shopping Mall, High Street",149,1430400,Excellent
+LOC_0451,Hoshangabad Road #2,Hoshangabad Road,Bhopal,23.20002,77.448997,Cafe,40100,24048,7,6153,7.1,9.2,8.7,High,"Offices, Colleges",199,1552200,Excellent
+LOC_0452,Chunabhatti #3,Chunabhatti,Bhopal,23.197472,77.41692,Pharmacy,38000,30047,3,2383,7.6,7.4,7.4,Medium,"Offices, Residential",134,2211000,Excellent
+LOC_0453,Arera Colony E-3 #4,Arera Colony E-3,Bhopal,23.210916,77.422821,Pharmacy,42400,51964,0,2474,6.5,4.9,7.1,High,"Residential, Schools",144,2376000,Excellent
+LOC_0454,Bittan Market #5,Bittan Market,Bhopal,23.221222,77.431869,Grocery Store,57900,22524,7,7107,4.0,6.8,10.0,High,"Shopping Mall, High Street",147,3307500,Excellent
+LOC_0455,Indrapuri BHEL #6,Indrapuri BHEL,Bhopal,23.256483,77.465614,Quick Service Restaurant,28800,27844,12,6252,7.5,6.5,7.6,High,"Transit Hub, Retail Market",215,2064000,Excellent
+LOC_0456,Bittan Market #7,Bittan Market,Bhopal,23.223807,77.429919,Clothing Store,41600,8724,5,3185,7.6,5.2,6.6,Medium,"Transit Hub, Retail Market",83,3486000,Good
+LOC_0457,Ayodhya Bypass #8,Ayodhya Bypass,Bhopal,23.265124,77.452816,Pharmacy,22000,16091,0,2588,10.0,4.5,8.3,Medium,"Transit Hub, Retail Market",91,1501500,Good
+LOC_0458,MP Nagar Zone 2 #9,MP Nagar Zone 2,Bhopal,23.227557,77.433895,Grocery Store,53400,23870,3,4007,5.5,6.3,8.0,Medium,"Offices, Transit Hub",112,2520000,Good
+LOC_0459,MP Nagar Zone 1 #10,MP Nagar Zone 1,Bhopal,23.229276,77.421831,Clothing Store,79600,11102,10,6245,9.0,6.8,7.8,Medium,"Offices, Residential",194,8148000,Excellent
+LOC_0460,MP Nagar Zone 2 #11,MP Nagar Zone 2,Bhopal,23.23482,77.437968,Clothing Store,54800,15316,8,6443,6.3,3.9,6.3,Medium,"Residential, Schools",134,5628000,Excellent
+LOC_0461,Lalghati #12,Lalghati,Bhopal,23.286703,77.374919,Co-Working Space,34500,17365,1,3018,9.6,6.4,8.0,Medium,"Metro Station, Offices",69,9315000,Average
+LOC_0462,Karond #13,Karond,Bhopal,23.299895,77.412966,Co-Working Space,27400,25143,1,2714,6.8,4.3,6.8,Low,"Residential, Schools",40,5400000,Average
+LOC_0463,TT Nagar #14,TT Nagar,Bhopal,23.232315,77.40489,Quick Service Restaurant,58300,14795,3,5586,6.4,4.5,6.8,Medium,"Residential, Hospitals",172,1651200,Excellent
+LOC_0464,10 Number Market #15,10 Number Market,Bhopal,23.219063,77.417881,Co-Working Space,83900,6000,3,6302,7.9,5.0,4.5,Medium,"Offices, Residential",84,11340000,Good
+LOC_0465,Hoshangabad Road #16,Hoshangabad Road,Bhopal,23.194124,77.446888,Pharmacy,74300,17642,3,6421,5.3,7.3,9.8,High,"Hospitals, Transit Hub",181,2986500,Excellent
+LOC_0466,Ayodhya Bypass #17,Ayodhya Bypass,Bhopal,23.267339,77.452873,Quick Service Restaurant,19400,13416,1,1105,7.3,9.4,10.0,Low,"Offices, Transit Hub",63,604800,Average
+LOC_0467,Arera Colony E-3 #18,Arera Colony E-3,Bhopal,23.213315,77.426186,Co-Working Space,57500,35084,0,2484,7.5,5.3,10.0,High,"Hospitals, Transit Hub",83,11205000,Good
+LOC_0468,Kolar Road #19,Kolar Road,Bhopal,23.183074,77.422049,Grocery Store,33500,26263,2,4403,10.0,7.6,8.4,High,"Transit Hub, Retail Market",200,4500000,Excellent
+LOC_0469,Bairagarh #20,Bairagarh,Bhopal,23.271713,77.348353,Quick Service Restaurant,27400,11580,6,5468,5.4,6.7,7.1,Medium,"Shopping Mall, High Street",168,1612800,Excellent
+LOC_0470,Lalghati #21,Lalghati,Bhopal,23.288966,77.375575,Co-Working Space,36000,18244,1,2332,6.8,6.5,7.6,High,"Colleges, Food Court",48,6480000,Average
+LOC_0471,Karond #22,Karond,Bhopal,23.299087,77.408055,Cafe,15800,22753,2,1679,6.4,7.0,6.1,Medium,"Hospitals, Transit Hub",64,499200,Average
+LOC_0472,Arera Colony E-3 #23,Arera Colony E-3,Bhopal,23.211598,77.425801,Clothing Store,48000,27475,6,3294,8.1,5.2,7.5,High,"Offices, Transit Hub",128,5376000,Excellent
+LOC_0473,Gulmohar Colony #24,Gulmohar Colony,Bhopal,23.2015,77.425959,Co-Working Space,45700,34618,1,3574,8.2,8.9,8.3,Medium,"Offices, Colleges",86,11610000,Good
+LOC_0474,MP Nagar Zone 1 #25,MP Nagar Zone 1,Bhopal,23.230853,77.433575,Cafe,80900,13402,11,7279,8.5,4.7,7.2,High,"Offices, Colleges",253,1973400,Excellent
+LOC_0475,Hoshangabad Road #26,Hoshangabad Road,Bhopal,23.192921,77.448288,Quick Service Restaurant,71300,23925,10,6486,10.0,4.1,7.0,High,"Residential, Hospitals",218,2092800,Excellent
+LOC_0476,Ashoka Garden #27,Ashoka Garden,Bhopal,23.258806,77.423714,Grocery Store,27700,23656,2,3004,9.2,4.4,9.0,Medium,"Transit Hub, Retail Market",125,2812500,Excellent
+LOC_0477,MP Nagar Zone 1 #28,MP Nagar Zone 1,Bhopal,23.232157,77.424217,Co-Working Space,64000,17154,1,6201,7.3,8.5,7.6,High,"Residential, Schools",91,12285000,Good
+LOC_0478,TT Nagar #29,TT Nagar,Bhopal,23.230214,77.408339,Co-Working Space,34800,28369,3,5382,7.8,5.3,7.9,Low,"Residential, Hospitals",82,11070000,Good
+LOC_0479,Kolar Road #30,Kolar Road,Bhopal,23.181403,77.423594,Pharmacy,27000,45582,1,2928,4.1,8.2,6.4,Medium,"Colleges, Food Court",98,1617000,Good
+LOC_0480,Gulmohar Colony #31,Gulmohar Colony,Bhopal,23.200651,77.430636,Quick Service Restaurant,53900,56257,1,1459,6.2,8.0,6.5,High,"Colleges, Food Court",117,1123200,Good
+LOC_0481,Ayodhya Bypass #32,Ayodhya Bypass,Bhopal,23.272151,77.460404,Clothing Store,15000,46729,6,1687,4.2,6.4,7.5,High,"Transit Hub, Retail Market",83,3486000,Good
+LOC_0482,Ashoka Garden #33,Ashoka Garden,Bhopal,23.25769,77.434846,Cafe,22000,17424,3,3000,7.6,8.8,5.7,High,"Offices, Transit Hub",146,1138800,Excellent
+LOC_0483,TT Nagar #34,TT Nagar,Bhopal,23.235959,77.39659,Grocery Store,44600,24860,3,5609,7.9,3.6,8.9,Medium,"Metro Station, Offices",178,4005000,Excellent
+LOC_0484,Hoshangabad Road #35,Hoshangabad Road,Bhopal,23.197263,77.4471,Cafe,65100,13769,3,3903,8.2,5.3,6.3,High,"Offices, Residential",138,1076400,Excellent
+LOC_0485,10 Number Market #36,10 Number Market,Bhopal,23.218801,77.422934,Pharmacy,59100,13134,4,9643,5.1,6.0,9.2,High,"Residential, Schools",130,2145000,Excellent
+LOC_0486,Lalghati #37,Lalghati,Bhopal,23.285137,77.379529,Pharmacy,35300,11689,1,2658,9.3,6.6,5.2,Medium,"Transit Hub, Retail Market",89,1468500,Good
+LOC_0487,New Market #38,New Market,Bhopal,23.232388,77.402626,Clothing Store,81400,18272,22,9870,6.1,4.2,7.4,Medium,"Hospitals, Transit Hub",166,6972000,Excellent
+LOC_0488,Karond #39,Karond,Bhopal,23.297863,77.415814,Pharmacy,23900,19452,1,3398,7.2,7.7,5.6,Medium,"Residential, Hospitals",101,1666500,Good
+LOC_0489,Ashoka Garden #40,Ashoka Garden,Bhopal,23.256734,77.429912,Co-Working Space,25400,22781,0,4162,7.3,8.2,8.2,Low,"Colleges, Food Court",65,8775000,Average
+LOC_0490,Platinum Plaza #41,Platinum Plaza,Bhopal,23.238819,77.402943,Pharmacy,72900,11725,5,4884,9.2,6.2,8.1,High,"Metro Station, Offices",120,1980000,Excellent
+LOC_0491,Bittan Market #42,Bittan Market,Bhopal,23.219608,77.427739,Quick Service Restaurant,52700,27692,9,4613,6.9,7.1,6.6,High,"Hospitals, Transit Hub",213,2044800,Excellent
+LOC_0492,Platinum Plaza #43,Platinum Plaza,Bhopal,23.241024,77.399946,Grocery Store,74300,11994,4,3841,6.3,4.1,8.3,High,"Colleges, Food Court",96,2160000,Good
+LOC_0493,TT Nagar #44,TT Nagar,Bhopal,23.231361,77.410551,Pharmacy,56200,22995,1,2201,6.4,7.2,5.5,Medium,"Residential, Hospitals",79,1303500,Good
+LOC_0494,MP Nagar Zone 1 #45,MP Nagar Zone 1,Bhopal,23.230414,77.428894,Pharmacy,68700,23840,5,6508,9.1,6.2,5.7,High,"Hospitals, Transit Hub",171,2821500,Excellent
+LOC_0495,Gulmohar Colony #46,Gulmohar Colony,Bhopal,23.200866,77.43736,Quick Service Restaurant,64700,48314,2,2222,7.4,6.4,7.8,High,"Residential, Schools",122,1171200,Excellent
+LOC_0496,Kolar Road #47,Kolar Road,Bhopal,23.176364,77.421822,Cafe,41000,36103,0,2435,5.4,5.4,7.1,Medium,"Offices, Residential",79,616200,Good
+LOC_0497,Ashoka Garden #48,Ashoka Garden,Bhopal,23.254455,77.430766,Cafe,27300,47836,2,2565,7.8,7.0,5.7,High,"Colleges, Food Court",127,990600,Excellent
+LOC_0498,MP Nagar Zone 2 #49,MP Nagar Zone 2,Bhopal,23.235589,77.432897,Quick Service Restaurant,63000,13070,2,5878,5.6,4.2,6.2,Low,"Residential, Schools",153,1468800,Excellent
+LOC_0499,Ashoka Garden #50,Ashoka Garden,Bhopal,23.251616,77.436135,Quick Service Restaurant,23500,16365,3,2256,7.7,6.7,7.1,Low,"Transit Hub, Retail Market",94,902400,Good
+LOC_0500,Arera Colony E-3 #1,Arera Colony E-3,Bhopal,23.220927,77.421177,Clothing Store,52100,52089,3,3395,8.4,5.2,9.1,High,"Residential, Schools",134,5628000,Excellent
+LOC_0501,Malviya Nagar #2,Malviya Nagar,Bhopal,23.237044,77.409908,Cafe,48800,15560,0,4827,7.9,6.6,8.6,Medium,"Colleges, Food Court",176,1372800,Excellent
+LOC_0502,Bairagarh #3,Bairagarh,Bhopal,23.271029,77.347264,Quick Service Restaurant,39300,42198,17,8110,10.0,4.8,7.5,Low,"Offices, Colleges",244,2342400,Excellent
+LOC_0503,TT Nagar #4,TT Nagar,Bhopal,23.235559,77.401732,Grocery Store,42800,20494,7,5414,9.4,5.9,5.6,Medium,"Offices, Transit Hub",179,4027500,Excellent
+LOC_0504,Karond #5,Karond,Bhopal,23.296588,77.419094,Cafe,16800,12130,1,2596,5.3,3.8,4.6,Low,"Transit Hub, Retail Market",46,358800,Average
+LOC_0505,Chunabhatti #6,Chunabhatti,Bhopal,23.205782,77.416722,Grocery Store,41700,42247,1,2205,5.7,7.4,9.9,Medium,"Colleges, Food Court",126,2835000,Excellent
+LOC_0506,MP Nagar Zone 1 #7,MP Nagar Zone 1,Bhopal,23.236601,77.429966,Pharmacy,76600,17321,2,6943,7.0,5.2,9.3,Medium,"Metro Station, Offices",130,2145000,Excellent
+LOC_0507,New Market #8,New Market,Bhopal,23.235908,77.401345,Cafe,32200,26638,6,8666,9.0,3.4,7.1,High,"Shopping Mall, High Street",296,2308800,Excellent
+LOC_0508,MP Nagar Zone 2 #9,MP Nagar Zone 2,Bhopal,23.233271,77.438227,Quick Service Restaurant,53200,20273,7,4765,3.6,4.6,8.1,High,"Colleges, Food Court",141,1353600,Excellent
+LOC_0509,New Market #10,New Market,Bhopal,23.237274,77.40648,Grocery Store,55800,30254,5,7111,7.9,8.4,8.1,Medium,"Residential, Hospitals",323,7267500,Excellent
+LOC_0510,Bittan Market #11,Bittan Market,Bhopal,23.222422,77.42727,Cafe,52800,20889,3,3439,8.2,6.3,8.2,Low,"Metro Station, Offices",118,920400,Good
+LOC_0511,10 Number Market #12,10 Number Market,Bhopal,23.217569,77.420827,Co-Working Space,45300,34497,2,6905,10.0,8.0,9.4,High,"Residential, Schools",128,17280000,Excellent
+LOC_0512,Ayodhya Bypass #13,Ayodhya Bypass,Bhopal,23.271043,77.449719,Cafe,18000,16004,2,1672,5.3,8.1,6.5,Low,"Offices, Colleges",61,475800,Average
+LOC_0513,Kolar Road #14,Kolar Road,Bhopal,23.186226,77.421268,Quick Service Restaurant,32000,49807,4,3199,8.9,5.4,6.8,Medium,"Residential, Schools",167,1603200,Excellent
+LOC_0514,Lalghati #15,Lalghati,Bhopal,23.281181,77.384292,Quick Service Restaurant,32100,15475,4,3385,6.4,5.1,7.2,Medium,"Hospitals, Transit Hub",156,1497600,Excellent
+LOC_0515,TT Nagar #16,TT Nagar,Bhopal,23.239148,77.396018,Clothing Store,54300,29808,8,5815,5.4,7.2,7.8,Medium,"Colleges, Food Court",185,7770000,Excellent
+LOC_0516,TT Nagar #17,TT Nagar,Bhopal,23.236166,77.403501,Quick Service Restaurant,60600,17741,6,3276,6.9,8.7,7.7,Medium,"Shopping Mall, High Street",126,1209600,Excellent
+LOC_0517,Hoshangabad Road #18,Hoshangabad Road,Bhopal,23.193794,77.448043,Cafe,63200,10009,8,5829,7.4,4.2,10.0,High,"Offices, Residential",214,1669200,Excellent
+LOC_0518,Gulmohar Colony #19,Gulmohar Colony,Bhopal,23.198463,77.434789,Quick Service Restaurant,62100,14761,3,2153,9.2,3.6,8.6,High,"Offices, Colleges",124,1190400,Excellent
+LOC_0519,Karond #20,Karond,Bhopal,23.30112,77.411285,Pharmacy,19000,23888,0,2830,8.1,8.0,6.1,Low,"Offices, Colleges",88,1452000,Good
+LOC_0520,Platinum Plaza #21,Platinum Plaza,Bhopal,23.235456,77.399677,Clothing Store,64700,20867,7,3524,7.1,8.1,7.7,High,"Hospitals, Transit Hub",114,4788000,Good
+LOC_0521,Kolar Road #22,Kolar Road,Bhopal,23.182386,77.418327,Quick Service Restaurant,35800,24245,7,2342,7.6,6.1,5.1,Medium,"Transit Hub, Retail Market",93,892800,Good
+LOC_0522,Karond #23,Karond,Bhopal,23.296001,77.414208,Quick Service Restaurant,22800,11280,7,2597,7.8,7.2,6.4,Low,"Metro Station, Offices",74,710400,Average
+LOC_0523,Hoshangabad Road #24,Hoshangabad Road,Bhopal,23.190855,77.447663,Grocery Store,70300,18148,6,5454,4.4,6.1,6.9,High,"Residential, Schools",112,2520000,Good
+LOC_0524,Ayodhya Bypass #25,Ayodhya Bypass,Bhopal,23.270857,77.454387,Quick Service Restaurant,24400,13062,3,1716,7.1,7.7,8.5,Low,"Transit Hub, Retail Market",83,796800,Good
+LOC_0525,Bittan Market #26,Bittan Market,Bhopal,23.221175,77.423943,Cafe,53500,59215,3,4638,10.0,9.2,8.2,High,"Offices, Transit Hub",290,2262000,Excellent
+LOC_0526,Kolar Road #27,Kolar Road,Bhopal,23.179172,77.412791,Clothing Store,28300,65741,5,2174,7.5,4.3,6.5,Low,"Residential, Hospitals",112,4704000,Good
+LOC_0527,10 Number Market #28,10 Number Market,Bhopal,23.221185,77.422883,Pharmacy,65000,21918,5,5463,9.8,7.6,6.0,High,"Residential, Hospitals",186,3069000,Excellent
+LOC_0528,Shahpura #29,Shahpura,Bhopal,23.210741,77.421068,Co-Working Space,46300,35566,0,1619,6.6,5.7,6.5,High,"Hospitals, Transit Hub",44,5940000,Average
+LOC_0529,MP Nagar Zone 2 #30,MP Nagar Zone 2,Bhopal,23.232553,77.437187,Grocery Store,61100,26915,2,5602,6.8,7.0,5.1,Medium,"Transit Hub, Retail Market",157,3532500,Excellent
+LOC_0530,Lalghati #31,Lalghati,Bhopal,23.291953,77.381184,Quick Service Restaurant,33500,26359,1,1397,3.2,4.0,7.7,Low,"Colleges, Food Court",57,547200,Average
+LOC_0531,Platinum Plaza #32,Platinum Plaza,Bhopal,23.23944,77.395705,Grocery Store,76900,27604,4,4980,7.2,3.6,8.9,High,"Transit Hub, Retail Market",189,4252500,Excellent
+LOC_0532,Lalghati #33,Lalghati,Bhopal,23.286702,77.375793,Co-Working Space,44000,14638,3,3601,6.4,5.3,8.9,Medium,"Offices, Colleges",61,8235000,Average
+LOC_0533,Platinum Plaza #34,Platinum Plaza,Bhopal,23.237094,77.407633,Clothing Store,48500,16841,4,2185,6.8,9.6,8.2,High,"Offices, Transit Hub",77,3234000,Good
+LOC_0534,Hoshangabad Road #35,Hoshangabad Road,Bhopal,23.195775,77.449137,Clothing Store,68500,32441,1,4973,9.7,7.7,6.5,Medium,"Shopping Mall, High Street",273,11466000,Excellent
+LOC_0535,Lalghati #36,Lalghati,Bhopal,23.285653,77.377156,Pharmacy,32000,29127,2,3052,9.0,5.9,5.7,Medium,"Metro Station, Offices",114,1881000,Good
+LOC_0536,New Market #37,New Market,Bhopal,23.237672,77.403421,Clothing Store,75500,24862,3,3278,7.3,5.9,5.8,Medium,"Residential, Hospitals",72,3024000,Average
+LOC_0537,Bairagarh #38,Bairagarh,Bhopal,23.277907,77.352759,Pharmacy,28400,8925,2,7343,3.7,6.9,7.1,Low,"Offices, Residential",126,2079000,Excellent
+LOC_0538,Karond #39,Karond,Bhopal,23.294655,77.415336,Cafe,22800,15549,1,2026,5.3,6.3,6.0,Medium,"Residential, Schools",44,343200,Average
+LOC_0539,Bairagarh #40,Bairagarh,Bhopal,23.279788,77.346214,Quick Service Restaurant,36100,17423,7,7141,7.4,7.1,9.3,Medium,"Offices, Residential",343,3292800,Excellent
+LOC_0540,MP Nagar Zone 1 #41,MP Nagar Zone 1,Bhopal,23.238844,77.4249,Clothing Store,47500,40540,9,6790,7.9,6.0,7.2,High,"Transit Hub, Retail Market",202,8484000,Excellent
+LOC_0541,Chunabhatti #42,Chunabhatti,Bhopal,23.199,77.408882,Grocery Store,39200,32996,0,2215,6.9,8.0,7.5,Medium,"Residential, Schools",138,3105000,Excellent
+LOC_0542,Shahpura #43,Shahpura,Bhopal,23.208436,77.423926,Co-Working Space,40900,59458,0,3349,7.2,9.4,7.6,High,"Metro Station, Offices",121,16335000,Excellent
+LOC_0543,Karond #44,Karond,Bhopal,23.297972,77.412315,Pharmacy,22900,32156,1,2161,7.5,7.5,8.0,Medium,"Residential, Schools",115,1897500,Good
+LOC_0544,TT Nagar #45,TT Nagar,Bhopal,23.238098,77.405291,Grocery Store,51600,24118,4,4754,7.6,5.8,7.6,Medium,"Offices, Colleges",129,2902500,Excellent
+LOC_0545,Lalghati #46,Lalghati,Bhopal,23.288879,77.37668,Co-Working Space,30400,28928,0,1885,7.8,3.3,9.2,Low,"Offices, Residential",47,6345000,Average
+LOC_0546,Ashoka Garden #47,Ashoka Garden,Bhopal,23.24968,77.437264,Co-Working Space,23100,34354,1,3212,6.7,6.9,7.5,Low,"Hospitals, Transit Hub",60,8100000,Average
+LOC_0547,New Market #48,New Market,Bhopal,23.236498,77.406223,Quick Service Restaurant,73300,14615,15,6723,8.9,9.0,9.6,Low,"Colleges, Food Court",243,2332800,Excellent
+LOC_0548,Bittan Market #49,Bittan Market,Bhopal,23.213246,77.428542,Cafe,74800,13414,4,3293,10.0,4.0,5.4,Medium,"Offices, Residential",154,1201200,Excellent
+LOC_0549,Bairagarh #50,Bairagarh,Bhopal,23.275785,77.343852,Clothing Store,26000,29501,16,6553,5.7,3.0,7.9,Low,"Transit Hub, Retail Market",105,4410000,Good
+LOC_0550,MP Nagar Zone 2 #1,MP Nagar Zone 2,Bhopal,23.233007,77.431868,Co-Working Space,74000,17933,5,6922,4.7,5.6,7.3,Medium,"Hospitals, Transit Hub",70,9450000,Average
+LOC_0551,MP Nagar Zone 1 #2,MP Nagar Zone 1,Bhopal,23.242315,77.433039,Grocery Store,69000,23415,2,5988,6.2,2.9,6.7,Medium,"Residential, Hospitals",136,3060000,Excellent
+LOC_0552,Bittan Market #3,Bittan Market,Bhopal,23.214179,77.425995,Co-Working Space,62500,23411,3,5681,5.5,6.3,9.7,High,"Offices, Colleges",121,16335000,Excellent
+LOC_0553,Arera Colony E-3 #4,Arera Colony E-3,Bhopal,23.214191,77.4244,Grocery Store,61100,40348,1,2438,7.5,7.5,6.6,High,"Offices, Colleges",150,3375000,Excellent
+LOC_0554,Chunabhatti #5,Chunabhatti,Bhopal,23.202593,77.415088,Co-Working Space,41500,77090,1,2382,6.9,8.0,9.5,High,"Colleges, Food Court",112,15120000,Good
+LOC_0555,TT Nagar #6,TT Nagar,Bhopal,23.238908,77.406818,Quick Service Restaurant,35600,14379,3,3899,8.8,8.3,8.0,Medium,"Colleges, Food Court",184,1766400,Excellent
+LOC_0556,Ayodhya Bypass #7,Ayodhya Bypass,Bhopal,23.274584,77.463052,Co-Working Space,15000,36710,1,2000,5.7,6.1,6.9,High,"Transit Hub, Retail Market",58,7830000,Average
+LOC_0557,TT Nagar #8,TT Nagar,Bhopal,23.235198,77.405563,Co-Working Space,48100,31597,2,4648,8.3,8.0,8.0,High,"Hospitals, Transit Hub",121,16335000,Excellent
+LOC_0558,TT Nagar #9,TT Nagar,Bhopal,23.236393,77.404437,Clothing Store,39500,18039,7,6488,6.5,4.5,8.1,Medium,"Transit Hub, Retail Market",165,6930000,Excellent
+LOC_0559,Arera Colony E-3 #10,Arera Colony E-3,Bhopal,23.209632,77.42289,Quick Service Restaurant,53500,47324,8,3458,5.3,5.6,8.2,Medium,"Hospitals, Transit Hub",164,1574400,Excellent
+LOC_0560,Chunabhatti #11,Chunabhatti,Bhopal,23.204578,77.41852,Pharmacy,42900,18145,2,1814,8.5,6.9,8.1,Medium,"Offices, Colleges",74,1221000,Average
+LOC_0561,Hoshangabad Road #12,Hoshangabad Road,Bhopal,23.196552,77.448637,Cafe,65700,22663,4,2838,8.9,5.9,8.5,High,"Offices, Transit Hub",131,1021800,Excellent
+LOC_0562,Kolar Road #13,Kolar Road,Bhopal,23.184864,77.42386,Pharmacy,26100,27101,1,2765,7.9,6.7,5.8,High,"Residential, Schools",120,1980000,Excellent
+LOC_0563,Hoshangabad Road #14,Hoshangabad Road,Bhopal,23.190311,77.446078,Co-Working Space,56800,28045,0,4634,6.5,6.5,7.8,Low,"Residential, Schools",60,8100000,Average
+LOC_0564,Arera Colony E-3 #15,Arera Colony E-3,Bhopal,23.218898,77.426375,Pharmacy,49100,28707,1,3384,6.5,6.6,5.7,High,"Hospitals, Transit Hub",131,2161500,Excellent
+LOC_0565,Lalghati #16,Lalghati,Bhopal,23.2809,77.375813,Co-Working Space,27300,26805,2,3786,7.2,4.5,9.7,Medium,"Offices, Residential",88,11880000,Good
+LOC_0566,Shahpura #17,Shahpura,Bhopal,23.206856,77.415769,Pharmacy,40400,33956,1,4014,6.2,5.0,8.2,High,"Residential, Hospitals",129,2128500,Excellent
+LOC_0567,TT Nagar #18,TT Nagar,Bhopal,23.233675,77.407352,Clothing Store,34600,20911,3,3572,9.0,4.4,8.9,Low,"Hospitals, Transit Hub",102,4284000,Good
+LOC_0568,Kolar Road #19,Kolar Road,Bhopal,23.181967,77.41477,Cafe,38100,95000,1,2882,10.0,5.6,5.6,Medium,"Shopping Mall, High Street",178,1388400,Excellent
+LOC_0569,Ayodhya Bypass #20,Ayodhya Bypass,Bhopal,23.274983,77.458017,Clothing Store,26100,29380,1,2255,6.3,8.0,6.8,Low,"Metro Station, Offices",80,3360000,Good
+LOC_0570,10 Number Market #21,10 Number Market,Bhopal,23.215542,77.426536,Co-Working Space,62500,14054,0,4232,7.9,8.6,9.3,High,"Metro Station, Offices",100,13500000,Good
+LOC_0571,Shahpura #22,Shahpura,Bhopal,23.209696,77.417375,Grocery Store,52500,57196,1,2828,5.7,6.3,10.0,Medium,"Residential, Hospitals",161,3622500,Excellent
+LOC_0572,New Market #23,New Market,Bhopal,23.237309,77.401962,Quick Service Restaurant,48700,20614,10,8276,7.7,7.5,9.1,Medium,"Metro Station, Offices",320,3072000,Excellent
+LOC_0573,Ashoka Garden #24,Ashoka Garden,Bhopal,23.254793,77.43848,Pharmacy,17700,29573,1,3059,6.6,10.0,8.3,Low,"Hospitals, Transit Hub",119,1963500,Good
+LOC_0574,Platinum Plaza #25,Platinum Plaza,Bhopal,23.238048,77.401006,Grocery Store,50600,19240,3,5186,5.9,7.6,7.0,High,"Shopping Mall, High Street",151,3397500,Excellent
+LOC_0575,New Market #26,New Market,Bhopal,23.240912,77.406238,Clothing Store,79800,14000,12,6292,6.4,7.6,8.2,Medium,"Colleges, Food Court",171,7182000,Excellent
+LOC_0576,Shahpura #27,Shahpura,Bhopal,23.210036,77.416034,Quick Service Restaurant,49700,93763,0,2928,8.6,4.3,5.1,High,"Offices, Colleges",218,2092800,Excellent
+LOC_0577,Platinum Plaza #28,Platinum Plaza,Bhopal,23.235354,77.396073,Grocery Store,45000,40535,6,5060,7.6,5.8,7.5,High,"Offices, Residential",186,4185000,Excellent
+LOC_0578,MP Nagar Zone 2 #29,MP Nagar Zone 2,Bhopal,23.227463,77.430757,Clothing Store,75100,23956,5,5093,6.9,7.3,7.9,High,"Shopping Mall, High Street",200,8400000,Excellent
+LOC_0579,Arera Colony E-3 #30,Arera Colony E-3,Bhopal,23.210404,77.429972,Clothing Store,58600,64979,2,2305,4.8,7.2,7.9,High,"Residential, Hospitals",111,4662000,Good
+LOC_0580,Arera Colony E-3 #31,Arera Colony E-3,Bhopal,23.215211,77.425802,Cafe,63900,38028,2,3074,7.8,3.2,5.9,High,"Residential, Schools",102,795600,Good
+LOC_0581,New Market #32,New Market,Bhopal,23.234476,77.40663,Co-Working Space,95700,21211,3,8342,7.5,7.1,7.3,Medium,"Offices, Transit Hub",145,19575000,Excellent
+LOC_0582,MP Nagar Zone 1 #33,MP Nagar Zone 1,Bhopal,23.237457,77.42966,Co-Working Space,86900,14489,0,5307,6.8,5.3,8.2,High,"Transit Hub, Retail Market",93,12555000,Good
+LOC_0583,Ashoka Garden #34,Ashoka Garden,Bhopal,23.251929,77.436956,Quick Service Restaurant,19400,17688,4,3136,5.9,8.1,5.1,Medium,"Metro Station, Offices",126,1209600,Excellent
+LOC_0584,Platinum Plaza #35,Platinum Plaza,Bhopal,23.236531,77.398167,Cafe,58200,22390,1,2751,7.7,5.9,7.4,High,"Residential, Schools",99,772200,Good
+LOC_0585,Ayodhya Bypass #36,Ayodhya Bypass,Bhopal,23.273117,77.447808,Grocery Store,17900,8797,4,2415,6.9,6.5,7.0,Low,"Hospitals, Transit Hub",76,1710000,Good
+LOC_0586,Malviya Nagar #37,Malviya Nagar,Bhopal,23.240892,77.413167,Clothing Store,48500,15383,5,4861,6.5,6.6,7.7,Medium,"Hospitals, Transit Hub",165,6930000,Excellent
+LOC_0587,Chunabhatti #38,Chunabhatti,Bhopal,23.2087,77.412647,Cafe,45100,29887,3,1943,5.4,7.5,8.2,Medium,"Residential, Hospitals",61,475800,Average
+LOC_0588,Gulmohar Colony #39,Gulmohar Colony,Bhopal,23.193573,77.428405,Pharmacy,51000,44782,1,2806,8.0,4.8,5.4,High,"Offices, Transit Hub",137,2260500,Excellent
+LOC_0589,Ayodhya Bypass #40,Ayodhya Bypass,Bhopal,23.267914,77.460838,Clothing Store,25700,16435,1,1503,8.9,4.8,7.6,Low,"Offices, Colleges",61,2562000,Average
+LOC_0590,Gulmohar Colony #41,Gulmohar Colony,Bhopal,23.20133,77.432297,Co-Working Space,53900,39665,4,2536,6.8,6.2,8.2,High,"Metro Station, Offices",87,11745000,Good
+LOC_0591,Indrapuri BHEL #42,Indrapuri BHEL,Bhopal,23.246715,77.473175,Pharmacy,32800,12154,2,3846,6.3,5.2,8.8,Medium,"Offices, Colleges",84,1386000,Good
+LOC_0592,TT Nagar #43,TT Nagar,Bhopal,23.235834,77.404121,Grocery Store,46900,27205,3,3988,6.8,5.9,7.4,Medium,"Hospitals, Transit Hub",134,3015000,Excellent
+LOC_0593,Ayodhya Bypass #44,Ayodhya Bypass,Bhopal,23.266508,77.45511,Grocery Store,25900,24114,2,1613,7.3,2.4,4.5,Low,"Offices, Residential",60,1350000,Average
+LOC_0594,Ayodhya Bypass #45,Ayodhya Bypass,Bhopal,23.267715,77.458462,Quick Service Restaurant,21800,11879,0,1289,7.8,6.2,7.6,Medium,"Colleges, Food Court",62,595200,Average
+LOC_0595,MP Nagar Zone 1 #46,MP Nagar Zone 1,Bhopal,23.236094,77.429099,Cafe,53900,13720,6,6563,4.9,9.1,6.9,High,"Residential, Schools",167,1302600,Excellent
+LOC_0596,New Market #47,New Market,Bhopal,23.23572,77.403777,Clothing Store,78600,14067,7,6146,6.9,6.6,7.3,Medium,"Offices, Colleges",220,9240000,Excellent
+LOC_0597,Kolar Road #48,Kolar Road,Bhopal,23.172853,77.417375,Cafe,36900,59556,2,2507,5.6,8.6,7.3,Low,"Offices, Residential",125,975000,Excellent
+LOC_0598,Bairagarh #49,Bairagarh,Bhopal,23.283735,77.350362,Quick Service Restaurant,46800,28895,14,7852,7.8,5.1,8.7,High,"Metro Station, Offices",218,2092800,Excellent
+LOC_0599,Bittan Market #50,Bittan Market,Bhopal,23.225483,77.425264,Cafe,58300,19524,3,5893,6.1,3.2,8.0,High,"Shopping Mall, High Street",225,1755000,Excellent
+LOC_0600,Chunabhatti #1,Chunabhatti,Bhopal,23.201832,77.410929,Clothing Store,41100,23718,3,1464,5.2,4.2,5.7,High,"Metro Station, Offices",53,2226000,Average
+LOC_0601,Ashoka Garden #2,Ashoka Garden,Bhopal,23.251098,77.436139,Pharmacy,20600,37153,1,3550,7.0,8.2,7.1,Low,"Residential, Schools",141,2326500,Excellent
+LOC_0602,Arera Colony E-3 #3,Arera Colony E-3,Bhopal,23.216841,77.421048,Co-Working Space,47700,32380,3,3210,7.5,9.0,6.1,Medium,"Shopping Mall, High Street",79,10665000,Good
+LOC_0603,Arera Colony E-3 #4,Arera Colony E-3,Bhopal,23.209146,77.42661,Quick Service Restaurant,56700,35646,6,3619,7.0,2.7,10.0,High,"Hospitals, Transit Hub",159,1526400,Excellent
+LOC_0604,New Market #5,New Market,Bhopal,23.244264,77.399889,Quick Service Restaurant,79600,21489,5,4554,10.0,4.5,5.7,Medium,"Offices, Colleges",200,1920000,Excellent
+LOC_0605,Ayodhya Bypass #6,Ayodhya Bypass,Bhopal,23.273597,77.456715,Pharmacy,18400,25156,1,2390,8.3,7.8,6.8,Low,"Hospitals, Transit Hub",103,1699500,Good
+LOC_0606,Ashoka Garden #7,Ashoka Garden,Bhopal,23.250959,77.436994,Grocery Store,23500,46500,1,2882,6.2,3.1,7.8,Low,"Metro Station, Offices",119,2677500,Good
+LOC_0607,MP Nagar Zone 1 #8,MP Nagar Zone 1,Bhopal,23.234393,77.432603,Cafe,71500,8873,6,4947,5.7,5.5,7.3,High,"Offices, Colleges",178,1388400,Excellent
+LOC_0608,Karond #9,Karond,Bhopal,23.295406,77.408926,Pharmacy,25100,12343,0,1979,7.9,6.2,7.9,Low,"Transit Hub, Retail Market",60,990000,Average
+LOC_0609,Arera Colony E-3 #10,Arera Colony E-3,Bhopal,23.22302,77.427611,Clothing Store,63300,43124,7,2914,6.9,1.1,6.0,High,"Residential, Schools",71,2982000,Average
+LOC_0610,Ashoka Garden #11,Ashoka Garden,Bhopal,23.255473,77.426669,Quick Service Restaurant,23500,32398,3,3570,6.3,7.5,7.5,Low,"Residential, Schools",129,1238400,Excellent
+LOC_0611,New Market #12,New Market,Bhopal,23.239839,77.398393,Co-Working Space,73100,25094,4,7430,7.3,6.9,7.1,Medium,"Hospitals, Transit Hub",114,15390000,Good
+LOC_0612,Hoshangabad Road #13,Hoshangabad Road,Bhopal,23.19512,77.450051,Cafe,69900,15162,5,4488,5.6,7.7,7.0,High,"Transit Hub, Retail Market",127,990600,Excellent
+LOC_0613,Bittan Market #14,Bittan Market,Bhopal,23.21717,77.432728,Co-Working Space,61700,12803,5,4911,7.0,2.2,7.2,High,"Offices, Residential",67,9045000,Average
+LOC_0614,10 Number Market #15,10 Number Market,Bhopal,23.226154,77.428825,Cafe,62200,16436,6,5814,5.5,3.0,9.0,Medium,"Colleges, Food Court",125,975000,Excellent
+LOC_0615,Indrapuri BHEL #16,Indrapuri BHEL,Bhopal,23.24834,77.476208,Co-Working Space,36500,22272,0,3368,6.6,6.6,7.2,Medium,"Residential, Schools",54,7290000,Average
+LOC_0616,Hoshangabad Road #17,Hoshangabad Road,Bhopal,23.19162,77.450209,Cafe,53500,28154,5,4345,7.7,5.2,7.3,Medium,"Residential, Hospitals",121,943800,Excellent
+LOC_0617,Ashoka Garden #18,Ashoka Garden,Bhopal,23.25518,77.433639,Grocery Store,27600,34686,1,4146,8.2,4.1,5.3,Low,"Offices, Transit Hub",128,2880000,Excellent
+LOC_0618,Ayodhya Bypass #19,Ayodhya Bypass,Bhopal,23.27787,77.454875,Cafe,23500,37510,1,1843,8.0,4.9,8.2,Low,"Residential, Schools",67,522600,Average
+LOC_0619,Ashoka Garden #20,Ashoka Garden,Bhopal,23.257029,77.432998,Quick Service Restaurant,23100,49065,2,2852,8.3,7.0,9.5,Low,"Offices, Transit Hub",212,2035200,Excellent
+LOC_0620,MP Nagar Zone 1 #21,MP Nagar Zone 1,Bhopal,23.231703,77.434833,Cafe,65400,43476,3,5611,7.4,4.4,6.9,Low,"Colleges, Food Court",158,1232400,Excellent
+LOC_0621,Karond #22,Karond,Bhopal,23.295341,77.409515,Pharmacy,20500,13072,4,2622,8.5,7.1,5.0,Low,"Offices, Residential",86,1419000,Good
+LOC_0622,Bairagarh #23,Bairagarh,Bhopal,23.278698,77.342135,Grocery Store,41500,12457,1,5492,5.2,3.5,8.0,Low,"Residential, Schools",103,2317500,Good
+LOC_0623,Kolar Road #24,Kolar Road,Bhopal,23.177429,77.419579,Co-Working Space,32600,18346,2,2182,7.7,4.7,9.0,Medium,"Colleges, Food Court",43,5805000,Average
+LOC_0624,Hoshangabad Road #25,Hoshangabad Road,Bhopal,23.195911,77.45287,Co-Working Space,59600,20263,1,5023,5.8,6.2,9.5,Low,"Offices, Colleges",86,11610000,Good
+LOC_0625,TT Nagar #26,TT Nagar,Bhopal,23.237132,77.404838,Cafe,52900,24232,3,3502,7.5,2.2,8.2,High,"Offices, Colleges",125,975000,Excellent
+LOC_0626,Arera Colony E-3 #27,Arera Colony E-3,Bhopal,23.215082,77.431984,Quick Service Restaurant,69000,34593,4,2885,8.9,3.4,7.0,Low,"Offices, Residential",167,1603200,Excellent
+LOC_0627,MP Nagar Zone 1 #28,MP Nagar Zone 1,Bhopal,23.232954,77.431941,Cafe,78600,39227,6,4597,4.2,5.7,5.3,High,"Residential, Hospitals",117,912600,Good
+LOC_0628,Bairagarh #29,Bairagarh,Bhopal,23.281481,77.345336,Quick Service Restaurant,35300,23861,8,6936,7.6,7.7,7.6,High,"Residential, Schools",230,2208000,Excellent
+LOC_0629,Platinum Plaza #30,Platinum Plaza,Bhopal,23.24064,77.401036,Grocery Store,57100,41827,4,5288,6.3,9.5,7.7,High,"Shopping Mall, High Street",176,3960000,Excellent
+LOC_0630,Ayodhya Bypass #31,Ayodhya Bypass,Bhopal,23.275485,77.464069,Co-Working Space,23500,20880,4,1701,7.6,6.6,7.9,Low,"Colleges, Food Court",37,4995000,Average
+LOC_0631,Chunabhatti #32,Chunabhatti,Bhopal,23.202062,77.410451,Clothing Store,32700,38367,4,1722,4.8,4.2,8.0,Low,"Hospitals, Transit Hub",54,2268000,Average
+LOC_0632,TT Nagar #33,TT Nagar,Bhopal,23.231809,77.407817,Grocery Store,44500,23272,8,4335,8.9,3.7,7.3,High,"Offices, Transit Hub",130,2925000,Excellent
+LOC_0633,Karond #34,Karond,Bhopal,23.295111,77.409681,Cafe,21500,18203,3,2268,8.1,7.9,9.2,Low,"Metro Station, Offices",101,787800,Good
+LOC_0634,MP Nagar Zone 1 #35,MP Nagar Zone 1,Bhopal,23.226329,77.433653,Clothing Store,66400,10671,9,5816,7.5,8.2,8.2,High,"Residential, Schools",157,6594000,Excellent
+LOC_0635,Gulmohar Colony #36,Gulmohar Colony,Bhopal,23.201231,77.437828,Clothing Store,45700,59408,6,2596,5.7,9.4,8.9,High,"Residential, Hospitals",129,5418000,Excellent
+LOC_0636,Chunabhatti #37,Chunabhatti,Bhopal,23.197283,77.412726,Clothing Store,26500,73295,4,2776,6.9,5.4,8.9,High,"Offices, Transit Hub",169,7098000,Excellent
+LOC_0637,Malviya Nagar #38,Malviya Nagar,Bhopal,23.239615,77.410468,Quick Service Restaurant,59600,32742,3,2524,6.3,7.6,6.8,Low,"Shopping Mall, High Street",109,1046400,Good
+LOC_0638,Platinum Plaza #39,Platinum Plaza,Bhopal,23.236009,77.403319,Quick Service Restaurant,55300,32139,5,3860,6.6,7.4,7.0,High,"Metro Station, Offices",198,1900800,Excellent
+LOC_0639,Arera Colony E-3 #40,Arera Colony E-3,Bhopal,23.211989,77.425825,Cafe,51900,25380,3,3151,9.3,6.9,7.6,Low,"Offices, Colleges",152,1185600,Excellent
+LOC_0640,TT Nagar #41,TT Nagar,Bhopal,23.237984,77.408672,Cafe,48800,15322,5,3433,9.5,6.3,7.9,Low,"Shopping Mall, High Street",159,1240200,Excellent
+LOC_0641,TT Nagar #42,TT Nagar,Bhopal,23.239132,77.400511,Co-Working Space,46600,23531,2,2624,5.2,8.6,7.6,Medium,"Colleges, Food Court",52,7020000,Average
+LOC_0642,MP Nagar Zone 1 #43,MP Nagar Zone 1,Bhopal,23.231871,77.427906,Clothing Store,56100,19440,8,6955,5.2,6.1,8.5,High,"Hospitals, Transit Hub",207,8694000,Excellent
+LOC_0643,Indrapuri BHEL #44,Indrapuri BHEL,Bhopal,23.248924,77.46184,Pharmacy,26400,22571,2,3693,6.9,8.8,7.4,Medium,"Offices, Residential",136,2244000,Excellent
+LOC_0644,Arera Colony E-3 #45,Arera Colony E-3,Bhopal,23.214223,77.426518,Quick Service Restaurant,40400,31095,7,3236,7.0,5.7,7.5,High,"Offices, Colleges",152,1459200,Excellent
+LOC_0645,Bairagarh #46,Bairagarh,Bhopal,23.284659,77.344512,Pharmacy,36400,19277,3,6616,6.4,7.7,10.0,Low,"Offices, Colleges",154,2541000,Excellent
+LOC_0646,Karond #47,Karond,Bhopal,23.302121,77.414467,Grocery Store,16800,24031,1,1691,6.2,8.2,8.7,Medium,"Transit Hub, Retail Market",84,1890000,Good
+LOC_0647,New Market #48,New Market,Bhopal,23.238272,77.408463,Pharmacy,77200,19313,5,6435,5.7,4.1,6.1,Low,"Metro Station, Offices",81,1336500,Good
+LOC_0648,Bittan Market #49,Bittan Market,Bhopal,23.224208,77.424503,Quick Service Restaurant,56400,23989,9,5124,7.6,4.2,8.3,Medium,"Residential, Schools",147,1411200,Excellent
+LOC_0649,MP Nagar Zone 2 #50,MP Nagar Zone 2,Bhopal,23.232989,77.431238,Grocery Store,45900,11971,2,4356,10.0,5.4,8.0,Medium,"Offices, Colleges",127,2857500,Excellent
+LOC_0650,MP Nagar Zone 2 #1,MP Nagar Zone 2,Bhopal,23.226217,77.433152,Clothing Store,32400,19102,14,6348,6.7,8.7,6.4,Medium,"Residential, Schools",120,5040000,Excellent
+LOC_0651,MP Nagar Zone 2 #2,MP Nagar Zone 2,Bhopal,23.230678,77.433102,Pharmacy,38000,45259,2,5181,8.3,7.1,7.6,Medium,"Hospitals, Transit Hub",232,3828000,Excellent
+LOC_0652,MP Nagar Zone 2 #3,MP Nagar Zone 2,Bhopal,23.227268,77.44215,Quick Service Restaurant,63400,23349,1,2821,6.4,5.2,10.0,Medium,"Shopping Mall, High Street",112,1075200,Good
+LOC_0653,Chunabhatti #4,Chunabhatti,Bhopal,23.204587,77.414607,Pharmacy,37900,74230,1,2378,7.5,3.9,8.7,Medium,"Residential, Schools",224,3696000,Excellent
+LOC_0654,Kolar Road #5,Kolar Road,Bhopal,23.17441,77.420587,Pharmacy,28100,20140,1,2168,6.3,5.4,5.8,Medium,"Colleges, Food Court",59,973500,Average
+LOC_0655,Platinum Plaza #6,Platinum Plaza,Bhopal,23.239033,77.400382,Clothing Store,54700,16643,6,3941,4.9,3.1,6.7,Medium,"Shopping Mall, High Street",99,4158000,Good
+LOC_0656,Platinum Plaza #7,Platinum Plaza,Bhopal,23.243559,77.395126,Cafe,79400,16068,1,2971,6.6,5.7,7.9,High,"Hospitals, Transit Hub",92,717600,Good
+LOC_0657,MP Nagar Zone 2 #8,MP Nagar Zone 2,Bhopal,23.232479,77.438569,Grocery Store,59900,8887,5,4201,7.6,7.4,7.8,Medium,"Colleges, Food Court",85,1912500,Good
+LOC_0658,Bairagarh #9,Bairagarh,Bhopal,23.284247,77.344588,Grocery Store,48200,35841,4,6107,5.4,1.6,7.4,Low,"Offices, Transit Hub",149,3352500,Excellent
+LOC_0659,Chunabhatti #10,Chunabhatti,Bhopal,23.19907,77.409386,Co-Working Space,37100,33341,0,2556,4.4,3.1,5.4,Medium,"Shopping Mall, High Street",37,4995000,Average
+LOC_0660,TT Nagar #11,TT Nagar,Bhopal,23.234636,77.410639,Co-Working Space,46600,17765,2,2606,8.4,1.5,8.9,Medium,"Metro Station, Offices",47,6345000,Average
+LOC_0661,MP Nagar Zone 1 #12,MP Nagar Zone 1,Bhopal,23.235487,77.433897,Grocery Store,61600,24898,3,6226,10.0,2.6,7.4,High,"Transit Hub, Retail Market",228,5130000,Excellent
+LOC_0662,Ashoka Garden #13,Ashoka Garden,Bhopal,23.255929,77.429531,Co-Working Space,22000,45517,1,2439,7.3,6.3,7.9,Low,"Offices, Residential",87,11745000,Good
+LOC_0663,Kolar Road #14,Kolar Road,Bhopal,23.185114,77.413791,Co-Working Space,22200,41767,1,1455,4.1,8.2,6.9,High,"Metro Station, Offices",57,7695000,Average
+LOC_0664,Hoshangabad Road #15,Hoshangabad Road,Bhopal,23.196892,77.44965,Co-Working Space,59200,15430,3,5254,9.3,7.5,6.6,High,"Hospitals, Transit Hub",84,11340000,Good
+LOC_0665,Gulmohar Colony #16,Gulmohar Colony,Bhopal,23.195069,77.433681,Grocery Store,50900,30737,1,3046,5.7,6.8,7.6,Medium,"Colleges, Food Court",91,2047500,Good
+LOC_0666,Hoshangabad Road #17,Hoshangabad Road,Bhopal,23.193237,77.443825,Pharmacy,57600,17238,1,3046,5.7,4.7,9.5,High,"Metro Station, Offices",74,1221000,Average
+LOC_0667,Ashoka Garden #18,Ashoka Garden,Bhopal,23.256735,77.434255,Co-Working Space,22800,30974,1,2518,7.4,8.3,6.4,Medium,"Transit Hub, Retail Market",56,7560000,Average
+LOC_0668,Bairagarh #19,Bairagarh,Bhopal,23.277855,77.343563,Quick Service Restaurant,31700,23104,9,7398,6.0,7.3,6.2,Medium,"Offices, Colleges",266,2553600,Excellent
+LOC_0669,Gulmohar Colony #20,Gulmohar Colony,Bhopal,23.202765,77.430105,Co-Working Space,30900,28710,0,2332,6.7,7.2,10.0,Medium,"Residential, Hospitals",54,7290000,Average
+LOC_0670,Chunabhatti #21,Chunabhatti,Bhopal,23.200599,77.407993,Cafe,37500,70185,5,2226,6.8,5.4,6.0,Medium,"Colleges, Food Court",107,834600,Good
+LOC_0671,New Market #22,New Market,Bhopal,23.241199,77.405972,Quick Service Restaurant,65100,57654,4,6930,6.9,4.8,8.3,Medium,"Offices, Colleges",360,3456000,Excellent
+LOC_0672,Hoshangabad Road #23,Hoshangabad Road,Bhopal,23.199243,77.444887,Pharmacy,57000,12215,5,7039,9.3,7.2,10.0,High,"Offices, Transit Hub",210,3465000,Excellent
+LOC_0673,Platinum Plaza #24,Platinum Plaza,Bhopal,23.2405,77.404095,Co-Working Space,58900,17283,3,4371,5.9,8.9,6.2,High,"Metro Station, Offices",90,12150000,Good
+LOC_0674,MP Nagar Zone 1 #25,MP Nagar Zone 1,Bhopal,23.232824,77.437129,Quick Service Restaurant,62400,40585,4,3129,7.4,5.5,6.8,Medium,"Offices, Colleges",171,1641600,Excellent
+LOC_0675,Bittan Market #26,Bittan Market,Bhopal,23.219937,77.428404,Grocery Store,59100,24572,4,3852,7.3,4.0,7.7,High,"Transit Hub, Retail Market",117,2632500,Good
+LOC_0676,Ayodhya Bypass #27,Ayodhya Bypass,Bhopal,23.270336,77.452969,Clothing Store,23100,21238,4,1824,9.4,1.3,8.1,Low,"Offices, Colleges",70,2940000,Average
+LOC_0677,Bairagarh #28,Bairagarh,Bhopal,23.277768,77.343005,Clothing Store,47900,9339,10,5141,6.7,7.8,8.1,Medium,"Offices, Colleges",203,8526000,Excellent
+LOC_0678,Chunabhatti #29,Chunabhatti,Bhopal,23.19931,77.407032,Cafe,36400,46995,4,2499,6.3,10.0,5.7,High,"Offices, Transit Hub",117,912600,Good
+LOC_0679,Ashoka Garden #30,Ashoka Garden,Bhopal,23.254036,77.435421,Pharmacy,20300,21156,3,3137,6.7,7.1,7.1,Low,"Offices, Residential",101,1666500,Good
+LOC_0680,Malviya Nagar #31,Malviya Nagar,Bhopal,23.243188,77.411035,Grocery Store,45600,17660,5,4136,8.2,5.9,4.8,Medium,"Offices, Transit Hub",108,2430000,Good
+LOC_0681,Bittan Market #32,Bittan Market,Bhopal,23.219679,77.426418,Co-Working Space,63200,25141,4,5917,8.7,5.6,7.2,Low,"Colleges, Food Court",82,11070000,Good
+LOC_0682,Kolar Road #33,Kolar Road,Bhopal,23.172516,77.422254,Pharmacy,28500,56332,5,4930,7.8,6.0,6.2,High,"Colleges, Food Court",177,2920500,Excellent
+LOC_0683,Ayodhya Bypass #34,Ayodhya Bypass,Bhopal,23.273436,77.45433,Co-Working Space,21600,18345,0,1763,6.1,7.5,7.1,Low,"Residential, Hospitals",30,4050000,Average
+LOC_0684,Lalghati #35,Lalghati,Bhopal,23.287132,77.377964,Grocery Store,35700,43372,7,3920,8.1,7.1,6.7,Low,"Offices, Residential",149,3352500,Excellent
+LOC_0685,Lalghati #36,Lalghati,Bhopal,23.285372,77.372531,Grocery Store,37600,27016,2,4482,8.6,5.4,5.4,Medium,"Colleges, Food Court",113,2542500,Good
+LOC_0686,10 Number Market #37,10 Number Market,Bhopal,23.211519,77.423361,Cafe,64700,7794,12,8347,8.8,6.9,10.0,High,"Residential, Schools",199,1552200,Excellent
+LOC_0687,Arera Colony E-3 #38,Arera Colony E-3,Bhopal,23.217039,77.424702,Quick Service Restaurant,46100,27315,5,2761,7.5,9.0,9.6,High,"Shopping Mall, High Street",158,1516800,Excellent
+LOC_0688,Hoshangabad Road #39,Hoshangabad Road,Bhopal,23.191165,77.444066,Clothing Store,56200,28423,7,4393,6.1,5.6,8.3,High,"Residential, Hospitals",163,6846000,Excellent
+LOC_0689,Ayodhya Bypass #40,Ayodhya Bypass,Bhopal,23.276375,77.457037,Clothing Store,19500,33893,2,2279,7.6,5.9,7.0,Low,"Shopping Mall, High Street",107,4494000,Good
+LOC_0690,Kolar Road #41,Kolar Road,Bhopal,23.182838,77.422966,Pharmacy,33500,14129,2,3218,7.5,5.8,8.5,Low,"Colleges, Food Court",78,1287000,Good
+LOC_0691,MP Nagar Zone 1 #42,MP Nagar Zone 1,Bhopal,23.229283,77.434753,Co-Working Space,58100,26382,3,3351,3.4,6.8,7.3,High,"Offices, Colleges",58,7830000,Average
+LOC_0692,TT Nagar #43,TT Nagar,Bhopal,23.228815,77.405752,Pharmacy,41500,10093,2,4716,9.3,7.8,8.9,Medium,"Transit Hub, Retail Market",130,2145000,Excellent
+LOC_0693,MP Nagar Zone 2 #44,MP Nagar Zone 2,Bhopal,23.236469,77.441607,Clothing Store,68300,24192,10,5723,8.2,4.6,5.4,Medium,"Offices, Residential",121,5082000,Excellent
+LOC_0694,TT Nagar #45,TT Nagar,Bhopal,23.22922,77.398435,Cafe,51000,64234,5,4974,7.2,8.5,7.8,High,"Metro Station, Offices",274,2137200,Excellent
+LOC_0695,Platinum Plaza #46,Platinum Plaza,Bhopal,23.235869,77.396944,Pharmacy,52000,27369,2,4575,4.7,4.6,6.0,High,"Transit Hub, Retail Market",137,2260500,Excellent
+LOC_0696,10 Number Market #47,10 Number Market,Bhopal,23.214904,77.428054,Quick Service Restaurant,59300,20388,9,7182,4.7,4.2,10.0,High,"Shopping Mall, High Street",166,1593600,Excellent
+LOC_0697,Indrapuri BHEL #48,Indrapuri BHEL,Bhopal,23.254634,77.467712,Co-Working Space,33300,38591,3,4036,7.5,4.4,6.8,Medium,"Metro Station, Offices",78,10530000,Good
+LOC_0698,Lalghati #49,Lalghati,Bhopal,23.286143,77.372381,Quick Service Restaurant,29500,21597,1,2029,7.4,4.3,6.3,Medium,"Metro Station, Offices",99,950400,Good
+LOC_0699,10 Number Market #50,10 Number Market,Bhopal,23.215281,77.419963,Quick Service Restaurant,57300,24968,5,5668,7.2,6.9,6.3,High,"Offices, Transit Hub",310,2976000,Excellent
+LOC_0700,Indrapuri BHEL #1,Indrapuri BHEL,Bhopal,23.252844,77.466539,Grocery Store,41400,16966,2,4334,4.4,6.0,7.8,High,"Transit Hub, Retail Market",111,2497500,Good
+LOC_0701,Ayodhya Bypass #2,Ayodhya Bypass,Bhopal,23.271197,77.459745,Quick Service Restaurant,19500,11448,3,1091,7.9,5.2,5.9,Low,"Offices, Residential",42,403200,Average
+LOC_0702,Platinum Plaza #3,Platinum Plaza,Bhopal,23.240545,77.395362,Grocery Store,54000,10832,4,2960,5.0,4.2,6.0,Low,"Offices, Transit Hub",65,1462500,Average
+LOC_0703,10 Number Market #4,10 Number Market,Bhopal,23.22117,77.423533,Pharmacy,69000,22456,3,5924,7.4,7.0,6.5,Medium,"Colleges, Food Court",121,1996500,Excellent
+LOC_0704,Kolar Road #5,Kolar Road,Bhopal,23.183775,77.423455,Co-Working Space,32500,40932,3,4410,6.3,8.4,6.7,Medium,"Offices, Transit Hub",126,17010000,Excellent
+LOC_0705,Bairagarh #6,Bairagarh,Bhopal,23.278616,77.346465,Cafe,35900,19389,7,6741,6.5,7.5,8.0,Medium,"Metro Station, Offices",210,1638000,Excellent
+LOC_0706,Hoshangabad Road #7,Hoshangabad Road,Bhopal,23.190593,77.451484,Pharmacy,53500,36430,3,4237,6.4,3.9,9.1,Medium,"Offices, Transit Hub",155,2557500,Excellent
+LOC_0707,Kolar Road #8,Kolar Road,Bhopal,23.18355,77.418501,Co-Working Space,37400,72208,1,4055,7.4,5.5,5.4,Medium,"Residential, Schools",103,13905000,Good
+LOC_0708,Arera Colony E-3 #9,Arera Colony E-3,Bhopal,23.205469,77.430742,Pharmacy,52900,25540,1,2939,10.0,6.7,7.0,Medium,"Colleges, Food Court",89,1468500,Good
+LOC_0709,Kolar Road #10,Kolar Road,Bhopal,23.178687,77.419476,Cafe,35500,43485,0,3342,7.8,6.2,5.2,Medium,"Offices, Transit Hub",152,1185600,Excellent
+LOC_0710,Kolar Road #11,Kolar Road,Bhopal,23.179858,77.42243,Clothing Store,30000,29229,2,2913,7.3,3.5,9.2,Medium,"Offices, Residential",104,4368000,Good
+LOC_0711,Arera Colony E-3 #12,Arera Colony E-3,Bhopal,23.20848,77.424024,Cafe,38800,31547,2,3546,6.4,5.2,8.7,High,"Transit Hub, Retail Market",129,1006200,Excellent
+LOC_0712,MP Nagar Zone 1 #13,MP Nagar Zone 1,Bhopal,23.239337,77.429018,Grocery Store,73600,22877,1,4726,8.0,6.6,9.8,High,"Metro Station, Offices",173,3892500,Excellent
+LOC_0713,Chunabhatti #14,Chunabhatti,Bhopal,23.200356,77.409112,Grocery Store,34100,44824,2,2573,9.5,7.8,5.7,High,"Metro Station, Offices",131,2947500,Excellent
+LOC_0714,Bairagarh #15,Bairagarh,Bhopal,23.28058,77.348236,Co-Working Space,36600,16805,0,4049,3.8,4.1,5.3,High,"Metro Station, Offices",48,6480000,Average
+LOC_0715,MP Nagar Zone 1 #16,MP Nagar Zone 1,Bhopal,23.235004,77.431141,Cafe,47200,24202,8,6340,6.7,8.0,6.3,High,"Shopping Mall, High Street",188,1466400,Excellent
+LOC_0716,Hoshangabad Road #17,Hoshangabad Road,Bhopal,23.202804,77.445967,Co-Working Space,62000,18872,4,4866,7.8,4.5,8.8,High,"Shopping Mall, High Street",84,11340000,Good
+LOC_0717,MP Nagar Zone 2 #18,MP Nagar Zone 2,Bhopal,23.236733,77.437194,Clothing Store,61200,48399,5,4241,10.0,9.8,9.4,Medium,"Shopping Mall, High Street",246,10332000,Excellent
+LOC_0718,Chunabhatti #19,Chunabhatti,Bhopal,23.209807,77.41129,Pharmacy,34300,49122,3,2588,5.8,6.6,6.7,Medium,"Colleges, Food Court",118,1947000,Good
+LOC_0719,Platinum Plaza #20,Platinum Plaza,Bhopal,23.239015,77.399154,Pharmacy,74700,15354,1,3581,7.2,4.9,8.2,High,"Offices, Colleges",71,1171500,Average
+LOC_0720,Bairagarh #21,Bairagarh,Bhopal,23.27341,77.352592,Clothing Store,29800,14464,8,7176,8.3,6.1,5.9,Medium,"Shopping Mall, High Street",209,8778000,Excellent
+LOC_0721,Platinum Plaza #22,Platinum Plaza,Bhopal,23.237746,77.396025,Grocery Store,54700,26684,4,3632,8.0,5.0,5.9,High,"Hospitals, Transit Hub",130,2925000,Excellent
+LOC_0722,Bittan Market #23,Bittan Market,Bhopal,23.221718,77.426523,Quick Service Restaurant,62900,31836,5,6231,5.8,4.6,6.5,High,"Offices, Residential",217,2083200,Excellent
+LOC_0723,MP Nagar Zone 2 #24,MP Nagar Zone 2,Bhopal,23.22645,77.431619,Cafe,57600,31562,3,5488,3.7,5.6,8.2,Medium,"Offices, Colleges",138,1076400,Excellent
+LOC_0724,MP Nagar Zone 1 #25,MP Nagar Zone 1,Bhopal,23.230067,77.428314,Cafe,67800,28275,11,6808,5.9,4.6,9.3,High,"Colleges, Food Court",203,1583400,Excellent
+LOC_0725,Karond #26,Karond,Bhopal,23.291855,77.412756,Grocery Store,19700,28522,1,2996,6.8,7.8,6.7,High,"Shopping Mall, High Street",124,2790000,Excellent
+LOC_0726,MP Nagar Zone 2 #27,MP Nagar Zone 2,Bhopal,23.225853,77.433453,Clothing Store,54400,20584,7,6222,10.0,7.3,6.1,Medium,"Colleges, Food Court",257,10794000,Excellent
+LOC_0727,Hoshangabad Road #28,Hoshangabad Road,Bhopal,23.195766,77.447134,Quick Service Restaurant,57700,11810,8,3762,7.7,4.9,6.2,Low,"Metro Station, Offices",141,1353600,Excellent
+LOC_0728,TT Nagar #29,TT Nagar,Bhopal,23.244455,77.403598,Grocery Store,44400,18122,5,4920,6.2,3.2,7.5,Low,"Transit Hub, Retail Market",99,2227500,Good
+LOC_0729,10 Number Market #30,10 Number Market,Bhopal,23.219321,77.422363,Co-Working Space,90400,24361,5,4879,7.6,7.5,6.7,High,"Residential, Hospitals",90,12150000,Good
+LOC_0730,Ayodhya Bypass #31,Ayodhya Bypass,Bhopal,23.277818,77.458217,Clothing Store,18100,14796,6,2266,8.1,5.8,7.2,Medium,"Transit Hub, Retail Market",75,3150000,Good
+LOC_0731,Karond #32,Karond,Bhopal,23.293876,77.413515,Cafe,24000,27053,1,2972,6.9,5.3,6.5,Low,"Residential, Schools",92,717600,Good
+LOC_0732,10 Number Market #33,10 Number Market,Bhopal,23.209332,77.421195,Grocery Store,71100,23028,5,5344,6.0,8.3,7.7,High,"Metro Station, Offices",102,2295000,Good
+LOC_0733,Bittan Market #34,Bittan Market,Bhopal,23.223766,77.426172,Quick Service Restaurant,67700,32785,9,6997,4.9,5.7,6.3,Medium,"Shopping Mall, High Street",166,1593600,Excellent
+LOC_0734,Arera Colony E-3 #35,Arera Colony E-3,Bhopal,23.211882,77.421973,Quick Service Restaurant,57600,42681,1,2641,4.6,6.1,5.7,High,"Offices, Residential",114,1094400,Good
+LOC_0735,Chunabhatti #36,Chunabhatti,Bhopal,23.206105,77.415793,Grocery Store,30400,31044,2,3066,9.8,6.0,8.3,Medium,"Metro Station, Offices",104,2340000,Good
+LOC_0736,Lalghati #37,Lalghati,Bhopal,23.287525,77.386097,Cafe,29100,6719,0,1365,6.0,2.9,9.0,Low,"Offices, Colleges",38,296400,Average
+LOC_0737,Gulmohar Colony #38,Gulmohar Colony,Bhopal,23.20534,77.432676,Quick Service Restaurant,60400,54759,1,1867,8.5,7.1,4.8,High,"Colleges, Food Court",128,1228800,Excellent
+LOC_0738,Platinum Plaza #39,Platinum Plaza,Bhopal,23.242238,77.405871,Co-Working Space,41100,17668,3,4654,6.9,3.8,7.7,High,"Shopping Mall, High Street",55,7425000,Average
+LOC_0739,Ashoka Garden #40,Ashoka Garden,Bhopal,23.253759,77.429294,Cafe,19800,38906,1,2515,6.4,9.0,7.1,Low,"Hospitals, Transit Hub",68,530400,Average
+LOC_0740,Hoshangabad Road #41,Hoshangabad Road,Bhopal,23.196868,77.457934,Clothing Store,42000,8994,2,3478,8.9,5.3,6.9,High,"Residential, Hospitals",99,4158000,Good
+LOC_0741,Lalghati #42,Lalghati,Bhopal,23.285269,77.382069,Quick Service Restaurant,35100,11686,1,2445,5.4,5.1,7.2,Medium,"Residential, Hospitals",56,537600,Average
+LOC_0742,Arera Colony E-3 #43,Arera Colony E-3,Bhopal,23.218711,77.421834,Pharmacy,52900,67325,0,2776,4.5,6.4,8.6,High,"Metro Station, Offices",124,2046000,Excellent
+LOC_0743,Arera Colony E-3 #44,Arera Colony E-3,Bhopal,23.218638,77.423597,Grocery Store,35800,89944,1,4197,7.5,3.8,8.8,High,"Offices, Residential",257,5782500,Excellent
+LOC_0744,Arera Colony E-3 #45,Arera Colony E-3,Bhopal,23.213058,77.43058,Pharmacy,58000,38971,1,2482,7.2,4.7,4.8,High,"Residential, Schools",111,1831500,Good
+LOC_0745,Chunabhatti #46,Chunabhatti,Bhopal,23.203231,77.407991,Clothing Store,34800,36927,3,2981,6.8,4.9,8.5,Medium,"Shopping Mall, High Street",133,5586000,Excellent
+LOC_0746,Ayodhya Bypass #47,Ayodhya Bypass,Bhopal,23.275234,77.459285,Cafe,22200,15186,0,1304,5.9,4.5,9.8,High,"Metro Station, Offices",46,358800,Average
+LOC_0747,Indrapuri BHEL #48,Indrapuri BHEL,Bhopal,23.25071,77.47539,Clothing Store,31100,12953,15,5110,7.7,2.2,9.2,High,"Metro Station, Offices",113,4746000,Good
+LOC_0748,Bairagarh #49,Bairagarh,Bhopal,23.277282,77.345245,Clothing Store,50600,17361,9,6300,9.1,6.0,7.8,High,"Transit Hub, Retail Market",206,8652000,Excellent
+LOC_0749,Ayodhya Bypass #50,Ayodhya Bypass,Bhopal,23.27395,77.461152,Quick Service Restaurant,22300,43701,1,2459,7.6,4.7,6.4,Low,"Hospitals, Transit Hub",149,1430400,Excellent
+LOC_0750,Bairagarh #1,Bairagarh,Bhopal,23.277253,77.343795,Cafe,32000,21550,3,3985,8.7,7.4,7.4,High,"Hospitals, Transit Hub",141,1099800,Excellent
+LOC_0751,Gulmohar Colony #2,Gulmohar Colony,Bhopal,23.204421,77.433915,Cafe,57000,95000,4,2731,7.5,8.2,6.8,High,"Hospitals, Transit Hub",149,1162200,Excellent
+LOC_0752,Platinum Plaza #3,Platinum Plaza,Bhopal,23.236356,77.397599,Quick Service Restaurant,82800,20845,12,4217,6.9,8.7,7.5,Medium,"Residential, Hospitals",116,1113600,Good
+LOC_0753,Hoshangabad Road #4,Hoshangabad Road,Bhopal,23.196857,77.44255,Cafe,57700,19637,4,5584,10.0,7.6,6.4,Medium,"Metro Station, Offices",263,2051400,Excellent
+LOC_0754,Ashoka Garden #5,Ashoka Garden,Bhopal,23.258198,77.426157,Quick Service Restaurant,29300,38944,1,2718,7.8,6.9,5.7,Medium,"Residential, Schools",134,1286400,Excellent
+LOC_0755,Kolar Road #6,Kolar Road,Bhopal,23.190822,77.422805,Clothing Store,31500,28478,6,2861,7.2,6.3,6.9,Medium,"Offices, Residential",109,4578000,Good
+LOC_0756,Lalghati #7,Lalghati,Bhopal,23.291176,77.386033,Quick Service Restaurant,33200,18193,2,1637,7.1,3.7,6.7,Medium,"Residential, Hospitals",43,412800,Average
+LOC_0757,Shahpura #8,Shahpura,Bhopal,23.212366,77.418443,Pharmacy,42500,42382,2,2899,9.1,5.7,7.2,High,"Colleges, Food Court",175,2887500,Excellent
+LOC_0758,Ashoka Garden #9,Ashoka Garden,Bhopal,23.24974,77.430047,Co-Working Space,25200,40246,2,3100,8.2,6.5,7.0,Low,"Offices, Transit Hub",91,12285000,Good
+LOC_0759,Bairagarh #10,Bairagarh,Bhopal,23.27608,77.343581,Quick Service Restaurant,42900,14503,6,5949,6.9,5.8,6.5,Low,"Offices, Residential",244,2342400,Excellent
+LOC_0760,Malviya Nagar #11,Malviya Nagar,Bhopal,23.234874,77.415566,Co-Working Space,58700,14583,1,4780,8.7,4.1,8.8,Medium,"Shopping Mall, High Street",69,9315000,Average
+LOC_0761,Platinum Plaza #12,Platinum Plaza,Bhopal,23.226376,77.396934,Clothing Store,63100,25058,6,3857,7.7,2.2,7.4,High,"Offices, Colleges",167,7014000,Excellent
+LOC_0762,Indrapuri BHEL #13,Indrapuri BHEL,Bhopal,23.256735,77.467234,Quick Service Restaurant,36500,21933,11,4781,6.9,2.9,6.9,Low,"Hospitals, Transit Hub",150,1440000,Excellent
+LOC_0763,Gulmohar Colony #14,Gulmohar Colony,Bhopal,23.200339,77.436442,Pharmacy,50300,40670,1,1812,6.7,6.2,8.5,High,"Hospitals, Transit Hub",121,1996500,Excellent
+LOC_0764,Platinum Plaza #15,Platinum Plaza,Bhopal,23.23682,77.396925,Pharmacy,63700,7710,4,3106,6.3,8.3,6.4,High,"Offices, Transit Hub",74,1221000,Average
+LOC_0765,MP Nagar Zone 1 #16,MP Nagar Zone 1,Bhopal,23.235915,77.428511,Quick Service Restaurant,69400,6758,5,6378,10.0,6.1,7.1,High,"Residential, Hospitals",220,2112000,Excellent
+LOC_0766,Chunabhatti #17,Chunabhatti,Bhopal,23.197919,77.416607,Grocery Store,16700,21461,0,1756,6.0,6.7,7.9,Medium,"Metro Station, Offices",63,1417500,Average
+LOC_0767,Chunabhatti #18,Chunabhatti,Bhopal,23.200794,77.406503,Quick Service Restaurant,41100,61153,6,2953,7.5,7.2,9.4,Medium,"Metro Station, Offices",219,2102400,Excellent
+LOC_0768,Ayodhya Bypass #19,Ayodhya Bypass,Bhopal,23.271006,77.449512,Quick Service Restaurant,32100,9692,4,1593,3.4,5.6,6.9,Medium,"Transit Hub, Retail Market",46,441600,Average
+LOC_0769,Platinum Plaza #20,Platinum Plaza,Bhopal,23.239995,77.396634,Quick Service Restaurant,75400,18074,7,3721,7.2,5.0,8.0,High,"Residential, Hospitals",136,1305600,Excellent
+LOC_0770,Lalghati #21,Lalghati,Bhopal,23.28816,77.375709,Quick Service Restaurant,31700,41984,10,4192,5.0,3.8,6.0,High,"Hospitals, Transit Hub",152,1459200,Excellent
+LOC_0771,Bittan Market #22,Bittan Market,Bhopal,23.218578,77.426436,Quick Service Restaurant,63300,18586,6,5487,8.9,7.5,7.6,Medium,"Residential, Schools",169,1622400,Excellent
+LOC_0772,Karond #23,Karond,Bhopal,23.295203,77.411622,Quick Service Restaurant,20700,22631,1,2996,6.8,1.4,7.0,Medium,"Transit Hub, Retail Market",111,1065600,Good
+LOC_0773,Bittan Market #24,Bittan Market,Bhopal,23.22292,77.429629,Quick Service Restaurant,59500,18083,6,4960,8.1,6.8,7.5,High,"Offices, Transit Hub",232,2227200,Excellent
+LOC_0774,Arera Colony E-3 #25,Arera Colony E-3,Bhopal,23.21272,77.427728,Quick Service Restaurant,64800,63549,4,2614,7.6,9.1,4.5,Medium,"Residential, Schools",133,1276800,Excellent
+LOC_0775,Bittan Market #26,Bittan Market,Bhopal,23.224072,77.430913,Co-Working Space,44000,23164,1,5323,6.6,5.4,6.3,Medium,"Residential, Schools",76,10260000,Good
+LOC_0776,Kolar Road #27,Kolar Road,Bhopal,23.173899,77.413785,Clothing Store,27400,35234,8,2942,5.5,4.4,6.1,Medium,"Transit Hub, Retail Market",74,3108000,Average
+LOC_0777,New Market #28,New Market,Bhopal,23.241806,77.402367,Grocery Store,85100,34289,3,6521,5.1,7.3,8.0,Medium,"Offices, Transit Hub",226,5085000,Excellent
+LOC_0778,Malviya Nagar #29,Malviya Nagar,Bhopal,23.237978,77.406893,Co-Working Space,57500,30581,1,3597,6.5,3.8,6.3,High,"Offices, Colleges",71,9585000,Average
+LOC_0779,Kolar Road #30,Kolar Road,Bhopal,23.178252,77.417488,Co-Working Space,29900,20804,0,4209,6.2,7.1,9.4,High,"Hospitals, Transit Hub",56,7560000,Average
+LOC_0780,Arera Colony E-3 #31,Arera Colony E-3,Bhopal,23.217689,77.418449,Clothing Store,44900,32904,2,3391,7.6,7.1,6.2,High,"Offices, Transit Hub",120,5040000,Excellent
+LOC_0781,Ayodhya Bypass #32,Ayodhya Bypass,Bhopal,23.271349,77.460589,Quick Service Restaurant,21200,15945,1,2012,5.6,3.0,8.0,Medium,"Residential, Schools",62,595200,Average
+LOC_0782,MP Nagar Zone 2 #33,MP Nagar Zone 2,Bhopal,23.236661,77.435462,Clothing Store,54100,34312,5,3977,9.8,6.3,8.9,Medium,"Offices, Transit Hub",226,9492000,Excellent
+LOC_0783,Ayodhya Bypass #34,Ayodhya Bypass,Bhopal,23.270558,77.461669,Grocery Store,21600,38064,1,1674,6.8,4.5,7.0,Low,"Transit Hub, Retail Market",75,1687500,Good
+LOC_0784,Arera Colony E-3 #35,Arera Colony E-3,Bhopal,23.208011,77.430288,Quick Service Restaurant,37900,44462,4,3004,7.7,8.1,7.6,High,"Colleges, Food Court",134,1286400,Excellent
+LOC_0785,MP Nagar Zone 1 #36,MP Nagar Zone 1,Bhopal,23.231523,77.432301,Grocery Store,68500,23949,3,4459,9.1,6.6,8.7,High,"Metro Station, Offices",155,3487500,Excellent
+LOC_0786,Shahpura #37,Shahpura,Bhopal,23.213487,77.420527,Quick Service Restaurant,52800,26722,4,4692,5.1,6.5,7.6,High,"Shopping Mall, High Street",155,1488000,Excellent
+LOC_0787,Arera Colony E-3 #38,Arera Colony E-3,Bhopal,23.212073,77.424841,Co-Working Space,59300,18427,3,1910,7.2,6.1,8.0,Medium,"Offices, Residential",42,5670000,Average
+LOC_0788,MP Nagar Zone 1 #39,MP Nagar Zone 1,Bhopal,23.238277,77.428971,Pharmacy,67300,17325,1,6345,6.9,10.0,9.5,High,"Residential, Schools",159,2623500,Excellent
+LOC_0789,MP Nagar Zone 1 #40,MP Nagar Zone 1,Bhopal,23.232534,77.429567,Grocery Store,71800,13615,3,5434,6.1,8.2,8.5,High,"Hospitals, Transit Hub",157,3532500,Excellent
+LOC_0790,New Market #41,New Market,Bhopal,23.239868,77.400675,Pharmacy,69500,17302,0,7111,5.7,6.7,8.3,High,"Residential, Schools",129,2128500,Excellent
+LOC_0791,Arera Colony E-3 #42,Arera Colony E-3,Bhopal,23.211905,77.42622,Pharmacy,71000,23291,0,1375,6.3,5.5,6.8,High,"Metro Station, Offices",68,1122000,Average
+LOC_0792,Platinum Plaza #43,Platinum Plaza,Bhopal,23.232433,77.399772,Grocery Store,57100,12728,3,4067,7.4,6.3,5.9,High,"Offices, Colleges",98,2205000,Good
+LOC_0793,TT Nagar #44,TT Nagar,Bhopal,23.237709,77.408944,Grocery Store,55200,16391,2,5207,7.7,6.3,6.6,Medium,"Offices, Colleges",135,3037500,Excellent
+LOC_0794,Kolar Road #45,Kolar Road,Bhopal,23.179498,77.416605,Cafe,27100,23999,4,2548,8.1,7.7,9.9,Medium,"Transit Hub, Retail Market",97,756600,Good
+LOC_0795,10 Number Market #46,10 Number Market,Bhopal,23.21807,77.417819,Quick Service Restaurant,54300,27576,5,4176,8.1,4.9,4.8,Medium,"Offices, Transit Hub",144,1382400,Excellent
+LOC_0796,Arera Colony E-3 #47,Arera Colony E-3,Bhopal,23.209836,77.424084,Clothing Store,65600,35250,3,2823,5.4,4.3,6.3,Low,"Offices, Transit Hub",71,2982000,Average
+LOC_0797,Karond #48,Karond,Bhopal,23.300674,77.415286,Quick Service Restaurant,15000,25826,2,2669,8.1,6.4,8.8,Low,"Offices, Transit Hub",114,1094400,Good
+LOC_0798,Arera Colony E-3 #49,Arera Colony E-3,Bhopal,23.213004,77.427654,Quick Service Restaurant,42200,45768,3,2572,8.5,5.0,6.6,High,"Offices, Residential",137,1315200,Excellent
+LOC_0799,Kolar Road #50,Kolar Road,Bhopal,23.177578,77.417686,Pharmacy,34600,21820,2,3148,8.5,5.9,6.2,Low,"Residential, Hospitals",91,1501500,Good
+LOC_0800,Bairagarh #1,Bairagarh,Bhopal,23.28805,77.343558,Co-Working Space,41100,13401,5,5477,8.5,2.9,8.8,Medium,"Shopping Mall, High Street",58,7830000,Average
+LOC_0801,Ashoka Garden #2,Ashoka Garden,Bhopal,23.262647,77.430097,Quick Service Restaurant,21800,27834,3,2038,8.1,3.2,9.3,Medium,"Residential, Schools",84,806400,Good
+LOC_0802,MP Nagar Zone 2 #3,MP Nagar Zone 2,Bhopal,23.228435,77.434157,Quick Service Restaurant,66500,39026,10,5065,8.2,6.7,8.9,Medium,"Offices, Residential",214,2054400,Excellent
+LOC_0803,Ashoka Garden #4,Ashoka Garden,Bhopal,23.247845,77.434243,Quick Service Restaurant,17100,25892,3,3233,4.2,6.4,5.6,Low,"Offices, Residential",130,1248000,Excellent
+LOC_0804,Gulmohar Colony #5,Gulmohar Colony,Bhopal,23.200361,77.433133,Cafe,45900,15596,4,2826,5.8,3.9,5.9,High,"Residential, Schools",78,608400,Good
+LOC_0805,Hoshangabad Road #6,Hoshangabad Road,Bhopal,23.189736,77.445538,Pharmacy,58000,31552,3,3368,7.7,10.0,7.3,High,"Transit Hub, Retail Market",218,3597000,Excellent
+LOC_0806,Arera Colony E-3 #7,Arera Colony E-3,Bhopal,23.218136,77.427864,Cafe,55400,28121,5,3266,5.9,7.4,6.8,High,"Offices, Transit Hub",135,1053000,Excellent
+LOC_0807,New Market #8,New Market,Bhopal,23.239154,77.401219,Clothing Store,54900,26380,10,7134,4.7,5.1,8.7,High,"Residential, Hospitals",188,7896000,Excellent
+LOC_0808,MP Nagar Zone 1 #9,MP Nagar Zone 1,Bhopal,23.238456,77.42866,Pharmacy,70100,19660,5,5589,5.8,7.9,5.9,Medium,"Shopping Mall, High Street",89,1468500,Good
+LOC_0809,TT Nagar #10,TT Nagar,Bhopal,23.233748,77.402919,Cafe,54800,32800,3,3635,7.0,4.1,8.0,Low,"Metro Station, Offices",154,1201200,Excellent
+LOC_0810,Indrapuri BHEL #11,Indrapuri BHEL,Bhopal,23.252818,77.474385,Cafe,18400,42815,1,3933,9.8,7.4,7.8,Medium,"Hospitals, Transit Hub",159,1240200,Excellent
+LOC_0811,Gulmohar Colony #12,Gulmohar Colony,Bhopal,23.196776,77.432923,Cafe,45900,40373,6,2182,6.2,6.5,8.2,High,"Residential, Schools",89,694200,Good
+LOC_0812,TT Nagar #13,TT Nagar,Bhopal,23.239925,77.406054,Clothing Store,43000,21673,7,4148,8.1,6.2,8.1,Medium,"Offices, Residential",118,4956000,Good
+LOC_0813,Ayodhya Bypass #14,Ayodhya Bypass,Bhopal,23.27651,77.455449,Cafe,19100,48622,1,1558,5.8,4.0,10.0,Low,"Residential, Hospitals",64,499200,Average
+LOC_0814,Hoshangabad Road #15,Hoshangabad Road,Bhopal,23.196692,77.449152,Pharmacy,45100,23654,4,5360,6.8,4.7,7.0,High,"Offices, Residential",138,2277000,Excellent
+LOC_0815,Hoshangabad Road #16,Hoshangabad Road,Bhopal,23.192704,77.450458,Grocery Store,45400,15161,5,3433,6.9,5.2,6.9,High,"Residential, Schools",111,2497500,Good
+LOC_0816,Indrapuri BHEL #17,Indrapuri BHEL,Bhopal,23.254617,77.471861,Co-Working Space,37500,15550,2,3917,6.9,5.2,7.6,Medium,"Transit Hub, Retail Market",65,8775000,Average
+LOC_0817,Arera Colony E-3 #18,Arera Colony E-3,Bhopal,23.210883,77.425394,Grocery Store,65400,33197,6,3419,7.5,5.2,6.9,Medium,"Offices, Residential",81,1822500,Good
+LOC_0818,Arera Colony E-3 #19,Arera Colony E-3,Bhopal,23.214937,77.427059,Cafe,54300,32685,3,2417,5.7,5.7,8.3,Medium,"Offices, Transit Hub",77,600600,Good
+LOC_0819,Hoshangabad Road #20,Hoshangabad Road,Bhopal,23.198956,77.452063,Pharmacy,85100,39663,2,4007,8.6,7.7,7.0,High,"Residential, Hospitals",156,2574000,Excellent
+LOC_0820,Gulmohar Colony #21,Gulmohar Colony,Bhopal,23.201851,77.43631,Pharmacy,47700,71970,1,2387,8.9,3.4,4.3,High,"Colleges, Food Court",155,2557500,Excellent
+LOC_0821,Lalghati #22,Lalghati,Bhopal,23.286535,77.373317,Clothing Store,32000,12577,4,2351,8.1,8.1,4.2,Low,"Offices, Colleges",75,3150000,Good
+LOC_0822,Platinum Plaza #23,Platinum Plaza,Bhopal,23.240689,77.396859,Co-Working Space,47300,11067,2,3270,7.2,4.3,9.6,High,"Transit Hub, Retail Market",48,6480000,Average
+LOC_0823,Malviya Nagar #24,Malviya Nagar,Bhopal,23.235497,77.413144,Clothing Store,46500,29091,1,4465,7.4,7.8,6.7,Medium,"Residential, Schools",134,5628000,Excellent
+LOC_0824,New Market #25,New Market,Bhopal,23.236896,77.403683,Co-Working Space,58000,14265,3,7601,7.5,2.8,8.1,Medium,"Metro Station, Offices",123,16605000,Excellent
+LOC_0825,Platinum Plaza #26,Platinum Plaza,Bhopal,23.237663,77.395576,Grocery Store,68200,55142,4,4179,6.8,8.2,8.9,High,"Residential, Hospitals",196,4410000,Excellent
+LOC_0826,Gulmohar Colony #27,Gulmohar Colony,Bhopal,23.199246,77.427522,Pharmacy,34700,92734,2,2165,6.4,6.2,6.0,High,"Colleges, Food Court",182,3003000,Excellent
+LOC_0827,Indrapuri BHEL #28,Indrapuri BHEL,Bhopal,23.245482,77.47066,Clothing Store,29100,14480,12,5627,8.9,7.9,7.3,Medium,"Hospitals, Transit Hub",142,5964000,Excellent
+LOC_0828,Arera Colony E-3 #29,Arera Colony E-3,Bhopal,23.212997,77.427068,Co-Working Space,61900,39193,1,2271,6.2,8.8,6.2,Medium,"Residential, Schools",68,9180000,Average
+LOC_0829,Hoshangabad Road #30,Hoshangabad Road,Bhopal,23.190093,77.447322,Pharmacy,57400,23220,2,4380,5.4,6.1,6.0,High,"Residential, Schools",119,1963500,Good
+LOC_0830,Chunabhatti #31,Chunabhatti,Bhopal,23.20199,77.412479,Quick Service Restaurant,31400,24946,2,2893,9.0,7.9,7.9,Medium,"Shopping Mall, High Street",138,1324800,Excellent
+LOC_0831,Bittan Market #32,Bittan Market,Bhopal,23.220073,77.42794,Co-Working Space,55300,9618,6,5493,6.7,7.7,7.7,Low,"Residential, Hospitals",68,9180000,Average
+LOC_0832,10 Number Market #33,10 Number Market,Bhopal,23.22061,77.41852,Clothing Store,65300,13658,10,6816,6.9,6.6,8.6,High,"Transit Hub, Retail Market",182,7644000,Excellent
+LOC_0833,Malviya Nagar #34,Malviya Nagar,Bhopal,23.243849,77.410005,Pharmacy,52100,24071,2,2766,7.0,5.2,8.8,Medium,"Shopping Mall, High Street",90,1485000,Good
+LOC_0834,MP Nagar Zone 1 #35,MP Nagar Zone 1,Bhopal,23.231363,77.42676,Grocery Store,49700,6884,5,5249,7.1,5.9,8.6,High,"Offices, Residential",107,2407500,Good
+LOC_0835,Gulmohar Colony #36,Gulmohar Colony,Bhopal,23.205901,77.426926,Pharmacy,38000,34554,2,2584,6.4,4.6,6.4,High,"Metro Station, Offices",83,1369500,Good
+LOC_0836,Arera Colony E-3 #37,Arera Colony E-3,Bhopal,23.213532,77.425544,Cafe,56100,26680,1,1786,4.5,6.9,7.5,Medium,"Offices, Colleges",64,499200,Average
+LOC_0837,Platinum Plaza #38,Platinum Plaza,Bhopal,23.241843,77.39202,Cafe,75900,28334,1,3112,9.1,5.5,6.7,Low,"Metro Station, Offices",146,1138800,Excellent
+LOC_0838,Kolar Road #39,Kolar Road,Bhopal,23.178829,77.419831,Quick Service Restaurant,27500,24684,2,2882,8.1,7.4,10.0,Medium,"Colleges, Food Court",135,1296000,Excellent
+LOC_0839,Chunabhatti #40,Chunabhatti,Bhopal,23.200318,77.415057,Quick Service Restaurant,40400,18241,3,2428,5.0,5.4,7.4,Low,"Metro Station, Offices",91,873600,Good
+LOC_0840,Bittan Market #41,Bittan Market,Bhopal,23.216099,77.422765,Cafe,66600,26696,9,4131,10.0,10.0,7.5,High,"Colleges, Food Court",173,1349400,Excellent
+LOC_0841,MP Nagar Zone 2 #42,MP Nagar Zone 2,Bhopal,23.223324,77.436002,Grocery Store,56700,17483,3,5032,5.0,9.6,7.4,Medium,"Metro Station, Offices",117,2632500,Good
+LOC_0842,MP Nagar Zone 2 #43,MP Nagar Zone 2,Bhopal,23.229068,77.435583,Clothing Store,74800,32289,12,4317,4.5,8.6,9.4,Low,"Offices, Colleges",103,4326000,Good
+LOC_0843,MP Nagar Zone 1 #44,MP Nagar Zone 1,Bhopal,23.232961,77.431728,Pharmacy,88900,29139,1,5430,7.4,3.3,8.9,High,"Colleges, Food Court",125,2062500,Excellent
+LOC_0844,TT Nagar #45,TT Nagar,Bhopal,23.232328,77.400452,Cafe,53200,25913,8,4988,8.8,6.5,8.2,High,"Hospitals, Transit Hub",170,1326000,Excellent
+LOC_0845,10 Number Market #46,10 Number Market,Bhopal,23.215608,77.42688,Cafe,85400,18960,4,4308,6.4,5.8,8.2,High,"Hospitals, Transit Hub",144,1123200,Excellent
+LOC_0846,Indrapuri BHEL #47,Indrapuri BHEL,Bhopal,23.256767,77.46885,Co-Working Space,33600,23848,0,3287,5.7,5.9,5.9,Medium,"Residential, Hospitals",52,7020000,Average
+LOC_0847,Ayodhya Bypass #48,Ayodhya Bypass,Bhopal,23.272064,77.45795,Pharmacy,21900,24798,3,1871,6.8,4.3,9.4,Low,"Shopping Mall, High Street",68,1122000,Average
+LOC_0848,Bittan Market #49,Bittan Market,Bhopal,23.215728,77.434086,Co-Working Space,56200,44891,4,6046,5.8,5.2,5.7,Medium,"Offices, Residential",112,15120000,Good
+LOC_0849,TT Nagar #50,TT Nagar,Bhopal,23.23445,77.401378,Clothing Store,53100,26650,4,3910,6.7,8.1,7.0,High,"Offices, Colleges",160,6720000,Excellent
+LOC_0850,MP Nagar Zone 1 #1,MP Nagar Zone 1,Bhopal,23.233603,77.432605,Co-Working Space,73300,14939,2,6370,8.7,4.1,7.8,High,"Residential, Schools",103,13905000,Good
+LOC_0851,Arera Colony E-3 #2,Arera Colony E-3,Bhopal,23.216229,77.427024,Clothing Store,63900,64129,6,2024,7.6,2.7,6.4,High,"Shopping Mall, High Street",122,5124000,Excellent
+LOC_0852,Arera Colony E-3 #3,Arera Colony E-3,Bhopal,23.220118,77.430923,Pharmacy,61400,34552,1,2876,7.6,5.6,8.7,High,"Offices, Transit Hub",111,1831500,Good
+LOC_0853,10 Number Market #4,10 Number Market,Bhopal,23.21634,77.428985,Clothing Store,52900,23399,14,8596,8.4,4.1,5.3,Medium,"Hospitals, Transit Hub",194,8148000,Excellent
+LOC_0854,Lalghati #5,Lalghati,Bhopal,23.284218,77.380735,Quick Service Restaurant,35400,29713,6,3842,9.9,8.2,8.4,Medium,"Offices, Residential",255,2448000,Excellent
+LOC_0855,MP Nagar Zone 2 #6,MP Nagar Zone 2,Bhopal,23.228507,77.439882,Grocery Store,55100,23328,6,5155,6.1,8.6,7.1,Medium,"Residential, Hospitals",141,3172500,Excellent
+LOC_0856,Hoshangabad Road #7,Hoshangabad Road,Bhopal,23.191897,77.452411,Pharmacy,55700,31002,3,4823,8.0,2.9,5.3,Low,"Hospitals, Transit Hub",147,2425500,Excellent
+LOC_0857,Arera Colony E-3 #8,Arera Colony E-3,Bhopal,23.21392,77.428147,Co-Working Space,47900,43650,2,2776,6.9,6.3,10.0,High,"Transit Hub, Retail Market",69,9315000,Average
+LOC_0858,TT Nagar #9,TT Nagar,Bhopal,23.238503,77.408252,Clothing Store,46100,19375,5,4479,9.6,4.0,6.9,Medium,"Offices, Colleges",144,6048000,Excellent
+LOC_0859,Shahpura #10,Shahpura,Bhopal,23.207496,77.420798,Quick Service Restaurant,36800,32447,2,2278,7.0,9.2,7.7,High,"Metro Station, Offices",122,1171200,Excellent
+LOC_0860,TT Nagar #11,TT Nagar,Bhopal,23.231203,77.405368,Cafe,57400,36854,2,3641,8.3,5.4,4.4,Medium,"Transit Hub, Retail Market",121,943800,Excellent
+LOC_0861,Platinum Plaza #12,Platinum Plaza,Bhopal,23.238374,77.390811,Grocery Store,68400,21026,2,3639,9.3,1.4,7.5,Medium,"Offices, Colleges",82,1845000,Good
+LOC_0862,Bairagarh #13,Bairagarh,Bhopal,23.281591,77.343834,Pharmacy,48000,30167,1,4321,8.8,8.0,6.2,Medium,"Offices, Residential",197,3250500,Excellent
+LOC_0863,Ayodhya Bypass #14,Ayodhya Bypass,Bhopal,23.267706,77.457329,Clothing Store,26200,16327,3,2381,4.9,9.4,7.5,Low,"Residential, Hospitals",70,2940000,Average
+LOC_0864,Lalghati #15,Lalghati,Bhopal,23.280925,77.378764,Grocery Store,40200,34240,1,3171,6.3,8.7,7.6,High,"Offices, Colleges",118,2655000,Good
+LOC_0865,Malviya Nagar #16,Malviya Nagar,Bhopal,23.241784,77.410899,Grocery Store,64400,14169,1,4983,6.1,6.1,5.8,Medium,"Transit Hub, Retail Market",96,2160000,Good
+LOC_0866,10 Number Market #17,10 Number Market,Bhopal,23.21478,77.416384,Pharmacy,58400,17233,2,5260,6.7,7.3,8.6,High,"Offices, Transit Hub",179,2953500,Excellent
+LOC_0867,MP Nagar Zone 1 #18,MP Nagar Zone 1,Bhopal,23.233522,77.427377,Clothing Store,48600,23205,3,2509,4.6,3.6,8.5,Low,"Shopping Mall, High Street",89,3738000,Good
+LOC_0868,Ayodhya Bypass #19,Ayodhya Bypass,Bhopal,23.278251,77.46452,Co-Working Space,19500,26482,1,2330,5.9,5.2,9.9,Medium,"Residential, Schools",42,5670000,Average
+LOC_0869,Chunabhatti #20,Chunabhatti,Bhopal,23.197709,77.410443,Co-Working Space,37900,14252,0,2245,9.0,6.6,4.7,Low,"Transit Hub, Retail Market",40,5400000,Average
+LOC_0870,Indrapuri BHEL #21,Indrapuri BHEL,Bhopal,23.245612,77.473626,Grocery Store,36200,20535,6,5750,10.0,7.1,6.1,Medium,"Metro Station, Offices",147,3307500,Excellent
+LOC_0871,Karond #22,Karond,Bhopal,23.2998,77.407266,Pharmacy,19700,13861,4,2999,6.9,8.8,9.4,Low,"Residential, Hospitals",81,1336500,Good
+LOC_0872,MP Nagar Zone 1 #23,MP Nagar Zone 1,Bhopal,23.236786,77.430347,Co-Working Space,65500,22226,1,3739,7.4,3.5,8.0,High,"Offices, Residential",58,7830000,Average
+LOC_0873,Shahpura #24,Shahpura,Bhopal,23.210863,77.417489,Clothing Store,39700,29156,5,3729,4.7,6.8,6.2,High,"Shopping Mall, High Street",148,6216000,Excellent
+LOC_0874,Platinum Plaza #25,Platinum Plaza,Bhopal,23.238206,77.402686,Clothing Store,58300,11740,4,4948,7.2,8.3,8.1,Low,"Hospitals, Transit Hub",145,6090000,Excellent
+LOC_0875,MP Nagar Zone 2 #26,MP Nagar Zone 2,Bhopal,23.233316,77.431289,Pharmacy,68800,6416,4,5212,8.8,6.4,9.8,Medium,"Offices, Transit Hub",110,1815000,Good
+LOC_0876,TT Nagar #27,TT Nagar,Bhopal,23.2416,77.405489,Pharmacy,49600,26204,1,4337,6.1,6.5,7.0,Medium,"Offices, Colleges",111,1831500,Good
+LOC_0877,MP Nagar Zone 2 #28,MP Nagar Zone 2,Bhopal,23.235193,77.432098,Pharmacy,63300,15834,2,6126,8.9,9.8,7.2,Low,"Colleges, Food Court",164,2706000,Excellent
+LOC_0878,Gulmohar Colony #29,Gulmohar Colony,Bhopal,23.196484,77.436279,Co-Working Space,32400,19923,2,2505,8.5,7.2,5.6,High,"Metro Station, Offices",78,10530000,Good
+LOC_0879,Arera Colony E-3 #30,Arera Colony E-3,Bhopal,23.216169,77.422415,Pharmacy,53900,61444,2,2816,9.3,8.8,6.2,Medium,"Shopping Mall, High Street",267,4405500,Excellent
+LOC_0880,Bairagarh #31,Bairagarh,Bhopal,23.2791,77.343861,Pharmacy,47600,34568,4,5061,5.4,6.0,8.2,Medium,"Offices, Transit Hub",134,2211000,Excellent
+LOC_0881,Ayodhya Bypass #32,Ayodhya Bypass,Bhopal,23.274687,77.464221,Pharmacy,17200,16129,1,1595,7.6,7.0,7.4,Medium,"Transit Hub, Retail Market",35,577500,Average
+LOC_0882,Lalghati #33,Lalghati,Bhopal,23.280101,77.382528,Co-Working Space,24400,16178,0,3166,5.8,5.3,7.2,High,"Offices, Transit Hub",53,7155000,Average
+LOC_0883,10 Number Market #34,10 Number Market,Bhopal,23.218675,77.421068,Grocery Store,105500,13820,8,5553,8.7,6.5,5.7,High,"Offices, Colleges",123,2767500,Excellent
+LOC_0884,MP Nagar Zone 2 #35,MP Nagar Zone 2,Bhopal,23.226435,77.435053,Clothing Store,50000,48169,13,6069,7.3,5.3,8.2,Medium,"Residential, Hospitals",168,7056000,Excellent
+LOC_0885,MP Nagar Zone 1 #36,MP Nagar Zone 1,Bhopal,23.239731,77.428464,Cafe,61700,32366,6,4342,9.2,5.7,6.3,High,"Residential, Schools",168,1310400,Excellent
+LOC_0886,Bairagarh #37,Bairagarh,Bhopal,23.280014,77.348469,Grocery Store,42700,16968,8,6489,9.6,4.2,8.1,Medium,"Offices, Colleges",172,3870000,Excellent
+LOC_0887,Ashoka Garden #38,Ashoka Garden,Bhopal,23.253122,77.432705,Clothing Store,28700,32545,4,2631,8.3,5.8,5.8,Medium,"Residential, Schools",89,3738000,Good
+LOC_0888,Shahpura #39,Shahpura,Bhopal,23.208245,77.413128,Co-Working Space,40300,23721,0,3307,8.6,7.8,8.6,Medium,"Shopping Mall, High Street",66,8910000,Average
+LOC_0889,New Market #40,New Market,Bhopal,23.233124,77.405271,Co-Working Space,67800,12148,1,6136,5.9,6.2,9.0,Medium,"Transit Hub, Retail Market",76,10260000,Good
+LOC_0890,Karond #41,Karond,Bhopal,23.297453,77.411213,Co-Working Space,17700,21817,4,2434,7.2,6.8,6.9,Medium,"Residential, Schools",43,5805000,Average
+LOC_0891,MP Nagar Zone 2 #42,MP Nagar Zone 2,Bhopal,23.227999,77.437047,Clothing Store,71500,40442,7,4816,5.7,5.1,7.5,Medium,"Colleges, Food Court",175,7350000,Excellent
+LOC_0892,10 Number Market #43,10 Number Market,Bhopal,23.216855,77.422819,Quick Service Restaurant,58600,14037,15,6343,4.9,4.3,10.0,Medium,"Transit Hub, Retail Market",154,1478400,Excellent
+LOC_0893,Bairagarh #44,Bairagarh,Bhopal,23.279958,77.344122,Co-Working Space,35100,29759,4,5620,4.4,7.6,6.9,Medium,"Offices, Colleges",92,12420000,Good
+LOC_0894,Kolar Road #45,Kolar Road,Bhopal,23.18816,77.423454,Co-Working Space,26700,37069,1,2627,8.4,6.4,5.9,Medium,"Offices, Residential",80,10800000,Good
+LOC_0895,Ashoka Garden #46,Ashoka Garden,Bhopal,23.25478,77.429018,Cafe,26700,39551,6,3349,7.7,9.0,10.0,Low,"Shopping Mall, High Street",180,1404000,Excellent
+LOC_0896,New Market #47,New Market,Bhopal,23.236682,77.399785,Clothing Store,47400,35539,17,8721,9.0,8.3,7.5,High,"Residential, Hospitals",206,8652000,Excellent
+LOC_0897,Malviya Nagar #48,Malviya Nagar,Bhopal,23.243928,77.411521,Cafe,72400,17186,3,5733,7.2,5.3,6.5,Low,"Offices, Transit Hub",191,1489800,Excellent
+LOC_0898,Malviya Nagar #49,Malviya Nagar,Bhopal,23.241489,77.41384,Grocery Store,32900,13652,4,4507,6.5,4.7,6.4,Medium,"Shopping Mall, High Street",101,2272500,Good
+LOC_0899,Karond #50,Karond,Bhopal,23.299932,77.407392,Quick Service Restaurant,20300,25398,7,2902,8.1,7.8,9.0,Low,"Metro Station, Offices",118,1132800,Good
+LOC_0900,Malviya Nagar #1,Malviya Nagar,Bhopal,23.241275,77.40795,Pharmacy,65100,17645,0,3621,6.0,7.1,7.3,High,"Offices, Residential",88,1452000,Good
+LOC_0901,Gulmohar Colony #2,Gulmohar Colony,Bhopal,23.194273,77.435275,Pharmacy,50200,64057,3,2781,7.1,3.4,5.2,High,"Metro Station, Offices",135,2227500,Excellent
+LOC_0902,Ashoka Garden #3,Ashoka Garden,Bhopal,23.255596,77.428621,Co-Working Space,23100,24624,0,2133,6.0,6.0,7.4,Low,"Metro Station, Offices",43,5805000,Average
+LOC_0903,Lalghati #4,Lalghati,Bhopal,23.283224,77.37903,Pharmacy,35100,12237,2,3391,7.4,8.7,5.4,Medium,"Offices, Colleges",73,1204500,Average
+LOC_0904,Malviya Nagar #5,Malviya Nagar,Bhopal,23.239717,77.405582,Grocery Store,48900,14087,0,3130,7.9,5.4,7.8,High,"Offices, Transit Hub",85,1912500,Good
+LOC_0905,Bittan Market #6,Bittan Market,Bhopal,23.225859,77.433717,Grocery Store,69800,27495,4,6000,8.9,5.3,5.6,Medium,"Transit Hub, Retail Market",177,3982500,Excellent
+LOC_0906,Kolar Road #7,Kolar Road,Bhopal,23.182,77.424568,Quick Service Restaurant,31900,31257,1,2118,6.8,4.9,9.9,Medium,"Offices, Transit Hub",110,1056000,Good
+LOC_0907,MP Nagar Zone 1 #8,MP Nagar Zone 1,Bhopal,23.240828,77.429954,Clothing Store,77800,25083,7,4804,7.5,6.8,5.7,High,"Metro Station, Offices",132,5544000,Excellent
+LOC_0908,Ashoka Garden #9,Ashoka Garden,Bhopal,23.249358,77.421525,Co-Working Space,21300,32684,1,1092,5.1,7.2,5.5,Low,"Transit Hub, Retail Market",31,4185000,Average
+LOC_0909,10 Number Market #10,10 Number Market,Bhopal,23.216566,77.428445,Co-Working Space,59300,20622,6,7058,4.8,8.6,8.2,High,"Colleges, Food Court",92,12420000,Good
+LOC_0910,Hoshangabad Road #11,Hoshangabad Road,Bhopal,23.193266,77.4472,Co-Working Space,85300,18946,0,2577,6.4,4.1,6.2,High,"Colleges, Food Court",43,5805000,Average
+LOC_0911,MP Nagar Zone 1 #12,MP Nagar Zone 1,Bhopal,23.236376,77.433816,Grocery Store,57200,27586,6,7881,6.2,9.3,6.7,High,"Transit Hub, Retail Market",245,5512500,Excellent
+LOC_0912,Shahpura #13,Shahpura,Bhopal,23.211966,77.412998,Cafe,43800,26483,0,2118,7.9,8.0,6.4,High,"Residential, Schools",77,600600,Good
+LOC_0913,TT Nagar #14,TT Nagar,Bhopal,23.227315,77.406051,Cafe,55300,33787,11,6000,7.0,7.5,6.4,Medium,"Hospitals, Transit Hub",131,1021800,Excellent
+LOC_0914,New Market #15,New Market,Bhopal,23.23839,77.401547,Cafe,57500,14924,7,5450,6.5,5.0,4.2,Low,"Offices, Residential",143,1115400,Excellent
+LOC_0915,Chunabhatti #16,Chunabhatti,Bhopal,23.204323,77.411309,Quick Service Restaurant,19100,28709,2,1627,10.0,6.2,8.5,Medium,"Offices, Transit Hub",121,1161600,Excellent
+LOC_0916,Kolar Road #17,Kolar Road,Bhopal,23.182665,77.412276,Cafe,37000,37982,4,4198,7.2,10.0,6.2,High,"Metro Station, Offices",195,1521000,Excellent
+LOC_0917,Gulmohar Colony #18,Gulmohar Colony,Bhopal,23.201201,77.435552,Co-Working Space,45300,30030,3,2942,4.7,8.2,6.4,High,"Offices, Transit Hub",82,11070000,Good
+LOC_0918,Indrapuri BHEL #19,Indrapuri BHEL,Bhopal,23.24138,77.462295,Cafe,41200,16514,7,6453,7.8,5.7,7.8,Medium,"Colleges, Food Court",197,1536600,Excellent
+LOC_0919,Platinum Plaza #20,Platinum Plaza,Bhopal,23.239007,77.404863,Pharmacy,63600,27069,5,5950,9.2,8.2,7.1,High,"Offices, Colleges",189,3118500,Excellent
+LOC_0920,Ashoka Garden #21,Ashoka Garden,Bhopal,23.259624,77.438804,Cafe,25700,34016,1,3000,8.1,3.5,7.8,Medium,"Colleges, Food Court",104,811200,Good
+LOC_0921,10 Number Market #22,10 Number Market,Bhopal,23.21394,77.417913,Cafe,72000,44562,6,4970,4.0,9.2,10.0,High,"Offices, Residential",200,1560000,Excellent
+LOC_0922,Ashoka Garden #23,Ashoka Garden,Bhopal,23.255568,77.437107,Grocery Store,25000,36859,1,2745,3.7,6.1,7.9,Medium,"Residential, Schools",94,2115000,Good
+LOC_0923,Karond #24,Karond,Bhopal,23.300119,77.410525,Quick Service Restaurant,29300,19493,2,2991,6.5,6.8,8.0,Medium,"Offices, Residential",118,1132800,Good
+LOC_0924,Chunabhatti #25,Chunabhatti,Bhopal,23.202375,77.409943,Grocery Store,34500,58710,2,1862,9.3,4.5,5.9,Low,"Transit Hub, Retail Market",122,2745000,Excellent
+LOC_0925,TT Nagar #26,TT Nagar,Bhopal,23.238134,77.40231,Pharmacy,50500,20913,1,3266,6.9,10.0,6.3,Low,"Residential, Hospitals",129,2128500,Excellent
+LOC_0926,TT Nagar #27,TT Nagar,Bhopal,23.234835,77.398539,Quick Service Restaurant,52800,13945,6,5786,7.8,3.4,6.9,High,"Offices, Colleges",234,2246400,Excellent
+LOC_0927,Platinum Plaza #28,Platinum Plaza,Bhopal,23.238063,77.39521,Cafe,80900,65406,4,3802,7.3,7.9,8.9,High,"Residential, Hospitals",217,1692600,Excellent
+LOC_0928,Bittan Market #29,Bittan Market,Bhopal,23.219639,77.429804,Pharmacy,49600,23962,1,6100,6.1,7.8,8.2,High,"Residential, Schools",164,2706000,Excellent
+LOC_0929,TT Nagar #30,TT Nagar,Bhopal,23.233332,77.413302,Grocery Store,50500,12366,3,4173,5.5,5.8,8.2,Medium,"Residential, Schools",120,2700000,Excellent
+LOC_0930,Lalghati #31,Lalghati,Bhopal,23.285426,77.373346,Clothing Store,26300,12644,4,2572,8.5,6.5,6.2,Medium,"Offices, Colleges",93,3906000,Good
+LOC_0931,Bairagarh #32,Bairagarh,Bhopal,23.278703,77.341338,Cafe,35900,42798,4,5310,10.0,3.9,6.0,Low,"Residential, Schools",201,1567800,Excellent
+LOC_0932,Karond #33,Karond,Bhopal,23.301338,77.408892,Clothing Store,23700,9625,4,3253,6.7,4.7,8.5,Low,"Hospitals, Transit Hub",98,4116000,Good
+LOC_0933,Malviya Nagar #34,Malviya Nagar,Bhopal,23.238302,77.412202,Co-Working Space,50700,13821,0,2674,8.1,8.5,7.8,Medium,"Colleges, Food Court",45,6075000,Average
+LOC_0934,MP Nagar Zone 1 #35,MP Nagar Zone 1,Bhopal,23.233769,77.428901,Cafe,64500,14622,5,4337,7.6,4.6,6.4,High,"Colleges, Food Court",136,1060800,Excellent
+LOC_0935,MP Nagar Zone 2 #36,MP Nagar Zone 2,Bhopal,23.22646,77.433785,Grocery Store,47200,29761,4,5414,6.7,7.3,5.4,High,"Shopping Mall, High Street",130,2925000,Excellent
+LOC_0936,MP Nagar Zone 1 #37,MP Nagar Zone 1,Bhopal,23.232587,77.42794,Grocery Store,59000,34633,2,3964,6.2,5.1,7.5,High,"Offices, Transit Hub",144,3240000,Excellent
+LOC_0937,Platinum Plaza #38,Platinum Plaza,Bhopal,23.237726,77.399807,Co-Working Space,39100,16899,2,5006,6.6,4.8,10.0,High,"Metro Station, Offices",109,14715000,Good
+LOC_0938,Malviya Nagar #39,Malviya Nagar,Bhopal,23.239256,77.412393,Grocery Store,47600,21098,1,2212,6.4,5.9,8.9,Medium,"Colleges, Food Court",65,1462500,Average
+LOC_0939,New Market #40,New Market,Bhopal,23.240844,77.404423,Quick Service Restaurant,77800,18107,12,6342,8.8,6.5,6.4,Medium,"Metro Station, Offices",214,2054400,Excellent
+LOC_0940,Ashoka Garden #41,Ashoka Garden,Bhopal,23.256266,77.431364,Quick Service Restaurant,24800,55825,3,2586,8.1,5.5,10.0,Low,"Transit Hub, Retail Market",188,1804800,Excellent
+LOC_0941,Gulmohar Colony #42,Gulmohar Colony,Bhopal,23.202869,77.423911,Pharmacy,57700,46969,0,3056,8.5,6.7,6.6,Medium,"Shopping Mall, High Street",109,1798500,Good
+LOC_0942,10 Number Market #43,10 Number Market,Bhopal,23.214959,77.42333,Cafe,73300,24641,3,7684,9.8,7.2,8.2,Medium,"Offices, Colleges",333,2597400,Excellent
+LOC_0943,10 Number Market #44,10 Number Market,Bhopal,23.215154,77.422789,Clothing Store,63900,15326,4,4900,9.3,3.9,7.3,High,"Offices, Residential",140,5880000,Excellent
+LOC_0944,Shahpura #45,Shahpura,Bhopal,23.207926,77.422505,Quick Service Restaurant,41800,35478,7,2761,8.3,8.7,8.6,High,"Metro Station, Offices",192,1843200,Excellent
+LOC_0945,Indrapuri BHEL #46,Indrapuri BHEL,Bhopal,23.250032,77.46318,Pharmacy,30500,50640,3,3803,7.2,4.6,6.0,Low,"Residential, Hospitals",170,2805000,Excellent
+LOC_0946,TT Nagar #47,TT Nagar,Bhopal,23.2357,77.40624,Grocery Store,66700,35930,6,5410,8.3,5.0,7.4,High,"Hospitals, Transit Hub",211,4747500,Excellent
+LOC_0947,Shahpura #48,Shahpura,Bhopal,23.209473,77.419448,Co-Working Space,39200,95000,1,3184,5.1,4.6,8.1,Medium,"Hospitals, Transit Hub",112,15120000,Good
+LOC_0948,Karond #49,Karond,Bhopal,23.301141,77.409513,Grocery Store,26100,24797,1,2553,6.6,5.0,4.2,Medium,"Shopping Mall, High Street",66,1485000,Average
+LOC_0949,New Market #50,New Market,Bhopal,23.242651,77.399407,Grocery Store,85600,16711,5,7417,7.5,6.0,7.9,Medium,"Offices, Transit Hub",183,4117500,Excellent
+LOC_0950,Hoshangabad Road #1,Hoshangabad Road,Bhopal,23.195957,77.443942,Cafe,58900,14154,9,5013,7.2,5.0,7.0,High,"Offices, Transit Hub",146,1138800,Excellent
+LOC_0951,Ashoka Garden #2,Ashoka Garden,Bhopal,23.254862,77.438276,Quick Service Restaurant,16900,19392,3,1433,7.3,7.1,8.0,Low,"Shopping Mall, High Street",63,604800,Average
+LOC_0952,Ayodhya Bypass #3,Ayodhya Bypass,Bhopal,23.276442,77.464335,Quick Service Restaurant,23400,14401,2,1637,7.1,5.5,7.1,Low,"Residential, Hospitals",61,585600,Average
+LOC_0953,Ayodhya Bypass #4,Ayodhya Bypass,Bhopal,23.277343,77.45635,Clothing Store,26400,34923,5,2312,4.6,9.3,6.6,Medium,"Metro Station, Offices",77,3234000,Good
+LOC_0954,Bairagarh #5,Bairagarh,Bhopal,23.276815,77.343706,Grocery Store,45800,18258,9,6942,5.5,7.4,8.1,Medium,"Offices, Residential",125,2812500,Excellent
+LOC_0955,Chunabhatti #6,Chunabhatti,Bhopal,23.20808,77.412894,Grocery Store,29700,27716,1,2249,6.3,4.1,9.2,Low,"Metro Station, Offices",78,1755000,Good
+LOC_0956,Chunabhatti #7,Chunabhatti,Bhopal,23.199139,77.407384,Quick Service Restaurant,32100,22785,1,2890,6.6,4.4,8.4,Medium,"Residential, Hospitals",90,864000,Good
+LOC_0957,Arera Colony E-3 #8,Arera Colony E-3,Bhopal,23.212869,77.429944,Cafe,54800,36856,1,3146,6.2,4.6,9.2,High,"Shopping Mall, High Street",140,1092000,Excellent
+LOC_0958,MP Nagar Zone 2 #9,MP Nagar Zone 2,Bhopal,23.233391,77.434275,Pharmacy,69800,39119,1,4234,7.4,6.1,5.8,Medium,"Hospitals, Transit Hub",150,2475000,Excellent
+LOC_0959,Ashoka Garden #10,Ashoka Garden,Bhopal,23.255862,77.429521,Pharmacy,24700,22224,0,3701,8.1,8.1,9.2,Low,"Offices, Transit Hub",123,2029500,Excellent
+LOC_0960,MP Nagar Zone 2 #11,MP Nagar Zone 2,Bhopal,23.230713,77.43384,Co-Working Space,49600,22562,3,6123,5.6,6.4,7.7,Medium,"Offices, Residential",74,9990000,Average
+LOC_0961,MP Nagar Zone 2 #12,MP Nagar Zone 2,Bhopal,23.224006,77.43611,Co-Working Space,55200,18730,2,5849,7.3,9.2,7.6,Low,"Hospitals, Transit Hub",109,14715000,Good
+LOC_0962,Chunabhatti #13,Chunabhatti,Bhopal,23.198981,77.410331,Grocery Store,31100,52738,1,2541,6.0,4.6,8.7,Medium,"Colleges, Food Court",94,2115000,Good
+LOC_0963,Chunabhatti #14,Chunabhatti,Bhopal,23.199591,77.405169,Grocery Store,37900,33488,2,1856,8.2,7.6,4.4,Medium,"Hospitals, Transit Hub",116,2610000,Good
+LOC_0964,Shahpura #15,Shahpura,Bhopal,23.210143,77.417581,Clothing Store,60200,28656,4,1658,8.8,8.6,7.2,Medium,"Offices, Residential",57,2394000,Average
+LOC_0965,Lalghati #16,Lalghati,Bhopal,23.284407,77.375718,Cafe,28300,22998,0,1791,6.8,6.3,9.9,Medium,"Metro Station, Offices",77,600600,Good
+LOC_0966,Arera Colony E-3 #17,Arera Colony E-3,Bhopal,23.215942,77.42698,Quick Service Restaurant,37300,43035,4,2658,10.0,6.7,6.3,Medium,"Residential, Hospitals",126,1209600,Excellent
+LOC_0967,Ashoka Garden #18,Ashoka Garden,Bhopal,23.2516,77.426882,Grocery Store,22400,37505,3,2740,9.2,7.3,6.5,Medium,"Residential, Hospitals",130,2925000,Excellent
+LOC_0968,10 Number Market #19,10 Number Market,Bhopal,23.222606,77.426848,Cafe,60600,21200,5,4508,5.8,6.1,6.5,High,"Shopping Mall, High Street",147,1146600,Excellent
+LOC_0969,Shahpura #20,Shahpura,Bhopal,23.20099,77.420207,Grocery Store,45600,30183,3,3427,8.3,6.5,7.6,High,"Residential, Hospitals",187,4207500,Excellent
+LOC_0970,Platinum Plaza #21,Platinum Plaza,Bhopal,23.236334,77.398045,Cafe,54300,20901,3,2635,6.9,8.2,8.7,High,"Residential, Hospitals",99,772200,Good
+LOC_0971,Kolar Road #22,Kolar Road,Bhopal,23.176913,77.424239,Grocery Store,25000,49093,3,3288,5.0,5.8,6.6,High,"Residential, Schools",142,3195000,Excellent
+LOC_0972,10 Number Market #23,10 Number Market,Bhopal,23.219602,77.419966,Clothing Store,69000,31773,3,3123,8.6,5.9,9.5,High,"Shopping Mall, High Street",143,6006000,Excellent
+LOC_0973,Ashoka Garden #24,Ashoka Garden,Bhopal,23.257197,77.430981,Cafe,22900,27713,5,4204,7.5,2.5,6.8,Medium,"Offices, Colleges",179,1396200,Excellent
+LOC_0974,MP Nagar Zone 2 #25,MP Nagar Zone 2,Bhopal,23.231391,77.433083,Clothing Store,78600,31363,8,4591,7.2,8.2,4.3,Low,"Residential, Schools",123,5166000,Excellent
+LOC_0975,Ayodhya Bypass #26,Ayodhya Bypass,Bhopal,23.274553,77.462318,Clothing Store,17300,20193,3,1463,6.6,4.7,8.2,Low,"Colleges, Food Court",52,2184000,Average
+LOC_0976,Ashoka Garden #27,Ashoka Garden,Bhopal,23.257785,77.431899,Quick Service Restaurant,22900,26062,3,1984,6.4,5.8,7.8,Low,"Offices, Transit Hub",93,892800,Good
+LOC_0977,New Market #28,New Market,Bhopal,23.235159,77.397488,Clothing Store,58200,20901,11,5219,8.9,8.0,8.1,Medium,"Shopping Mall, High Street",171,7182000,Excellent
+LOC_0978,Kolar Road #29,Kolar Road,Bhopal,23.186126,77.420256,Cafe,30300,31672,7,3572,8.5,7.9,8.1,High,"Offices, Transit Hub",130,1014000,Excellent
+LOC_0979,Hoshangabad Road #30,Hoshangabad Road,Bhopal,23.197212,77.446062,Grocery Store,57500,24185,2,6112,8.6,5.6,5.7,Medium,"Residential, Schools",209,4702500,Excellent
+LOC_0980,Shahpura #31,Shahpura,Bhopal,23.199534,77.427907,Cafe,51600,33816,6,3174,7.2,6.5,6.9,High,"Residential, Hospitals",117,912600,Good
+LOC_0981,Ashoka Garden #32,Ashoka Garden,Bhopal,23.25464,77.428,Clothing Store,29400,15355,7,3553,8.9,1.0,9.3,Medium,"Transit Hub, Retail Market",121,5082000,Excellent
+LOC_0982,Indrapuri BHEL #33,Indrapuri BHEL,Bhopal,23.248031,77.47144,Co-Working Space,27200,16795,4,3857,5.2,3.9,7.0,Medium,"Colleges, Food Court",52,7020000,Average
+LOC_0983,Indrapuri BHEL #34,Indrapuri BHEL,Bhopal,23.254721,77.472043,Co-Working Space,31700,29798,2,4200,8.4,5.9,8.9,Medium,"Shopping Mall, High Street",94,12690000,Good
+LOC_0984,Chunabhatti #35,Chunabhatti,Bhopal,23.200685,77.412448,Cafe,38200,65088,0,2262,9.5,7.1,8.3,Medium,"Offices, Colleges",131,1021800,Excellent
+LOC_0985,Kolar Road #36,Kolar Road,Bhopal,23.181438,77.423784,Co-Working Space,21700,45961,2,2641,8.2,7.3,8.3,Low,"Transit Hub, Retail Market",92,12420000,Good
+LOC_0986,Hoshangabad Road #37,Hoshangabad Road,Bhopal,23.194222,77.445963,Cafe,57100,28815,2,4709,7.3,4.5,7.4,Medium,"Transit Hub, Retail Market",122,951600,Excellent
+LOC_0987,Hoshangabad Road #38,Hoshangabad Road,Bhopal,23.194062,77.452267,Grocery Store,44700,16454,2,5490,9.0,6.1,6.4,Medium,"Transit Hub, Retail Market",109,2452500,Good
+LOC_0988,Arera Colony E-3 #39,Arera Colony E-3,Bhopal,23.215187,77.425229,Co-Working Space,75200,20140,1,2332,7.3,4.7,9.1,High,"Offices, Colleges",52,7020000,Average
+LOC_0989,Ayodhya Bypass #40,Ayodhya Bypass,Bhopal,23.274762,77.455419,Co-Working Space,23400,36958,2,2169,5.8,4.1,8.6,Medium,"Shopping Mall, High Street",48,6480000,Average
+LOC_0990,Ashoka Garden #41,Ashoka Garden,Bhopal,23.248713,77.429727,Quick Service Restaurant,26500,41954,2,2487,6.3,4.9,7.0,Medium,"Offices, Residential",118,1132800,Good
+LOC_0991,New Market #42,New Market,Bhopal,23.244528,77.397482,Pharmacy,82000,16533,1,5996,9.2,6.2,7.6,Medium,"Offices, Residential",220,3630000,Excellent
+LOC_0992,Lalghati #43,Lalghati,Bhopal,23.28541,77.375384,Clothing Store,45400,26180,3,3473,7.0,9.8,7.5,High,"Metro Station, Offices",157,6594000,Excellent
+LOC_0993,Ayodhya Bypass #44,Ayodhya Bypass,Bhopal,23.268576,77.459555,Pharmacy,25500,31075,0,2701,9.4,5.8,6.2,Low,"Transit Hub, Retail Market",123,2029500,Excellent
+LOC_0994,Lalghati #45,Lalghati,Bhopal,23.282369,77.375381,Co-Working Space,26200,19672,2,4269,7.3,5.5,8.6,Medium,"Metro Station, Offices",85,11475000,Good
+LOC_0995,TT Nagar #46,TT Nagar,Bhopal,23.237836,77.406043,Pharmacy,54900,12567,1,3495,7.8,5.7,5.3,Medium,"Offices, Transit Hub",85,1402500,Good
+LOC_0996,Platinum Plaza #47,Platinum Plaza,Bhopal,23.241112,77.400352,Pharmacy,75400,23337,2,3265,6.7,3.8,7.8,High,"Residential, Hospitals",88,1452000,Good
+LOC_0997,Hoshangabad Road #48,Hoshangabad Road,Bhopal,23.202281,77.447999,Grocery Store,64100,9731,3,3528,5.5,5.1,5.4,High,"Hospitals, Transit Hub",95,2137500,Good
+LOC_0998,TT Nagar #49,TT Nagar,Bhopal,23.235321,77.407924,Quick Service Restaurant,60200,17472,7,5563,9.4,6.6,6.0,Medium,"Offices, Transit Hub",209,2006400,Excellent
+LOC_0999,Karond #50,Karond,Bhopal,23.298021,77.41078,Quick Service Restaurant,15000,20959,2,2629,7.4,9.0,7.0,Medium,"Colleges, Food Court",114,1094400,Good
+LOC_1000,Malviya Nagar #1,Malviya Nagar,Bhopal,23.243278,77.416949,Clothing Store,84700,17615,0,3476,4.7,3.1,6.3,High,"Offices, Transit Hub",67,2814000,Average
+LOC_1001,Lalghati #2,Lalghati,Bhopal,23.284269,77.376147,Pharmacy,28500,28150,3,3282,6.2,5.2,7.5,Medium,"Residential, Schools",108,1782000,Good
+LOC_1002,Bairagarh #3,Bairagarh,Bhopal,23.274671,77.3459,Grocery Store,48800,24444,7,5844,9.7,5.2,6.1,Medium,"Residential, Hospitals",189,4252500,Excellent
+LOC_1003,10 Number Market #4,10 Number Market,Bhopal,23.215797,77.419566,Pharmacy,55800,12928,6,6658,7.4,4.4,5.1,Medium,"Residential, Schools",118,1947000,Good
+LOC_1004,Ayodhya Bypass #5,Ayodhya Bypass,Bhopal,23.280246,77.450196,Grocery Store,24900,16017,0,945,6.0,5.1,9.2,Low,"Offices, Transit Hub",46,1035000,Average
+LOC_1005,10 Number Market #6,10 Number Market,Bhopal,23.219206,77.427134,Pharmacy,66800,27042,3,7132,5.3,8.8,5.5,High,"Metro Station, Offices",157,2590500,Excellent
+LOC_1006,MP Nagar Zone 1 #7,MP Nagar Zone 1,Bhopal,23.233485,77.432535,Co-Working Space,64900,47964,4,6738,5.7,8.2,7.9,Medium,"Hospitals, Transit Hub",141,19035000,Excellent
+LOC_1007,Indrapuri BHEL #8,Indrapuri BHEL,Bhopal,23.245699,77.473635,Co-Working Space,26000,17089,0,4856,6.4,6.9,7.7,Medium,"Residential, Schools",63,8505000,Average
+LOC_1008,Karond #9,Karond,Bhopal,23.292533,77.409665,Quick Service Restaurant,20100,23086,5,3340,6.4,7.5,7.9,Medium,"Residential, Schools",149,1430400,Excellent
+LOC_1009,Gulmohar Colony #10,Gulmohar Colony,Bhopal,23.20266,77.425102,Grocery Store,55400,30007,1,2452,6.4,6.0,7.9,High,"Metro Station, Offices",93,2092500,Good
+LOC_1010,Bittan Market #11,Bittan Market,Bhopal,23.224257,77.431474,Cafe,56800,8189,2,3923,7.0,5.4,8.1,High,"Offices, Transit Hub",149,1162200,Excellent
+LOC_1011,10 Number Market #12,10 Number Market,Bhopal,23.216941,77.426351,Pharmacy,74200,26688,5,5335,8.2,5.8,7.6,High,"Hospitals, Transit Hub",128,2112000,Excellent
+LOC_1012,Gulmohar Colony #13,Gulmohar Colony,Bhopal,23.197957,77.43063,Quick Service Restaurant,39600,31276,0,2357,9.0,7.4,7.9,Medium,"Hospitals, Transit Hub",136,1305600,Excellent
+LOC_1013,TT Nagar #14,TT Nagar,Bhopal,23.227659,77.401039,Quick Service Restaurant,39200,13546,9,4783,5.3,4.4,4.9,Medium,"Transit Hub, Retail Market",135,1296000,Excellent
+LOC_1014,Hoshangabad Road #15,Hoshangabad Road,Bhopal,23.191198,77.449275,Cafe,80600,14041,4,4464,7.5,7.7,7.8,High,"Transit Hub, Retail Market",180,1404000,Excellent
+LOC_1015,TT Nagar #16,TT Nagar,Bhopal,23.233972,77.402635,Pharmacy,52100,15131,0,5181,6.6,5.9,4.4,Medium,"Hospitals, Transit Hub",112,1848000,Good
+LOC_1016,Kolar Road #17,Kolar Road,Bhopal,23.179679,77.421036,Cafe,34800,52924,5,4522,9.0,6.0,9.1,High,"Shopping Mall, High Street",258,2012400,Excellent
+LOC_1017,Bairagarh #18,Bairagarh,Bhopal,23.280948,77.343672,Quick Service Restaurant,36300,13539,5,6873,4.7,3.2,6.7,Medium,"Residential, Hospitals",166,1593600,Excellent
+LOC_1018,Platinum Plaza #19,Platinum Plaza,Bhopal,23.244421,77.393205,Cafe,71200,25339,8,5501,8.8,6.3,7.3,High,"Offices, Residential",238,1856400,Excellent
+LOC_1019,MP Nagar Zone 2 #20,MP Nagar Zone 2,Bhopal,23.236441,77.431674,Clothing Store,87200,19994,7,5801,8.3,4.8,6.9,Medium,"Metro Station, Offices",182,7644000,Excellent
+LOC_1020,Platinum Plaza #21,Platinum Plaza,Bhopal,23.238776,77.38817,Grocery Store,58800,19819,3,3922,9.4,4.1,6.6,High,"Residential, Schools",113,2542500,Good
+LOC_1021,Karond #22,Karond,Bhopal,23.293882,77.412991,Clothing Store,17500,14862,4,2793,7.0,3.6,7.6,Low,"Residential, Schools",69,2898000,Average
+LOC_1022,Karond #23,Karond,Bhopal,23.297231,77.415466,Pharmacy,25500,32066,2,2405,8.1,6.7,6.2,Low,"Offices, Residential",103,1699500,Good
+LOC_1023,Bittan Market #24,Bittan Market,Bhopal,23.22174,77.431949,Quick Service Restaurant,70500,11523,7,4864,6.7,6.6,5.9,High,"Transit Hub, Retail Market",219,2102400,Excellent
+LOC_1024,Arera Colony E-3 #25,Arera Colony E-3,Bhopal,23.210711,77.433947,Grocery Store,45300,18730,2,2025,7.8,9.2,9.9,Medium,"Transit Hub, Retail Market",114,2565000,Good
+LOC_1025,New Market #26,New Market,Bhopal,23.235601,77.407797,Cafe,86800,14657,9,8569,9.4,6.9,7.2,Medium,"Shopping Mall, High Street",364,2839200,Excellent
+LOC_1026,Malviya Nagar #27,Malviya Nagar,Bhopal,23.232806,77.410013,Grocery Store,43800,17112,1,2558,6.2,6.8,8.4,Medium,"Metro Station, Offices",77,1732500,Good
+LOC_1027,Malviya Nagar #28,Malviya Nagar,Bhopal,23.238568,77.412873,Grocery Store,60100,22165,4,3733,9.1,5.0,6.9,Medium,"Offices, Transit Hub",165,3712500,Excellent
+LOC_1028,Lalghati #29,Lalghati,Bhopal,23.283133,77.375309,Grocery Store,34700,12397,0,2648,7.1,9.4,7.6,Medium,"Hospitals, Transit Hub",107,2407500,Good
+LOC_1029,Karond #30,Karond,Bhopal,23.294006,77.407663,Clothing Store,16800,28052,3,2475,8.6,3.0,7.9,Low,"Residential, Schools",80,3360000,Good
+LOC_1030,Karond #31,Karond,Bhopal,23.295598,77.414737,Quick Service Restaurant,19000,36798,2,1898,6.3,6.3,9.4,Medium,"Offices, Residential",100,960000,Good
+LOC_1031,Ashoka Garden #32,Ashoka Garden,Bhopal,23.248644,77.432733,Cafe,23600,42723,2,2342,6.3,8.3,9.1,Medium,"Colleges, Food Court",99,772200,Good
+LOC_1032,MP Nagar Zone 2 #33,MP Nagar Zone 2,Bhopal,23.226694,77.433149,Cafe,66200,15533,7,4472,6.7,7.7,8.8,Medium,"Residential, Schools",132,1029600,Excellent
+LOC_1033,New Market #34,New Market,Bhopal,23.23527,77.406857,Grocery Store,64100,31111,3,9601,6.3,7.9,7.5,Medium,"Metro Station, Offices",278,6255000,Excellent
+LOC_1034,TT Nagar #35,TT Nagar,Bhopal,23.23937,77.405637,Co-Working Space,47800,17175,1,4226,7.6,5.6,7.3,Medium,"Residential, Hospitals",79,10665000,Good
+LOC_1035,Hoshangabad Road #36,Hoshangabad Road,Bhopal,23.194471,77.449864,Grocery Store,48200,28129,4,5237,5.7,8.0,5.8,High,"Colleges, Food Court",124,2790000,Excellent
+LOC_1036,Platinum Plaza #37,Platinum Plaza,Bhopal,23.236759,77.399678,Clothing Store,47400,19587,3,2475,4.7,5.3,6.5,High,"Offices, Residential",67,2814000,Average
+LOC_1037,Ayodhya Bypass #38,Ayodhya Bypass,Bhopal,23.270382,77.448624,Grocery Store,16100,25043,1,1664,5.5,6.2,6.3,Low,"Transit Hub, Retail Market",71,1597500,Average
+LOC_1038,MP Nagar Zone 1 #39,MP Nagar Zone 1,Bhopal,23.233566,77.430377,Pharmacy,57900,19630,5,5831,7.4,3.4,5.6,High,"Hospitals, Transit Hub",139,2293500,Excellent
+LOC_1039,MP Nagar Zone 2 #40,MP Nagar Zone 2,Bhopal,23.232128,77.440971,Pharmacy,62200,7619,1,5915,4.9,6.5,6.4,Medium,"Shopping Mall, High Street",104,1716000,Good
+LOC_1040,Hoshangabad Road #41,Hoshangabad Road,Bhopal,23.197714,77.444826,Grocery Store,64900,13683,7,9155,7.4,5.0,8.3,High,"Offices, Residential",243,5467500,Excellent
+LOC_1041,Bittan Market #42,Bittan Market,Bhopal,23.217489,77.435282,Clothing Store,68700,12656,11,4367,5.2,7.8,7.4,Low,"Residential, Schools",80,3360000,Good
+LOC_1042,New Market #43,New Market,Bhopal,23.237136,77.406922,Grocery Store,74600,23765,7,8771,5.9,3.3,5.0,High,"Residential, Hospitals",171,3847500,Excellent
+LOC_1043,Gulmohar Colony #44,Gulmohar Colony,Bhopal,23.20012,77.436111,Pharmacy,58200,32769,2,1868,7.9,5.9,10.0,Medium,"Offices, Residential",125,2062500,Excellent
+LOC_1044,10 Number Market #45,10 Number Market,Bhopal,23.21864,77.424661,Pharmacy,87000,18622,2,6447,5.9,7.8,8.5,Medium,"Offices, Residential",172,2838000,Excellent
+LOC_1045,Arera Colony E-3 #46,Arera Colony E-3,Bhopal,23.208257,77.423303,Pharmacy,50100,28868,0,2653,6.6,5.7,6.9,High,"Offices, Transit Hub",97,1600500,Good
+LOC_1046,MP Nagar Zone 1 #47,MP Nagar Zone 1,Bhopal,23.235661,77.435569,Cafe,71400,21154,5,4705,8.6,4.6,8.6,Medium,"Shopping Mall, High Street",166,1294800,Excellent
+LOC_1047,TT Nagar #48,TT Nagar,Bhopal,23.23112,77.403799,Grocery Store,47600,14183,2,3464,8.3,5.2,8.0,Medium,"Offices, Colleges",99,2227500,Good
+LOC_1048,Ayodhya Bypass #49,Ayodhya Bypass,Bhopal,23.280922,77.470298,Grocery Store,23300,25466,1,1413,7.5,5.4,8.6,Medium,"Residential, Schools",68,1530000,Average
+LOC_1049,Hoshangabad Road #50,Hoshangabad Road,Bhopal,23.19679,77.449279,Quick Service Restaurant,60600,14178,8,4909,8.7,5.3,8.8,High,"Colleges, Food Court",216,2073600,Excellent
+LOC_1050,Bairagarh #1,Bairagarh,Bhopal,23.28044,77.34443,Co-Working Space,46000,20299,2,4718,8.2,8.4,9.3,Low,"Hospitals, Transit Hub",92,12420000,Good
+LOC_1051,Indrapuri BHEL #2,Indrapuri BHEL,Bhopal,23.250772,77.473294,Grocery Store,25900,12634,1,3133,5.4,6.7,10.0,Low,"Offices, Residential",97,2182500,Good
+LOC_1052,TT Nagar #3,TT Nagar,Bhopal,23.230943,77.402393,Pharmacy,51600,27723,2,5474,7.9,3.7,6.5,Medium,"Offices, Transit Hub",157,2590500,Excellent
+LOC_1053,Indrapuri BHEL #4,Indrapuri BHEL,Bhopal,23.252263,77.47092,Co-Working Space,35600,11764,5,4959,8.2,7.4,7.9,Medium,"Offices, Transit Hub",85,11475000,Good
+LOC_1054,Hoshangabad Road #5,Hoshangabad Road,Bhopal,23.196399,77.454124,Quick Service Restaurant,44600,12700,6,4712,10.0,5.5,7.5,High,"Hospitals, Transit Hub",272,2611200,Excellent
+LOC_1055,MP Nagar Zone 2 #6,MP Nagar Zone 2,Bhopal,23.234938,77.427526,Co-Working Space,59800,15358,5,4927,6.6,7.2,9.2,High,"Residential, Schools",93,12555000,Good
+LOC_1056,Ashoka Garden #7,Ashoka Garden,Bhopal,23.254977,77.429594,Quick Service Restaurant,25500,12298,6,2881,6.8,7.7,9.2,Medium,"Metro Station, Offices",172,1651200,Excellent
+LOC_1057,Arera Colony E-3 #8,Arera Colony E-3,Bhopal,23.214156,77.427767,Quick Service Restaurant,59200,50990,3,2040,8.1,3.8,8.5,High,"Metro Station, Offices",116,1113600,Good
+LOC_1058,Gulmohar Colony #9,Gulmohar Colony,Bhopal,23.203222,77.432532,Co-Working Space,51400,27712,2,3181,6.7,3.0,7.2,Low,"Transit Hub, Retail Market",58,7830000,Average
+LOC_1059,Platinum Plaza #10,Platinum Plaza,Bhopal,23.240199,77.399904,Grocery Store,64000,24205,0,3476,6.3,7.4,6.1,Medium,"Offices, Colleges",92,2070000,Good
+LOC_1060,Bittan Market #11,Bittan Market,Bhopal,23.217899,77.430415,Grocery Store,65800,20530,5,6252,8.6,6.2,8.3,High,"Residential, Hospitals",265,5962500,Excellent
+LOC_1061,Kolar Road #12,Kolar Road,Bhopal,23.1775,77.42474,Pharmacy,29900,65465,2,3586,6.6,8.2,8.1,Low,"Residential, Hospitals",216,3564000,Excellent
+LOC_1062,10 Number Market #13,10 Number Market,Bhopal,23.213893,77.420328,Pharmacy,79500,13164,2,4840,8.0,8.5,7.7,High,"Metro Station, Offices",97,1600500,Good
+LOC_1063,Ashoka Garden #14,Ashoka Garden,Bhopal,23.256302,77.435478,Clothing Store,28800,29683,5,1378,7.5,8.9,8.7,Low,"Colleges, Food Court",68,2856000,Average
+LOC_1064,Ayodhya Bypass #15,Ayodhya Bypass,Bhopal,23.266084,77.454103,Pharmacy,21200,31408,3,2444,4.5,5.7,9.3,Low,"Shopping Mall, High Street",76,1254000,Good
+LOC_1065,Ashoka Garden #16,Ashoka Garden,Bhopal,23.258288,77.43763,Clothing Store,20100,27440,1,3300,7.6,2.9,6.7,Low,"Offices, Residential",81,3402000,Good
+LOC_1066,Kolar Road #17,Kolar Road,Bhopal,23.187204,77.419259,Cafe,37400,24883,5,2527,7.0,6.9,6.5,Medium,"Shopping Mall, High Street",105,819000,Good
+LOC_1067,Indrapuri BHEL #18,Indrapuri BHEL,Bhopal,23.256358,77.477132,Co-Working Space,33400,12480,1,3578,9.1,5.1,9.1,Medium,"Offices, Residential",69,9315000,Average
+LOC_1068,Platinum Plaza #19,Platinum Plaza,Bhopal,23.238655,77.397908,Cafe,60700,11399,5,4571,8.1,5.4,7.8,High,"Transit Hub, Retail Market",130,1014000,Excellent
+LOC_1069,Lalghati #20,Lalghati,Bhopal,23.283516,77.378011,Pharmacy,28700,17908,3,4030,6.6,2.6,5.1,High,"Offices, Transit Hub",86,1419000,Good
+LOC_1070,Karond #21,Karond,Bhopal,23.29968,77.413737,Clothing Store,16200,16617,4,2852,9.6,7.1,6.6,Medium,"Colleges, Food Court",123,5166000,Excellent
+LOC_1071,Gulmohar Colony #22,Gulmohar Colony,Bhopal,23.201397,77.432844,Pharmacy,33300,16986,0,2579,8.4,4.9,9.8,High,"Shopping Mall, High Street",98,1617000,Good
+LOC_1072,Shahpura #23,Shahpura,Bhopal,23.208089,77.418018,Co-Working Space,27400,17963,1,1747,7.6,6.0,8.3,High,"Metro Station, Offices",46,6210000,Average
+LOC_1073,Karond #24,Karond,Bhopal,23.295089,77.403517,Pharmacy,21200,30837,0,1583,8.4,5.5,8.0,Low,"Hospitals, Transit Hub",104,1716000,Good
+LOC_1074,Platinum Plaza #25,Platinum Plaza,Bhopal,23.235619,77.396569,Clothing Store,54400,23924,10,3825,7.6,5.8,8.0,High,"Colleges, Food Court",152,6384000,Excellent
+LOC_1075,10 Number Market #26,10 Number Market,Bhopal,23.214855,77.422052,Clothing Store,84400,17948,17,8615,9.3,5.1,5.9,High,"Shopping Mall, High Street",207,8694000,Excellent
+LOC_1076,Chunabhatti #27,Chunabhatti,Bhopal,23.202219,77.413325,Clothing Store,36800,45203,3,2517,7.8,4.6,8.8,High,"Offices, Transit Hub",107,4494000,Good
+LOC_1077,Platinum Plaza #28,Platinum Plaza,Bhopal,23.236799,77.40086,Pharmacy,64300,16475,1,2369,6.8,6.8,8.3,High,"Residential, Hospitals",65,1072500,Average
+LOC_1078,Shahpura #29,Shahpura,Bhopal,23.2079,77.421282,Co-Working Space,40900,32451,1,3106,7.2,7.4,8.2,High,"Metro Station, Offices",75,10125000,Good
+LOC_1079,Shahpura #30,Shahpura,Bhopal,23.215627,77.417544,Cafe,50100,39986,0,3163,4.5,8.4,7.9,Low,"Hospitals, Transit Hub",80,624000,Good
+LOC_1080,Kolar Road #31,Kolar Road,Bhopal,23.184858,77.418484,Pharmacy,28600,24750,2,4130,5.7,5.4,5.2,Medium,"Shopping Mall, High Street",96,1584000,Good
+LOC_1081,Arera Colony E-3 #32,Arera Colony E-3,Bhopal,23.214494,77.424949,Cafe,73200,95000,2,2649,7.3,2.0,5.2,High,"Offices, Residential",131,1021800,Excellent
+LOC_1082,Gulmohar Colony #33,Gulmohar Colony,Bhopal,23.195754,77.435436,Cafe,45000,95000,2,3200,7.2,8.2,6.7,High,"Shopping Mall, High Street",208,1622400,Excellent
+LOC_1083,Lalghati #34,Lalghati,Bhopal,23.284239,77.377905,Cafe,28500,37753,4,3269,6.8,3.7,9.5,Medium,"Colleges, Food Court",147,1146600,Excellent
+LOC_1084,Platinum Plaza #35,Platinum Plaza,Bhopal,23.232905,77.399874,Clothing Store,74600,14003,7,5507,8.5,6.9,6.1,Medium,"Transit Hub, Retail Market",175,7350000,Excellent
+LOC_1085,Malviya Nagar #36,Malviya Nagar,Bhopal,23.243207,77.407889,Co-Working Space,28000,26181,0,4279,8.2,5.7,9.6,Medium,"Offices, Transit Hub",86,11610000,Good
+LOC_1086,Indrapuri BHEL #37,Indrapuri BHEL,Bhopal,23.248691,77.472426,Clothing Store,22700,20548,5,4532,10.0,6.6,6.0,Medium,"Hospitals, Transit Hub",170,7140000,Excellent
+LOC_1087,MP Nagar Zone 2 #38,MP Nagar Zone 2,Bhopal,23.24105,77.429728,Cafe,59900,9844,6,2691,7.3,6.4,9.3,Medium,"Offices, Residential",110,858000,Good
+LOC_1088,MP Nagar Zone 1 #39,MP Nagar Zone 1,Bhopal,23.23423,77.432911,Grocery Store,62800,17874,4,7313,8.6,6.2,5.2,High,"Residential, Schools",227,5107500,Excellent
+LOC_1089,Arera Colony E-3 #40,Arera Colony E-3,Bhopal,23.217141,77.422005,Pharmacy,69300,12784,0,2001,7.5,6.7,9.6,High,"Metro Station, Offices",61,1006500,Average
+LOC_1090,Indrapuri BHEL #41,Indrapuri BHEL,Bhopal,23.243348,77.473461,Clothing Store,28200,35279,11,4691,7.4,6.8,7.0,Low,"Shopping Mall, High Street",126,5292000,Excellent
+LOC_1091,Gulmohar Colony #42,Gulmohar Colony,Bhopal,23.201566,77.436503,Grocery Store,66700,30522,1,2303,7.0,6.5,7.4,Low,"Offices, Residential",112,2520000,Good
+LOC_1092,Platinum Plaza #43,Platinum Plaza,Bhopal,23.237022,77.403969,Co-Working Space,66500,20036,1,3741,6.7,6.5,7.1,Medium,"Offices, Residential",74,9990000,Average
+LOC_1093,Arera Colony E-3 #44,Arera Colony E-3,Bhopal,23.213363,77.42909,Co-Working Space,63800,66914,4,3408,7.3,3.7,7.7,High,"Shopping Mall, High Street",107,14445000,Good
+LOC_1094,Arera Colony E-3 #45,Arera Colony E-3,Bhopal,23.212577,77.427703,Pharmacy,51600,21769,3,3387,8.3,5.1,8.7,Low,"Hospitals, Transit Hub",117,1930500,Good
+LOC_1095,Malviya Nagar #46,Malviya Nagar,Bhopal,23.243267,77.407112,Quick Service Restaurant,47800,28398,7,4122,4.2,4.1,8.3,High,"Shopping Mall, High Street",107,1027200,Good
+LOC_1096,Ayodhya Bypass #47,Ayodhya Bypass,Bhopal,23.272392,77.457286,Pharmacy,24800,6185,2,2328,7.7,7.4,6.9,Low,"Offices, Colleges",40,660000,Average
+LOC_1097,Malviya Nagar #48,Malviya Nagar,Bhopal,23.241282,77.414745,Co-Working Space,45200,13774,1,2947,6.9,6.5,8.0,Medium,"Offices, Residential",53,7155000,Average
+LOC_1098,MP Nagar Zone 1 #49,MP Nagar Zone 1,Bhopal,23.228031,77.431335,Clothing Store,63700,12500,4,4926,6.7,5.9,8.8,Medium,"Offices, Residential",151,6342000,Excellent
+LOC_1099,Lalghati #50,Lalghati,Bhopal,23.278834,77.383226,Cafe,27800,24717,4,3476,2.6,6.5,9.8,Medium,"Shopping Mall, High Street",96,748800,Good
+LOC_1100,Ashoka Garden #1,Ashoka Garden,Bhopal,23.246908,77.434975,Co-Working Space,19300,72379,4,3629,6.8,4.7,9.1,High,"Metro Station, Offices",144,19440000,Excellent
+LOC_1101,Bittan Market #2,Bittan Market,Bhopal,23.220746,77.437014,Co-Working Space,58400,23126,4,6223,6.6,7.5,7.5,High,"Offices, Residential",108,14580000,Good
+LOC_1102,Hoshangabad Road #3,Hoshangabad Road,Bhopal,23.201239,77.454071,Grocery Store,67800,15154,5,4855,5.5,4.1,9.2,High,"Colleges, Food Court",91,2047500,Good
+LOC_1103,Gulmohar Colony #4,Gulmohar Colony,Bhopal,23.204617,77.425918,Cafe,45000,52237,2,2987,8.1,6.4,7.3,High,"Colleges, Food Court",154,1201200,Excellent
+LOC_1104,Indrapuri BHEL #5,Indrapuri BHEL,Bhopal,23.251898,77.469189,Pharmacy,32700,8042,1,1863,8.7,4.8,7.8,Low,"Residential, Schools",56,924000,Average
+LOC_1105,Chunabhatti #6,Chunabhatti,Bhopal,23.201624,77.416214,Cafe,25400,43773,0,1659,8.9,5.3,8.2,Medium,"Offices, Transit Hub",78,608400,Good
+LOC_1106,10 Number Market #7,10 Number Market,Bhopal,23.218142,77.423847,Cafe,68500,15716,11,8081,7.3,5.3,7.9,High,"Shopping Mall, High Street",189,1474200,Excellent
+LOC_1107,Karond #8,Karond,Bhopal,23.301366,77.408437,Quick Service Restaurant,24100,26262,4,1991,7.6,8.3,8.2,Low,"Colleges, Food Court",117,1123200,Good
+LOC_1108,Bittan Market #9,Bittan Market,Bhopal,23.216989,77.432058,Co-Working Space,59300,19728,1,4405,9.3,8.0,7.3,Medium,"Offices, Residential",91,12285000,Good
+LOC_1109,Karond #10,Karond,Bhopal,23.301026,77.412258,Pharmacy,19100,12727,0,2065,8.5,3.8,10.0,Low,"Residential, Schools",67,1105500,Average
+LOC_1110,Ayodhya Bypass #11,Ayodhya Bypass,Bhopal,23.269537,77.455831,Pharmacy,24500,19723,0,1687,9.2,7.9,5.9,Medium,"Offices, Transit Hub",84,1386000,Good
+LOC_1111,Bairagarh #12,Bairagarh,Bhopal,23.285627,77.350791,Grocery Store,35100,37868,6,7227,5.6,6.5,8.2,Low,"Residential, Schools",188,4230000,Excellent
+LOC_1112,MP Nagar Zone 2 #13,MP Nagar Zone 2,Bhopal,23.226982,77.427359,Co-Working Space,57000,23126,6,5306,6.6,5.5,6.1,Medium,"Offices, Residential",62,8370000,Average
+LOC_1113,Malviya Nagar #14,Malviya Nagar,Bhopal,23.239867,77.413583,Pharmacy,55100,19663,2,4116,8.0,7.2,9.5,Medium,"Residential, Hospitals",125,2062500,Excellent
+LOC_1114,MP Nagar Zone 1 #15,MP Nagar Zone 1,Bhopal,23.235815,77.42684,Co-Working Space,36900,36082,2,4908,4.6,6.4,8.4,High,"Shopping Mall, High Street",85,11475000,Good
+LOC_1115,Platinum Plaza #16,Platinum Plaza,Bhopal,23.232298,77.397919,Co-Working Space,73500,38827,1,3907,6.9,3.8,9.0,High,"Transit Hub, Retail Market",81,10935000,Good
+LOC_1116,Shahpura #17,Shahpura,Bhopal,23.212623,77.417074,Pharmacy,32000,30219,1,3741,8.2,6.1,6.9,Medium,"Hospitals, Transit Hub",135,2227500,Excellent
+LOC_1117,Indrapuri BHEL #18,Indrapuri BHEL,Bhopal,23.249623,77.46945,Pharmacy,30500,9814,1,4773,6.9,5.6,8.8,Medium,"Shopping Mall, High Street",89,1468500,Good
+LOC_1118,Hoshangabad Road #19,Hoshangabad Road,Bhopal,23.206256,77.447117,Co-Working Space,54200,19741,4,4284,8.4,4.9,9.3,High,"Residential, Hospitals",83,11205000,Good
+LOC_1119,10 Number Market #20,10 Number Market,Bhopal,23.214392,77.421023,Quick Service Restaurant,60400,28045,7,4991,4.6,2.6,5.4,High,"Shopping Mall, High Street",110,1056000,Good
+LOC_1120,Gulmohar Colony #21,Gulmohar Colony,Bhopal,23.20406,77.435282,Grocery Store,53700,26344,4,2853,8.1,6.1,7.7,Low,"Residential, Schools",121,2722500,Excellent
+LOC_1121,Ayodhya Bypass #22,Ayodhya Bypass,Bhopal,23.267071,77.45625,Quick Service Restaurant,24800,12519,4,2647,7.2,6.2,6.6,Medium,"Residential, Schools",92,883200,Good
+LOC_1122,Gulmohar Colony #23,Gulmohar Colony,Bhopal,23.199147,77.42801,Pharmacy,41100,44496,2,3302,5.5,6.5,6.7,High,"Shopping Mall, High Street",110,1815000,Good
+LOC_1123,Gulmohar Colony #24,Gulmohar Colony,Bhopal,23.203053,77.425022,Clothing Store,54100,54540,5,2642,4.4,6.3,6.4,High,"Residential, Schools",104,4368000,Good
+LOC_1124,Ayodhya Bypass #25,Ayodhya Bypass,Bhopal,23.27284,77.457944,Pharmacy,20700,18901,0,1474,8.5,6.2,7.6,Low,"Residential, Schools",68,1122000,Average
+LOC_1125,Hoshangabad Road #26,Hoshangabad Road,Bhopal,23.195224,77.444826,Pharmacy,66900,26119,2,4788,8.0,5.6,8.4,High,"Offices, Residential",161,2656500,Excellent
+LOC_1126,Ayodhya Bypass #27,Ayodhya Bypass,Bhopal,23.27047,77.466571,Quick Service Restaurant,20600,24000,4,1579,5.7,4.9,4.6,Low,"Residential, Schools",60,576000,Average
+LOC_1127,Shahpura #28,Shahpura,Bhopal,23.210816,77.419429,Clothing Store,41900,40680,5,3598,7.5,5.0,5.7,Medium,"Shopping Mall, High Street",165,6930000,Excellent
+LOC_1128,Platinum Plaza #29,Platinum Plaza,Bhopal,23.242156,77.402204,Cafe,78600,23636,3,5435,7.8,5.7,7.5,High,"Offices, Transit Hub",218,1700400,Excellent
+LOC_1129,Malviya Nagar #30,Malviya Nagar,Bhopal,23.239319,77.409025,Co-Working Space,53700,12866,5,4207,7.5,5.3,8.4,Medium,"Offices, Colleges",60,8100000,Average
+LOC_1130,Bittan Market #31,Bittan Market,Bhopal,23.222582,77.426115,Grocery Store,53100,24395,5,6178,7.2,4.3,5.9,Medium,"Transit Hub, Retail Market",160,3600000,Excellent
+LOC_1131,Chunabhatti #32,Chunabhatti,Bhopal,23.204479,77.41004,Quick Service Restaurant,35600,30127,4,1507,7.5,8.4,9.7,Medium,"Offices, Colleges",100,960000,Good
+LOC_1132,Bairagarh #33,Bairagarh,Bhopal,23.279185,77.341068,Cafe,45400,32798,10,6449,7.7,6.8,7.0,Medium,"Offices, Colleges",221,1723800,Excellent
+LOC_1133,Gulmohar Colony #34,Gulmohar Colony,Bhopal,23.197549,77.433857,Clothing Store,45700,26650,1,1750,8.2,8.0,6.1,High,"Residential, Schools",87,3654000,Good
+LOC_1134,Hoshangabad Road #35,Hoshangabad Road,Bhopal,23.193435,77.451748,Cafe,60500,26127,7,4296,7.9,5.2,6.4,High,"Residential, Schools",133,1037400,Excellent
+LOC_1135,Bittan Market #36,Bittan Market,Bhopal,23.222212,77.429398,Pharmacy,53100,35560,1,5546,4.1,4.3,9.0,High,"Offices, Transit Hub",141,2326500,Excellent
+LOC_1136,Hoshangabad Road #37,Hoshangabad Road,Bhopal,23.193772,77.449466,Grocery Store,57900,43292,6,6128,7.9,5.3,7.6,Low,"Residential, Hospitals",236,5310000,Excellent
+LOC_1137,Platinum Plaza #38,Platinum Plaza,Bhopal,23.236093,77.396948,Clothing Store,71000,22077,8,3235,4.8,6.7,6.0,High,"Residential, Schools",80,3360000,Good
+LOC_1138,Shahpura #39,Shahpura,Bhopal,23.204612,77.420442,Pharmacy,54900,23846,0,3465,7.9,6.5,6.3,Medium,"Residential, Schools",101,1666500,Good
+LOC_1139,Hoshangabad Road #40,Hoshangabad Road,Bhopal,23.198086,77.449982,Quick Service Restaurant,56300,13182,4,3546,8.7,6.3,7.8,High,"Offices, Colleges",157,1507200,Excellent
+LOC_1140,Gulmohar Colony #41,Gulmohar Colony,Bhopal,23.200006,77.429377,Quick Service Restaurant,54000,11121,4,1969,6.2,8.9,8.1,High,"Colleges, Food Court",94,902400,Good
+LOC_1141,Ayodhya Bypass #42,Ayodhya Bypass,Bhopal,23.27261,77.458133,Quick Service Restaurant,25700,15156,0,1654,4.9,7.9,5.4,Low,"Residential, Schools",41,393600,Average
+LOC_1142,Indrapuri BHEL #43,Indrapuri BHEL,Bhopal,23.252915,77.475776,Pharmacy,18300,16381,1,2573,6.8,5.2,7.6,Medium,"Offices, Colleges",60,990000,Average
+LOC_1143,10 Number Market #44,10 Number Market,Bhopal,23.219522,77.422548,Co-Working Space,75100,7708,5,7751,4.6,5.2,9.4,High,"Colleges, Food Court",91,12285000,Good
+LOC_1144,MP Nagar Zone 1 #45,MP Nagar Zone 1,Bhopal,23.235328,77.436261,Co-Working Space,93900,11194,3,4992,5.7,7.6,7.6,High,"Offices, Colleges",94,12690000,Good
+LOC_1145,Karond #46,Karond,Bhopal,23.301232,77.418124,Grocery Store,15000,26394,3,2744,6.4,4.8,9.2,Medium,"Transit Hub, Retail Market",112,2520000,Good
+LOC_1146,Ashoka Garden #47,Ashoka Garden,Bhopal,23.25483,77.428903,Clothing Store,26700,27828,7,3637,7.0,5.5,7.9,High,"Offices, Transit Hub",94,3948000,Good
+LOC_1147,Ashoka Garden #48,Ashoka Garden,Bhopal,23.253236,77.434081,Clothing Store,28600,27655,4,3509,8.2,5.6,7.8,Low,"Hospitals, Transit Hub",127,5334000,Excellent
+LOC_1148,Lalghati #49,Lalghati,Bhopal,23.280975,77.379494,Clothing Store,29800,13375,5,3125,8.9,9.0,8.6,Medium,"Colleges, Food Court",146,6132000,Excellent
+LOC_1149,Ashoka Garden #50,Ashoka Garden,Bhopal,23.253231,77.435601,Co-Working Space,29100,58288,0,2843,8.0,10.0,7.1,Low,"Offices, Residential",116,15660000,Good
+LOC_1150,New Market #1,New Market,Bhopal,23.239863,77.403212,Quick Service Restaurant,81300,17902,10,7751,7.3,4.6,8.1,Medium,"Offices, Colleges",246,2361600,Excellent
+LOC_1151,Platinum Plaza #2,Platinum Plaza,Bhopal,23.238602,77.403209,Cafe,62100,20914,4,3603,6.5,7.4,7.2,High,"Colleges, Food Court",135,1053000,Excellent
+LOC_1152,Karond #3,Karond,Bhopal,23.302191,77.414326,Clothing Store,19300,15812,3,2314,9.9,4.5,5.3,Low,"Offices, Transit Hub",77,3234000,Good
+LOC_1153,Arera Colony E-3 #4,Arera Colony E-3,Bhopal,23.216298,77.422404,Clothing Store,69400,31905,7,2951,8.0,7.2,5.5,Medium,"Residential, Schools",138,5796000,Excellent
+LOC_1154,MP Nagar Zone 1 #5,MP Nagar Zone 1,Bhopal,23.231376,77.435844,Grocery Store,66100,9267,3,5407,8.1,6.3,7.9,High,"Colleges, Food Court",145,3262500,Excellent
+LOC_1155,Chunabhatti #6,Chunabhatti,Bhopal,23.206239,77.411632,Co-Working Space,35000,10251,0,2175,8.0,2.3,7.6,Medium,"Offices, Residential",35,4725000,Average
+LOC_1156,Shahpura #7,Shahpura,Bhopal,23.212983,77.4215,Cafe,57100,26535,9,4116,7.7,3.0,5.7,Medium,"Residential, Hospitals",88,686400,Good
+LOC_1157,MP Nagar Zone 2 #8,MP Nagar Zone 2,Bhopal,23.229084,77.436044,Quick Service Restaurant,54800,17688,6,4148,8.2,7.6,7.4,Medium,"Residential, Schools",160,1536000,Excellent
+LOC_1158,Platinum Plaza #9,Platinum Plaza,Bhopal,23.237855,77.405116,Grocery Store,60100,21878,1,3508,6.9,7.0,8.4,High,"Colleges, Food Court",109,2452500,Good
+LOC_1159,Lalghati #10,Lalghati,Bhopal,23.285614,77.37843,Grocery Store,33700,17538,2,2902,6.1,5.2,6.2,High,"Residential, Schools",85,1912500,Good
+LOC_1160,Indrapuri BHEL #11,Indrapuri BHEL,Bhopal,23.25536,77.472971,Co-Working Space,35600,39825,1,5513,5.8,8.1,8.0,Low,"Hospitals, Transit Hub",83,11205000,Good
+LOC_1161,10 Number Market #12,10 Number Market,Bhopal,23.216495,77.419149,Quick Service Restaurant,66800,26947,5,6386,7.1,6.9,8.1,High,"Shopping Mall, High Street",198,1900800,Excellent
+LOC_1162,Lalghati #13,Lalghati,Bhopal,23.282479,77.376741,Cafe,28600,27123,1,2823,5.7,5.7,6.6,Medium,"Offices, Residential",111,865800,Good
+LOC_1163,MP Nagar Zone 2 #14,MP Nagar Zone 2,Bhopal,23.225532,77.436001,Co-Working Space,74200,32640,1,4612,8.4,3.0,7.9,Medium,"Transit Hub, Retail Market",73,9855000,Average
+LOC_1164,Kolar Road #15,Kolar Road,Bhopal,23.184553,77.431838,Cafe,23000,28995,1,2205,7.4,3.9,7.3,Medium,"Offices, Transit Hub",65,507000,Average
+LOC_1165,Gulmohar Colony #16,Gulmohar Colony,Bhopal,23.20028,77.433807,Quick Service Restaurant,50300,37904,2,3031,6.6,7.1,7.9,High,"Offices, Residential",144,1382400,Excellent
+LOC_1166,Ayodhya Bypass #17,Ayodhya Bypass,Bhopal,23.269975,77.454967,Grocery Store,19000,14549,0,1930,9.5,3.6,7.0,Low,"Metro Station, Offices",56,1260000,Average
+LOC_1167,Indrapuri BHEL #18,Indrapuri BHEL,Bhopal,23.245635,77.464283,Co-Working Space,29800,25584,3,3430,8.8,4.9,9.0,Medium,"Transit Hub, Retail Market",57,7695000,Average
+LOC_1168,Bairagarh #19,Bairagarh,Bhopal,23.280686,77.347787,Co-Working Space,44900,23682,1,3053,6.9,4.4,5.9,Medium,"Shopping Mall, High Street",45,6075000,Average
+LOC_1169,MP Nagar Zone 1 #20,MP Nagar Zone 1,Bhopal,23.230903,77.432989,Cafe,67300,35326,9,5871,9.5,7.3,7.1,High,"Offices, Transit Hub",216,1684800,Excellent
+LOC_1170,Bittan Market #21,Bittan Market,Bhopal,23.218619,77.42495,Clothing Store,63200,45082,17,5972,6.8,8.5,10.0,High,"Metro Station, Offices",167,7014000,Excellent
+LOC_1171,MP Nagar Zone 1 #22,MP Nagar Zone 1,Bhopal,23.237094,77.433079,Cafe,79000,13194,2,4201,7.9,6.0,7.9,High,"Residential, Schools",129,1006200,Excellent
+LOC_1172,Karond #23,Karond,Bhopal,23.302396,77.416366,Cafe,22500,10995,1,1345,6.3,7.8,6.8,Medium,"Shopping Mall, High Street",48,374400,Average
+LOC_1173,TT Nagar #24,TT Nagar,Bhopal,23.235165,77.414481,Quick Service Restaurant,46400,23474,4,5917,6.5,3.6,5.2,Medium,"Metro Station, Offices",201,1929600,Excellent
+LOC_1174,Indrapuri BHEL #25,Indrapuri BHEL,Bhopal,23.24956,77.474656,Quick Service Restaurant,22200,18629,4,3607,10.0,4.1,3.9,Medium,"Offices, Residential",189,1814400,Excellent
+LOC_1175,Kolar Road #26,Kolar Road,Bhopal,23.177039,77.421187,Quick Service Restaurant,31900,48871,4,3567,6.7,5.9,8.8,Medium,"Residential, Schools",185,1776000,Excellent
+LOC_1176,10 Number Market #27,10 Number Market,Bhopal,23.220261,77.418603,Quick Service Restaurant,67500,6994,7,5977,7.3,6.5,5.3,High,"Residential, Schools",184,1766400,Excellent
+LOC_1177,Chunabhatti #28,Chunabhatti,Bhopal,23.209843,77.4098,Pharmacy,31700,48188,3,2122,5.8,5.5,5.5,High,"Residential, Schools",93,1534500,Good
+LOC_1178,Gulmohar Colony #29,Gulmohar Colony,Bhopal,23.200988,77.434463,Pharmacy,44800,23374,1,3720,8.3,4.6,7.2,High,"Residential, Hospitals",129,2128500,Excellent
+LOC_1179,New Market #30,New Market,Bhopal,23.239671,77.400913,Clothing Store,65500,29207,10,10018,5.9,6.4,6.0,Medium,"Shopping Mall, High Street",310,13020000,Excellent
+LOC_1180,Ayodhya Bypass #31,Ayodhya Bypass,Bhopal,23.267316,77.45985,Quick Service Restaurant,23500,32521,2,1956,5.6,4.8,10.0,Medium,"Hospitals, Transit Hub",90,864000,Good
+LOC_1181,MP Nagar Zone 2 #32,MP Nagar Zone 2,Bhopal,23.233267,77.4351,Grocery Store,67500,25993,8,5097,8.2,7.4,6.9,Medium,"Colleges, Food Court",155,3487500,Excellent
+LOC_1182,Indrapuri BHEL #33,Indrapuri BHEL,Bhopal,23.254383,77.469676,Clothing Store,37900,17132,7,3463,7.9,3.9,5.6,Medium,"Offices, Colleges",101,4242000,Good
+LOC_1183,Ashoka Garden #34,Ashoka Garden,Bhopal,23.25927,77.434521,Cafe,27600,21408,3,2995,8.1,8.7,8.5,Medium,"Residential, Schools",131,1021800,Excellent
+LOC_1184,10 Number Market #35,10 Number Market,Bhopal,23.217492,77.429982,Quick Service Restaurant,59700,10515,4,4591,9.6,5.3,9.4,High,"Metro Station, Offices",234,2246400,Excellent
+LOC_1185,Arera Colony E-3 #36,Arera Colony E-3,Bhopal,23.222358,77.426011,Co-Working Space,64200,26801,4,3784,8.5,4.1,4.8,High,"Offices, Transit Hub",82,11070000,Good
+LOC_1186,Kolar Road #37,Kolar Road,Bhopal,23.178386,77.416736,Cafe,38900,19779,2,2861,7.2,6.8,7.5,High,"Offices, Transit Hub",120,936000,Excellent
+LOC_1187,Hoshangabad Road #38,Hoshangabad Road,Bhopal,23.188059,77.446387,Clothing Store,51700,10876,11,4598,7.2,5.8,7.0,Medium,"Residential, Hospitals",92,3864000,Good
+LOC_1188,Chunabhatti #39,Chunabhatti,Bhopal,23.204263,77.413723,Cafe,28300,62308,3,2196,5.5,7.9,9.6,High,"Residential, Schools",154,1201200,Excellent
+LOC_1189,MP Nagar Zone 1 #40,MP Nagar Zone 1,Bhopal,23.232014,77.431847,Pharmacy,50800,15247,1,4070,6.4,4.8,6.4,High,"Metro Station, Offices",83,1369500,Good
+LOC_1190,New Market #41,New Market,Bhopal,23.239547,77.402504,Quick Service Restaurant,69200,15017,9,9026,4.2,8.5,4.4,Medium,"Shopping Mall, High Street",194,1862400,Excellent
+LOC_1191,Hoshangabad Road #42,Hoshangabad Road,Bhopal,23.193061,77.450553,Grocery Store,71900,18755,6,3477,6.9,5.9,5.8,High,"Offices, Residential",99,2227500,Good
+LOC_1192,Indrapuri BHEL #43,Indrapuri BHEL,Bhopal,23.247005,77.475743,Grocery Store,20000,37944,3,5776,5.7,6.2,8.4,Medium,"Offices, Colleges",154,3465000,Excellent
+LOC_1193,Bairagarh #44,Bairagarh,Bhopal,23.2776,77.345153,Pharmacy,52500,9875,3,7682,10.0,8.4,6.1,Low,"Residential, Hospitals",241,3976500,Excellent
+LOC_1194,Arera Colony E-3 #45,Arera Colony E-3,Bhopal,23.214806,77.433465,Quick Service Restaurant,64500,20449,5,2843,4.5,4.5,7.3,High,"Residential, Schools",78,748800,Good
+LOC_1195,Gulmohar Colony #46,Gulmohar Colony,Bhopal,23.205735,77.434656,Cafe,46200,35223,5,2513,6.8,3.2,4.5,High,"Residential, Hospitals",77,600600,Good
+LOC_1196,Arera Colony E-3 #47,Arera Colony E-3,Bhopal,23.213477,77.420898,Co-Working Space,44200,71868,0,2308,4.4,4.8,6.4,High,"Metro Station, Offices",88,11880000,Good
+LOC_1197,Kolar Road #48,Kolar Road,Bhopal,23.17819,77.420921,Grocery Store,28100,50408,4,4593,7.5,6.3,8.7,Medium,"Residential, Schools",224,5040000,Excellent
+LOC_1198,Shahpura #49,Shahpura,Bhopal,23.210233,77.427394,Quick Service Restaurant,35100,34541,3,2666,6.7,6.2,6.6,High,"Offices, Residential",149,1430400,Excellent
+LOC_1199,Arera Colony E-3 #50,Arera Colony E-3,Bhopal,23.208322,77.421981,Cafe,48200,38952,4,3144,5.6,6.7,8.8,High,"Metro Station, Offices",130,1014000,Excellent
+LOC_1200,Karond #1,Karond,Bhopal,23.296964,77.410302,Pharmacy,21600,20326,0,1875,5.9,6.3,6.1,Low,"Transit Hub, Retail Market",56,924000,Average
